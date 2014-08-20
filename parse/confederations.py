@@ -1,9 +1,9 @@
 import datetime
 import os
 
-from soccerdata.settings import ROOT_DIR
+from metadata.settings import ROOT_DIR
 
-CONFEDERATIONS = os.path.join(ROOT_DIR, 'soccerdata/data/organizations')
+CONFEDERATIONS = os.path.join(ROOT_DIR, 'metadata/data/organizations')
 
 
 def load_confederations():

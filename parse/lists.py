@@ -6,7 +6,7 @@
 # Will need to merge into awards if we want to bring back international award data.
 # Ultimately, probably a good idea to dump this stuff into yaml.
 
-from soccerdata.data.lists import africa, argentina, asia, australia, england, europe, fifa, france, japan, korea, mls
+from metadata.data.lists import africa, argentina, asia, australia, england, europe, fifa, france, japan, korea, mls
 
 # Should create standardized processors for easy data entry.
 # Then should dump those files into yaml.
@@ -264,12 +264,12 @@ def load_mls():
 
 
 def load_oceania():
-    from soccerdata.data.lists import oceania
+    from metadata.data.lists import oceania
     return [{'year': l[0], 'name': l[2],'award': 'Oceania Player of the Year',} for l in oceania.oceania]
 
 
 def load_south_america():
-    from soccerdata.data.lists import south_america
+    from metadata.data.lists import south_america
     l = []
     l.extend(load_top_three(south_america.el_mundo, "South American Player of the Year"))
     l.extend(load_top_three(south_america.el_pais, "South American Player of the Year"))
@@ -277,7 +277,7 @@ def load_south_america():
 
 
 def load_uefa():
-    from soccerdata.data.lists import uefa
+    from metadata.data.lists import uefa
     l = []
     l.extend(load_top_three(uefa.footballer_of_the_year, "UEFA Footballer of the Year"))
     l.extend(load_top_three(uefa.best_goalkeeper, "UEFA Goalkeeper of the Year"))
@@ -288,7 +288,7 @@ def load_uefa():
 
 
 def load_world_cup():
-    from soccerdata.data.lists import world_cup
+    from metadata.data.lists import world_cup
     l = []
     l.extend(load_top_three(world_cup.golden_ball, "World Cup Golden Ball"))
     l.extend(load_top_three(world_cup.young_player, "World Cup Young Player"))
@@ -297,7 +297,7 @@ def load_world_cup():
 
 
 def load_world_soccer():
-    from soccerdata.data.lists import world_soccer
+    from metadata.data.lists import world_soccer
     l = []
     l.extend(load_simple(world_soccer.player_of_the_year, "World Soccer Player of the Year"))
     l.extend(load_simple(world_soccer.manager_of_the_year, "World Soccer Manager of the Year"))

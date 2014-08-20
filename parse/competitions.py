@@ -1,9 +1,9 @@
 
 import os
-from soccerdata.settings import ROOT_DIR
+from metadata.settings import ROOT_DIR
 
-COMPETITIONS = os.path.join(ROOT_DIR, 'soccerdata/data/competitions/definitions')
-RELATIONSHIPS = os.path.join(ROOT_DIR, 'soccerdata/data/competitions/relationships')
+COMPETITIONS = os.path.join(ROOT_DIR, 'metadata/data/competitions/definitions')
+RELATIONSHIPS = os.path.join(ROOT_DIR, 'metadata/data/competitions/relationships')
 
 def load_competitions():
 

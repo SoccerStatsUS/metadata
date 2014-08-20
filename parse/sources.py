@@ -1,8 +1,8 @@
 import os
 
-from soccerdata.settings import ROOT_DIR
+from metadata.settings import ROOT_DIR
 
-SOURCE_PATH = os.path.join(ROOT_DIR, 'soccerdata/data/sources')
+SOURCE_PATH = os.path.join(ROOT_DIR, 'metadata/data/sources')
 
 print(SOURCE_PATH)
 

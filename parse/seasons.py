@@ -2,9 +2,9 @@
 
 import os
 
-from soccerdata.settings import ROOT_DIR
+from metadata.settings import ROOT_DIR
 
-SEASON_DIR = os.path.join(ROOT_DIR, 'soccerdata/data/seasons')
+SEASON_DIR = os.path.join(ROOT_DIR, 'metadata/data/seasons')
 
 SEASONS = [
 
@@ -27,7 +27,7 @@ SEASONS = [
 
 
 def load_seasons():
-    p = os.path.join(ROOT_DIR, 'soccerdata/data/seasons/all')
+    p = os.path.join(ROOT_DIR, 'metadata/data/seasons/all')
 
     seasons = []
     for order, line in enumerate(open(p), start=1):

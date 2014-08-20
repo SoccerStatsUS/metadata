@@ -1,9 +1,9 @@
 import datetime
 import os
 
-from soccerdata.settings import ROOT_DIR
+from metadata.settings import ROOT_DIR
 
-p = os.path.join(ROOT_DIR, 'soccerdata/data/mappings/team_stadium')
+p = os.path.join(ROOT_DIR, 'metadata/data/mappings/team_stadium')
 
 
 # Eliminate this duplicate? Move to utils?

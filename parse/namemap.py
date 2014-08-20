@@ -3,7 +3,7 @@
 import datetime
 import os
 
-from soccerdata.settings import ROOT_DIR
+from metadata.settings import ROOT_DIR
 
 
 
@@ -30,7 +30,7 @@ def load():
     # Loads all files in the relevant directory.
 
 
-    PATH = os.path.join(ROOT_DIR, 'soccerdata/data/mappings/team_name')
+    PATH = os.path.join(ROOT_DIR, 'metadata/data/mappings/team_name')
     files = os.listdir(PATH)
 
     l = []

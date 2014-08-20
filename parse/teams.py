@@ -1,10 +1,10 @@
 import os
 
-from soccerdata import utils
+from metadata import utils
 
-from soccerdata.settings import ROOT_DIR
+from metadata.settings import ROOT_DIR
 
-DIR = os.path.join(ROOT_DIR, 'soccerdata/data/teams')
+DIR = os.path.join(ROOT_DIR, 'metadata/data/teams')
 
 
 def load():
@@ -12,7 +12,7 @@ def load():
     for p in utils.list_paths(DIR):
         s = p.split('/data/teams/', 1)[1] # get trailing part.
         s = s.replace('/', '.')[:-3]
-        s = "soccerdata.data.teams.%s" % s
+        s = "metadata.data.teams.%s" % s
         if '#' in s: 
             continue
         try:
@@ -57,7 +57,7 @@ def process_teams(team_module):
 
 
 def load_usa_teams():
-    from soccerdata.data.teams.usa import mls, asl, nasl, ncaa, usl, indoor
+    from metadata.data.teams.usa import mls, asl, nasl, ncaa, usl, indoor
     return process_teams(mls) + \
         process_teams(nasl) + \
         process_teams(asl) + \
@@ -67,7 +67,7 @@ def load_usa_teams():
 
 
 def load_world_teams():
-    from soccerdata.data.teams.world import asia, concacaf, conmebol, uefa
+    from metadata.data.teams.world import asia, concacaf, conmebol, uefa
     return process_teams(conmebol) + \
         process_teams(asia) + \
         process_teams(concacaf) + \

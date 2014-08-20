@@ -11,9 +11,9 @@ import os
 
 from utils import list_paths, import_path
 
-from soccerdata.settings import ROOT_DIR
+from metadata.settings import ROOT_DIR
 
-PLACES_DIR = os.path.join(ROOT_DIR, 'soccerdata/data/places')
+PLACES_DIR = os.path.join(ROOT_DIR, 'metadata/data/places')
 
 
 def load_countries():
@@ -108,7 +108,7 @@ def load_state_populations():
 
 def load_stadiums():
     print("Loading stadiums.")
-    p = os.path.join(ROOT_DIR, 'soccerdata/data/places/stadiums')
+    p = os.path.join(ROOT_DIR, 'metadata/data/places/stadiums')
     pys = [e for e in list_paths(p) if e.endswith('.py')]
     l = []
 
