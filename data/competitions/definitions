@@ -1,0 +1,331 @@
+* Domestic
+
+** world
+
+Club Rio de Janeiro; CRJ; soccer; domestic; Cup; 1; World; Earth
+FIFA Club World Cup; CWC; soccer; domestic; Cup; 1; World; Earth
+Parmalat Cup; PC; soccer; domestic; Cup; 2; World; Earth
+Mundialito; Mito; soccer; domestic; Cup; 2; World; Earth
+
+La Copita del Mundo; CdM; soccer; domestic; Cup; 2; World; Earth
+International Soccer League; ISL; soccer; domestic; League; 2; World; Earth
+Mexico City International Tournaments; MCIT; soccer; domestic; League; 2; World; Earth
+Mexico City International Tournaments Second Division; MCIT2; soccer; domestic; League; 3; World; Earth
+
+* two-team competitions
+Intercontinental Cup; IC; soccer; domestic; Cup; 2; World; Earth
+Interamerican Cup; IC; soccer; domestic; Cup; 2; World; Earth
+Recopa Sudamericana; RS; soccer; domestic; Cup; 2; World; Earth
+SURUGA Bank Championship; SBC; soccer; domestic; League; 2; World; Earth
+Pan-Pacific Championship; PPC; soccer; domestic; League; 2; World; Earth
+
+Artemio Franchi Trophy; ATC; soccer; domestic; Cup; 2; World; Earth
+
+** confederation
+
+Wantok Cup; WC; soccer; domestic; Cup; 2; Confederation; OFC
+
+Copa Rio; CR; soccer; domestic; Cup; 2; Confederation; CONMEBOL
+Copa Aldao; CA; soccer; domestic; Cup; 2; Confederation; CONMEBOL
+Copa Tie; CT; soccer; domestic; Cup; 2; Confederation; CONMEBOL
+
+South American Club Championship; SACC; soccer; domestic; Cup; 1; Confederation; CONMEBOL
+Copa Libertadores; CL; soccer; domestic; Cup; 1; Confederation; CONMEBOL
+
+Copa Sudamericana; CS; soccer; domestic; Cup; 2; Confederation; CONMEBOL
+Copa Merconorte; CMn; soccer; domestic; Cup; 2; Confederation; CONMEBOL
+Copa Mercosur; CMs; soccer; domestic; Cup; 2; Confederation; CONMEBOL
+
+Torneio Mercosul; TMs; soccer; domestic; Cup; 3; Confederation; CONMEBOL
+Copa CONMEBOL; CC; soccer; domestic; Cup; 3; Confederation; CONMEBOL
+Copa Masters CONMEBOL; CMC; soccer; domestic; Cup; 3; Confederation; CONMEBOL
+
+CONCACAF Champions League; CCL; soccer; domestic; League; 1; Confederation; CONCACAF
+CONCACAF Champions' Cup; CCC; soccer; domestic; Cup; 1; Confederation; CONCACAF
+North American SuperLiga; SL; soccer; domestic; League; 1; Confederation; CONCACAF
+
+CONCACAF Cup Winners Cup; CCWC; soccer; domestic; Cup; 2; Confederation; CONCACAF
+CONCACAF Giants Cup; CGC; soccer; domestic; Cup; 2; Confederation; CONCACAF
+
+Copa Interclubes UNCAF; UNCAF; soccer; domestic; Cup; 2; Confederation; CONCACAF
+CFU Club Championship; CFU; soccer; domestic; Cup; 2; Confederation; CONCACAF
+
+UEFA Champions League; UCL; soccer; domestic; League; 1; Confederation; UEFA
+UEFA Europa League; UEL; soccer; domestic; League; 2; Confederation; UEFA
+
+* domestic leagues.
+
+American League of Professional Football; ALPF; soccer; domestic; League; 1; Country; United States
+American Soccer League (1921-1933); ASL1; soccer; domestic; League; 1; Country; United States
+United Soccer Association; USA; soccer; domestic; League; 1; Country; United States
+North American Soccer League; NASL; soccer; domestic; League; 1; Country; United States
+Major League Soccer; MLS; soccer; domestic; League; 1; Country; United States
+
+National Women's Soccer League; NWSL; women; domestic; League; 1; Country; United States
+Women's Professional Soccer; WPS; women; domestic; League; 1; Country; United States
+Women's United Soccer Association; WUSA; women; domestic; League; 1; Country; United States
+
+Damallsvenskan; SWE1W; women; domestic; League; 1; Country; Sweden
+Championnat Féminin; FRA1W; women; domestic; League; 1; Country; France
+Frauen-Bundesliga; GER1W; women; domestic; League; 1; Country; Germany
+FA WSL; ENG1W; women; domestic; League; 1; Country; England
+W-League (Australia); AUS1W; women; domestic; League; 1; Country; Australia
+
+FA Women's Premier League; ENG1W; women; domestic; League; 2; Country; England
+
+
+
+
+Liga MX; MEX1; soccer; domestic; League; 1; Country; Mexico
+Primera Fuerza; LM; soccer; domestic; League; 1; Country; Mexico
+
+
+Liga Nacional de Guatemala; GUA1; soccer; domestic; League; 1; Country; Guatemala
+Liga Panameña de Fútbol; PAN1; soccer; domestic; League; 1; Country; Panama
+Salvadoran Primera División; SLV1; soccer; domestic; League; 1; Country; El Salvador
+Liga Nacional de Honduras; HON1; soccer; domestic; League; 1; Country; Honduras
+Primera División de Costa Rica; CRC1; soccer; domestic; League; 1; Country; Costa Rica
+Nicaraguan Primera División; NCA1; soccer; domestic; League; 1; Country; Nicaragua
+Belize Premier Football League; BLZ1; soccer; domestic; League; 1; Country; Belize
+
+Bermudian Premier Division; BER1; soccer; domestic; League; 1; Country; Bermuda
+Jamaica National Premier League; JAM1; soccer; domestic; League; 1; Country; Jamaica
+TT Pro League; TRI1; soccer; domestic; League; 1; Country; Trinidad and Tobago
+Sekshon Pagá; CUW1; soccer; domestic; League; 1; Country; Curacao
+Martinique Championnat National; MTQ1; soccer; domestic; League; 1; Country; Martinique
+
+Chilean Primera División; CHI1; soccer; domestic; League; 1; Country; Chile
+Uruguayan Primera División; URU1; soccer; domestic; League; 1; Country; Uruguay
+Argentine Primera División; ARG1; soccer; domestic; League; 1; Country; Argentina
+Brasileirão; BRA1; soccer; domestic; League; 1; Country; Brazil
+Categoría Primera A; COL1; soccer; domestic; League; 1; Country; Colombia
+Ecuadorian Serie A; ECU1; soccer; domestic; League; 1; Country; Ecuador
+Liga de Fútbol Profesional Boliviano; BOL1; soccer; domestic; League; 1; Country; Bolivia
+Peruvian Primera División; PER1; soccer; domestic; League; 1; Country; Peru
+Paraguayan Primera División; PAR1; soccer; domestic; League; 1; Country; Paraguay
+Venezuelan Primera División; VEN1; soccer; domestic; League; 1; Country; Venezuela
+
+Hyundai A-League; AUS1; soccer; domestic; League; 1; Country; Australia
+Chinese Super League; CHN1; soccer; domestic; League; 1; Country; China
+J. League Division 1; JAP1; soccer; domestic; League; 1; Country; Japan
+K League; KOR1; soccer; domestic; League; 1; Country; South Korea
+I-League; IND1; soccer; domestic; League; 1; Country; India
+Iran Pro League; IRN1; soccer; domestic; League; 1; Country; Iran
+
+Premier League; EPL; soccer; domestic; League; 1; Country; England
+Scottish Premier League; SPL; soccer; domestic; League; 1; Country; Scotland
+La Liga; ESP1; soccer; domestic; League; 1; Country; Spain
+Serie A; ITA1; soccer; domestic; League; 1; Country; Italy
+1. Bundesliga; GER1; soccer; domestic; League; 1; Country; Germany
+Austrian Bundesliga; AUS1; soccer; domestic; League; 1; Country; Austria
+Gambrinus Liga; CZE1; soccer; domestic; League; 1; Country; Czech Republic
+Belgian Pro League; BEL1; soccer; domestic; League; 1; Country; Belgium
+Superligaen; DEN1; soccer; domestic; League; 1; Country; Denmark
+Ligue 1; FRA1; soccer; domestic; League; 1; Country; France
+Nemzeti Bajnokság I; HUN1; soccer; domestic; League; 1; Country; Hungary
+Eredivisie; NED1; soccer; domestic; League; 1; Country; Netherlands
+Süper Lig; TUR1; soccer; domestic; League; 1; Country; Turkey
+Swiss Super League; SWI1; soccer; domestic; League; 1; Country; Switzerland
+Russian Premier League; RUS1; soccer; domestic; League; 1; Country; Russia
+Ukrainian Premier League; UKR1; soccer; domestic; League; 1; Country; Ukraine
+Primeira Liga; POR1; soccer; domestic; League; 1; Country; Portugal
+Ekstraklasa; POL1; soccer; domestic; League; 1; Country; Poland
+Allsvenskan; SWE1; soccer; domestic; League; 1; Country; Sweden
+Tippeligaen; NOR1; soccer; domestic; League; 1; Country; Norway
+Superleague Greece; GRE1; soccer; domestic; League; 1; Country; Greece
+Serbian SuperLiga; SRB1; soccer; domestic; League; 1; Country; Serbia
+Liga I; ROM1; soccer; domestic; League; 1; Country; Romania
+Prva HNL; CRO1; soccer; domestic; League; 1; Country; Croatia
+League of Ireland; IRL1; soccer; domestic; League; 1; Country; Ireland
+
+
+Nigerian Premier League; NIG1; soccer; domestic; League; 1; Country; Nigeria
+MTN Elite One; CAM1; soccer; domestic; League; 1; Country; Cameroon
+
+
+
+
+2. Bundesliga; GER1; soccer; domestic; League; 2; Country; Germany
+
+FA Cup; ENG-FA; soccer; domestic; Cup; 1; Country; England
+Copa del Rey; ESP1C; soccer; domestic; Cup; 1; Country; Spain
+DFB-Pokal; GER1C; soccer; domestic; Cup; 1; Country; Germany
+Coupe de France; FRA1C; soccer; domestic; Cup; 1; Country; France
+Scottish League Cup; SCO1C; soccer; domestic; Cup; 1; Country; Scotland
+KNVB Cup; NED1C; soccer; domestic; Cup; 1; Country; Netherlands
+
+Football League Cup; ENG-LC; soccer; domestic; Cup; 1; Country; England
+
+UEFA Super Cup; USC; soccer; domestic; Supercup; 2; Confederation; UEFA
+
+Copa MX; CopaMX; soccer; domestic; Cup; 1; Country; Mexico
+Campeón de Campeones; MEX-CdC; soccer; domestic; Supercup; 1; Country; Mexico
+Supercopa de España; SPA-SC; soccer; domestic; Supercup; 1; Country; Spain
+Community Shield; ENG-CS; soccer; domestic; Supercup; 1; Country; Mexico
+
+
+National Association Foot Ball League; NAFBL; soccer; domestic; League; 2; Country; United States
+Southern New England Soccer League; SNESL; soccer; domestic; League; 2; Country; United States
+
+International Soccer League (1926); ISL; soccer; domestic; League; 2; Country; United States
+North American Soccer Football League; NASFL; soccer; domestic; League; 2; Country; United States
+
+
+Eastern Soccer League (1928-1929); ESL; soccer; domestic; League; 2; Country; United States
+
+Eastern Professional Soccer Conference; ESPC; soccer; domestic; League; ; Country; United States
+* interleague between ASL2 and German-American League
+
+American Soccer League (1933-1983); ASL2; soccer; domestic; League; 2; Country; United States
+National Professional Soccer League; NPSL; soccer; domestic; League; 2; Country; United States
+United Soccer League (1984-1985); USL0; soccer; domestic; League; 2; Country; United States
+American Professional Soccer League; APSL; soccer; domestic; League; 2; Country; United States
+USL First Division; USL1; soccer; domestic; League; 2; Country; United States
+USSF Division 2 Professional League; USSFD2; soccer; domestic; League; 2; Country; United States
+North American Soccer League (2011-); NASL2; soccer; domestic; League; 2; Country; United States
+
+Women's Premier Soccer League Elite; WPSLe; women; domestic; League; 1; Country; United States
+Women's Premier Soccer League; WPSL; women; domestic; League; 2; Country; United States
+W-League; USLW; women; domestic; League; 2; Country; United States
+
+Canadian Soccer League; CSL; soccer; domestic; League; 2; Country; Canada
+Canadian National Soccer League; CSL; soccer; domestic; League; 2; Country; Canada
+
+Ascenso MX; MEX2; soccer; domestic; League; 2; Country; Mexico
+
+Campeonato Metropolitano (Argentina); ARG-BA; soccer; domestic; League; 2; City; Buenos Aires
+
+Campeonato Baiano; BRA-BA; soccer; domestic; League; 2; State; Bahia
+Campeonato Carioca; BRA-RJ; soccer; domestic; League; 2; State; Rio de Janeiro
+Campeonato Gaúcho; BRA-RS; soccer; domestic; League; 2; State; Rio Grande do Sul
+Campeonato Mineiro; BRA-MG; soccer; domestic; League; 2; State; Minas Gerais
+Campeonato Paulista; BRA-SP; soccer; domestic; League; 2; State; Sao Paulo
+Campeonato Pernambucano; BRA-PE; soccer; domestic; League; 2; State; Pernambuco
+
+Western Soccer League; WSL; soccer; domestic; League; 3; Country; United States
+USISL Select League; USISLs; soccer; domestic; League; 3; Country; United States
+USL Second Division; USL2; soccer; domestic; League; 3; Country; United States
+
+United States Interregional Soccer League; USISL; soccer; domestic; League; 4; Country; United States
+USL Premier Developmental League; PDL; soccer; domestic; League; 4; Country; United States
+
+
+Cosmopolitan Soccer League; CoSL; soccer; domestic; League; ; City; New York, NY
+Metropolitan Association Football League; MAFL; soccer; domestic; League; ; Region; New York Area
+St. Louis Soccer League; SLSL; soccer; domestic; League; ; City; St. Louis, MO
+Association Foot Ball League; AFBL; soccer; domestic; League; ; City; St. Louis, MO
+Bristol County Tournament; BCT; soccer; domestic; League; ; County; Bristol County, MA
+Lone Star Soccer Alliance; LSSA; soccer; domestic; League; ; State; Texas
+
+* Domestic Cups
+
+
+
+
+U.S. Open Cup; USOC; soccer; domestic; Cup; 1; Country; United States
+AFA Cup; AFAC; soccer; domestic; Cup; 1; Country; United States
+AAFA Cup; AAFAC; soccer; domestic; Cup; 2; Country; United States
+* amateur...
+
+The People Shield; PS; soccer; domestic; Cup; 1; Country; Canada
+Connaught Cup; CC; soccer; domestic; Cup; 1; Country; Canada
+* FA Trophy; FAT; soccer; domestic; Cup; 1; Country; Canada
+Canadian Championship; CC; soccer; domestic; Cup; 1; Country; Canada
+
+American Soccer League (1921-1933) Playoffs; ASLp; soccer; domestic; Cup; 1; Country; United States
+North American Soccer League Playoffs; NASLp; soccer; domestic; Cup; 1; Country; United States
+MLS Cup Playoffs; MLSp; soccer; domestic; Cup; 1; Country; United States
+Lewis Cup; LC; soccer; domestic; Cup; 1; Country; United States
+
+US Professional Cup; USPC; soccer; domestic; Cup; 1; Country; United States
+
+USSF Division 2 Professional League Playoffs; USSFD2p; soccer; domestic; Cup; 2; League; USSF Division 2 Professional League
+North American Soccer League (2011-) Playoffs; USSFD2p; soccer; domestic; Cup; 2; League; North American Soccer League (2011-)
+Duffy Cup; DC; soccer; domestic; Cup; 2; Country; United States
+
+American Professional Soccer League Playoffs; APSLp; soccer; domestic; Cup; 2; League; American Professional Soccer League
+APSL Professional Cup; APSLPC; soccer; domestic; Cup; 2; League; American Professional Soccer League
+
+
+Liga MX Liguilla; MEX1p; soccer; domestic; Cup; 1; Country; Mexico
+
+InterLiga; IL; soccer; domestic; League; 2; Cup; Mexico
+
+Western Soccer League Playoffs; WSLp; soccer; domestic; Cup; 3; League; American Professional Soccer League
+
+* Non-league
+
+*MLS Reserve League; MLSr; soccer; domestic; League; reserve; Country; United States
+MLS Reserve League; MLSr; soccer; domestic; League; ; Country; United States
+
+
+FIFA Confederations Cup; CC; soccer; international; Cup; 1; World; Earth
+
+Friendly; F; soccer; domestic; ; ; World; Earth
+Unofficial Friendly; UF; soccer; domestic; ; ; World; Earth
+International Friendly; IF; soccer; international; ; ; World; Earth
+
+* Indoor
+
+North American Soccer League (indoor); NASLi; indoor; domestic; League; 1; Country; United States
+
+Major Indoor Soccer League (1978-1992); MISL; indoor; domestic; League; 1; Country; United States
+Major Indoor Soccer League (2001-2008); MISL2; indoor; domestic; League; 1; Country; United States
+Major Indoor Soccer League (2008-2014); MISL3; indoor; domestic; League; 1; Country; United States
+
+National Professional Soccer League (indoor); NPSLi; indoor; domestic; League; 1; Country; United States
+
+United States Interregional Soccer League (indoor); USISLi; indoor; domestic; League; 2; Country; United States
+Continental Indoor Soccer League; CISL; indoor; domestic; League; 2; Country; United States
+World Indoor Soccer League; WISL; indoor; domestic; League; 2; Country; United States
+
+Professional Arena Soccer League; PASL; indoor; domestic; League; 3; Country; United States
+Eastern Indoor Soccer League; EISL; indoor; domestic; League; 3; Country; United States
+Xtreme Soccer League; XSL; indoor; domestic; League; 3; Country; United States
+American Indoor Soccer League; AISL; indoor; domestic; League; 3; Country; United States
+
+* International 
+
+Olympic Games; OG; soccer; international; Cup; 1; World; Earth
+Olympic Qualifying; OGq; soccer; international; Cup; 1; World; Earth
+FIFA World Cup; WC; soccer; international; Cup; 1; World; Earth
+* FIFA World Cup Qualification; WCq; soccer; international; Cup; 1; World; Earth
+FIFA U-20 World Cup; U20WC; soccer; international; Cup; 1; World; Earth
+FIFA U-17 World Cup; U17WC; soccer; international; Cup; 1; World; Earth
+
+FIFA World Cup qualification (CONCACAF); WCq; soccer; international; Cup; 1; Confederation; CONCACAF
+FIFA World Cup qualification (CONMEBOL); WCq; soccer; international; Cup; 1; Confederation; CONMEBOL
+FIFA World Cup qualification (UEFA); WCq; soccer; international; Cup; 1; Confederation; UEFA
+FIFA World Cup qualification (CAF); WCq; soccer; international; Cup; 1; Confederation; CAF
+FIFA World Cup qualification (AFC); WCq; soccer; international; Cup; 1; Confederation; AFC
+FIFA World Cup qualification (OFC); WCq; soccer; international; Cup; 1; Confederation; OFC
+
+
+* confederation
+
+Pan American Games; PAG; soccer; international; Cup; 1; Confederation; Americas
+North American Championship; NAC; soccer; international; Cup; 1; Confederation; CONCACAF
+Gold Cup; GC; soccer; international; Cup; 1; Confederation; CONCACAF
+CONCACAF Championship; CC; soccer; international; Cup; 1; Confederation; CONCACAF
+CCCF Championship; CCCF; soccer; international; Cup; 1; Confederation; CONCACAF
+
+Copa Centroamericana; CC; soccer; international; Cup; 2; Confederation; CONCACAF
+Caribbean Cup; CC; soccer; international; Cup; 2; Confederation; CONCACAF
+Central American and Caribbean Games; CACG; soccer; international; Cup; 2; Confederation; CONCACAF
+
+Copa America; CA; soccer; international; Cup; 1; Confederation; CONMEBOL
+UEFA European Championship; EURO; soccer; international; Cup; 1; Confederation; UEFA
+
+* Amateur
+
+NCAA Division I; NCAA; soccer; domestic; Cup; 0; Country; United States
+NCAA Division II; NCAA2; soccer; domestic; Cup; 0; Country; United States
+NCAA Division III; NCAA3; soccer; domestic; Cup; 0; Country; United States
+
+NCAA Division I Women's Soccer Championship; NCAAw; soccer; domestic; Cup; 0; Country; United States
+
+* Friendlies
+
+U.S. Cup; USC; soccer; international; Cup; ; World; Earth
+
+

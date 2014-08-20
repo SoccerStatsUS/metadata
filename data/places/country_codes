@@ -1,0 +1,276 @@
+* Active Country codes
+
+Afghanistan   ; AFG; AFC, SAFF
+Albania       ; ALB; UEFA, 
+Algeria       ; ALG; CAF, UNAF
+American Samoa; ASA; OFC
+Andorra ; AND; UEFA
+Angola  ; ANG; CAF, COSAFA
+Anguilla; AIA; CONCACAF
+Antigua and Barbuda   ; ATG; CONCACAF, CFU
+Argentina  ; ARG; CONMEBOL
+Armenia    ; ARM; UEFA
+Aruba      ; ARU; CONCACAF
+Australia  ; AUS; AFC
+Austria    ; AUT; UEFA
+Azerbaijan ; AZE; UEFA
+Bahamas    ; BAH; CONCACAF, CFU
+Bahrain    ; BHR; AFC, WAFF
+Bangladesh ; BAN; AFC, SAFF
+Barbados   ; BRB; CONCACAF, CFU
+Belarus    ; BLR; UEFA
+Belgium    ; BEL; UEFA
+Belize     ; BLZ; CONCACAF, UNCAF
+Benin      ; BEN; CAF, WAFU
+Bermuda    ; BER; CONCACAF
+Bhutan     ; BHU; AFC, SAFF
+Bolivia    ; BOL; CONMEBOL
+Bosnia and Herzegovina; BIH; UEFA
+Botswana  ; BOT; CAF, COSAFA
+Brazil    ; BRA; CONMEBOL
+British Virgin Islands; VGB; CONCACAF
+Brunei ; BRU; AFC, AFF
+Bulgaria      ; BUL; UEFA
+Burkina Faso  ; BFA; CAF, WAFU
+Burundi; BDI; CAF, CECAFA
+Cambodia      ; CAM; AFC, AFF
+Cameroon      ; CMR; CAF, UNIFFAC
+Canada        ; CAN; CONCACAF, NAFU
+Cape Verde    ; CPV; CAF, WAFU
+Cayman Islands; CAY; CONCACAF
+Central African Republic; CTA; CAF, UNIFFAC
+Chad   ; CHA; CAF, UNIFFAC
+Chile  ; CHI; CONMEBOL
+China PR      ; CHN; AFC, EAFF
+Chinese Taipei; TPE; AFC, EAFF
+Colombia      ; COL; CONMEBOL
+Comoros       ; COM; CAF, COSAFA
+Congo         ; CGO; CAF, UNIFFAC
+Congo DR      ; COD; CAF, UNIFFAC
+Cook Islands  ; COK; OFC
+Costa Rica    ; CRC; CONCACAF, UNCAF
+Côte d'Ivoire (Ivory Coast)   ; CIV; CAF, WAFU
+Croatia      ; CRO; UEFA
+Cuba         ; CUB; CONCACAF, CFU
+Curaçao      ; CUW; CONCACAF
+Cyprus       ; CYP; UEFA
+Czech Republic; CZE; UEFA
+Denmark       ; DEN; UEFA
+Djibouti      ; DJI; CAF, CECAFA
+Dominica      ; DMA; CONCACAF, CFU
+Dominican Republic    ; DOM; CONCACAF, CFU
+Ecuador  ; ECU; CONMEBOL
+Egypt    ; EGY; CAF, UNAF
+El Salvador   ; SLV; CONCACAF, UNCAF
+England       ; ENG; UEFA
+Equatorial Guinea     ; EQG; CAF, UNIFFAC
+Eritrea   ; ERI; CAF, CECAFA
+Estonia   ; EST; UEFA
+Ethiopia  ; ETH; CAF, CECAFA
+Faroe Islands ; FRO; UEFA
+Fiji ; FIJ; OFC
+Finland       ; FIN; UEFA
+France        ; FRA; UEFA
+Gabon         ; GAB; CAF, UNIFFAC
+Gambia        ; GAM; CAF, WAFU
+Georgia       ; GEO; UEFA
+Germany       ; GER; UEFA
+Ghana         ; GHA; CAF, WAFU
+Greece        ; GRE; UEFA
+Grenada       ; GRN; CONCACAF, CFU
+Guam          ; GUM; AFC, EAFF
+Guatemala     ; GUA; CONCACAF, UNCAF
+Guinea        ; GUI; CAF, WAFU
+Guinea-Bissau ; GNB; CAF, WAFU
+Guyana        ; GUY; CONCACAF, CFU
+Haiti         ; HAI; CONCACAF, CFU
+Honduras      ; HON; CONCACAF, CFU
+Hong Kong     ; HKG; AFC, EAFF
+Hungary       ; HUN; UEFA
+Iceland       ; ISL; UEFA
+India         ; IND; AFC, SAFF
+Indonesia     ; IDN; AFC, AFF
+Iran          ; IRN; AFC
+Iraq          ; IRQ; AFC, WAFF
+Israel        ; ISR; UEFA
+Italy         ; ITA; UEFA
+Jamaica       ; JAM; CONCACAF, CFU
+Japan         ; JPN; AFC, EAFF
+Jordan        ; JOR; AFC, WAFF
+Kazakhstan    ; KAZ; UEFA
+Kenya         ; KEN; CAF, CECAFA
+North Korea   ; PRK; AFC, EAFF
+South Korea   ; KOR; AFC, EAFF
+Kuwait        ; KUW; AFC, WAFF
+Kyrgyzstan    ; KGZ; AFC
+Laos          ; LAO; AFC, AFF
+Latvia        ; LVA; UEFA
+Lebanon       ; LIB; AFC, WAFF
+Lesotho       ; LES; CAF, COSAFA
+Liberia       ; LBR; CAF, WAFU
+Libya         ; LBY; CAF, UNAF
+Liechtenstein ; LIE; UEFA
+Lithuania     ; LTU; UEFA
+Luxembourg    ; LUX; UEFA
+Macau         ; MAC; AFC, EAFF
+Macedonia     ; MKD; UEFA
+Madagascar    ; MAD; CAF, COSAFA
+Malawi        ; MWI; CAF, COSAFA
+Malaysia      ; MAS; AFC, AFF
+Maldives      ; MDV; AFC, SAFF
+Mali          ; MLI; CAF, WAFU
+Malta         ; MLT; UEFA
+Mauritania    ; MTN; CAF
+Mauritius     ; MRI; CAF, COSAFA
+Mexico        ; MEX; CONCACAF, NAFU
+Moldova       ; MDA; UEFA
+Mongolia      ; MGL; AFC, EAFF
+Montenegro    ; MNE; UEFA
+Montserrat    ; MSR; CONCACAF, CFU
+Morocco       ; MAR; CAF, UNCAF
+Mozambique    ; MOZ; CAF, COSAFA
+Myanmar       ; MYA; AFC, AFF
+Namibia       ; NAM; CAF, COSAFA
+Nepal         ; NEP; AFC, SAFF
+Netherlands   ; NED; UEFA
+New Caledonia ; NCL; OFC
+New Zealand   ; NZL; OFC
+Nicaragua     ; NCA; CONCACAF, UNCAF
+Niger         ; NIG; CAF, WAFU
+Nigeria       ; NGA; CAF, WAFU
+Northern Ireland      ; NIR; UEFA
+Norway  ; NOR; UEFA
+Oman    ; OMA; AFC, WAFF
+Pakistan; PAK; AFC, SAFF
+Palestine     ; PLE; AFC, WAFF
+Panama        ; PAN; CONCACAF, UNCAF
+Papua New Guinea      ; PNG; OFC
+Paraguay ; PAR; CONMEBOL
+Peru     ; PER; CONMEBOL
+Philippines   ; PHI; AFC, AFF
+Poland        ; POL; UEFA
+Portugal      ; POR; UEFA
+Puerto Rico   ; PUR; CONCACAF, CFU
+Qatar ; QAT; AFC, WAFF
+Republic of Ireland   ; IRL; UEFA
+Romania ; ROU; UEFA
+Russia  ; RUS; UEFA
+Rwanda  ; RWA; CAF, CECAFA
+Saint Kitts and Nevis ; SKN; CONCACAF
+Saint Lucia; LCA; CONCACAF
+Saint Vincent and the Grenadines      ; VIN; CONCACAF, CFU
+Samoa; SAM; OFC
+San Marino    ; SMR; UEFA
+São Tomé and Príncipe ; STP; CAF, UNIFFAC
+Saudi Arabia; KSA; AFC, WAFF
+Scotland    ; SCO; UEFA
+Senegal     ; SEN; CAF, WAFU
+Serbia      ; SRB; UEFA
+Seychelles  ; SEY; CAF, COSAFA
+Sierra Leone; SLE; CAF, WAFU
+Singapore   ; SIN; AFC, AFF
+Slovakia    ; SVK; UEFA
+Slovenia    ; SVN; UEFA
+Solomon Islands       ; SOL; OFC
+Somalia; SOM; CAF, CECAFA
+South Africa  ; RSA; CAF, COSAFA
+Spain; ESP; UEFA
+Sri Lanka     ; SRI; AFC, SAFF
+Sudan         ; SDN; CAF, CECAFA
+South Sudan   ; SSD; CAF, CECAFA
+Suriname      ; SUR; CONCACAF
+Swaziland     ; SWZ; CAF, COSAFA
+Sweden        ; SWE; UEFA
+Switzerland   ; SUI; UEFA
+Syria         ; SYR; AFC, WAFF
+Tahiti        ; TAH; OFC
+Tajikistan    ; TJK; AFC
+Tanzania      ; TAN; CAF, CECAFA
+Thailand      ; THA; AFC, AFF
+Timor-Leste (East Timor)      ; TLS; AFC, AFF
+Togo       ; TOG; CAF, WAFU
+Tonga      ; TGA; OFC
+Trinidad and Tobago   ; TRI; CONCACAF, CFU
+Tunisia ; TUN; CAF, UNAF
+Turkey  ; TUR; UEFA
+Turkmenistan  ; TKM; AFC
+Turks and Caicos Islands      ; TCA; CONCACAF, CFU
+Uganda   ; UGA; CAF, CECAFA
+Ukraine  ; UKR; UEFA
+United Arab Emirates  ; UAE; AFC, WAFF
+United States         ; USA; CONCACAF
+Uruguay               ; URU; CONMEBOL
+U.S. Virgin Islands   ; VIR; CONCACAF
+Uzbekistan ; UZB; AFC
+Vanuatu    ; VAN; OFC
+Venezuela  ; VEN; CONMEBOL
+Vietnam    ; VIE; AFC, AFF
+Wales      ; WAL; UEFA
+Yemen      ; YEM; AFC, WAFF
+Zambia     ; ZAM; CAF, COSAFA
+Zimbabwe   ; ZIM; CAF, COSAFA
+
+* Non-FIFA members
+French Guiana; GYF; CONCACAF
+Guadeloupe;     GPE; CONCACAF
+Martinique;     MTQ; CONCACAF
+Réunion;        REU; CAF
+Sint Maarten;   SXM; CONCACAF
+Tuvalu;         TUV; OFC
+Zanzibar;       ZAN; CAF
+
+* Irregular codes
+Federated States of Micronesia; FSM; OFC
+Niue; NIU; OFC
+Northern Mariana Islands; NMI; AFC
+Palau; PLW; OFC
+Saint-Martin; SMT; CONCACAF
+
+* Obsolete country codes
+Aden            ; ADE; AFC
+British Guiana  ; BGU; CONCACAF
+British Honduras; BHO; CONCACAF
+British India   ; BIN; AFC
+Bohemia; BOH; UEFA
+Burma  ; BUR; AFC
+* Central African Republic      ; CAF; CAF
+Ceylon ; CEY; AFC
+Commonwealth of Independent States    ; CIS; UEFA
+Congo-Kinshasa ; CKN; CAF
+Congo-Brazzaville     ; COB; CAF
+Czechoslovakia        ; TCH; UEFA
+Dahomey               ; DAH; CAF
+Dutch East Indies     ; DEI; AFC
+
+* Removing this to avoid creating a multiple refrence.
+* Suriname  ; NGY; CONCACAF
+East Germany  ; GDR; UEFA
+Gold Coast    ; GOC; CAF
+Ireland       ; EIR; UEFA
+Netherlands Antilles  ; ANT; CONCACAF
+New Hebrides          ; HEB; OFC
+North Borneo          ; NBO; AFC
+North Vietnam         ; VNO; AFC
+North Yemen           ; NYE; AFC
+Northern Rhodesia     ; NRH; CAF
+Palestine/Eretz Israel; PAL; AFC
+Rhodesia       ; RHO; CAF
+Saar           ; SAA; UEFA
+Serbia and Montenegro ; SCG; UEFA
+Siam  ; SIA; AFC
+Southern Rhodesia     ; SRH; CAF
+South Vietnam         ; VSO; AFC
+South Yemen           ; SYE; AFC
+Soviet Union          ; URS; UEFA
+* Sudan ; SUD; CAF
+Tanganyika    ; TAA; CAF
+Taiwan        ; TAI; AFC
+United Arab Republic  ; UAR; AFC
+* Not sure?
+
+Upper Volta; UPV; CAF
+West Germany  ; FRG; UEFA
+Western Samoa ; WSM; OFC
+Yugoslavia    ; YUG; UEFA
+Zaire         ; ZAI; CAF
+Great Britain        ; GBR; UEFA

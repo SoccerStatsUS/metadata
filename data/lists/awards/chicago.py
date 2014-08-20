@@ -1,0 +1,67 @@
+#!/usr/local/bin/env python
+# -*- coding: utf-8 -*-
+
+
+d = {
+    'competition': 'National Soccer League (Chicago)',
+    'team_data': ['Champion'],
+
+
+    'Champion': [
+        ('1922', 'Sparta Union'),
+        ('1923', 'Olympia'),
+        ('1928', 'Chicago Sparta'),
+        ('1929', 'Chicago Sparta'),
+        ('1930', 'Chicago Sparta'),
+        ('1931', 'Chicago Sparta'),
+        ('1932', 'Chicago Sparta'),
+        ('1933', 'Chicago Sparta'),
+        ('1934', 'Chicago Sparta'),
+        ('1935', 'Chicago Sparta'),
+        ('1936', 'Chicago Sparta'),
+
+        ('1938', 'Chicago Sparta'),
+        ('1944', 'Hakoah Center'),
+        ('1948', 'Vikings'),
+        ('1949', 'AAC Eagles'),
+        ('1950', 'AAC Eagles'),
+        ('1951', 'Slovak'),
+        ('1952', 'Slovak'),
+        ('1953', 'Ukrainian Lions'),
+        ('1954', 'AAC Eagles'),
+        ('1954', 'Ukrainian Lions'),
+        ('1954', 'Slovak'),
+        ('1955', 'Chicago Schwaben'),
+        ('1956', 'AAC Eagles'),
+        ('1956', 'Ukrainian Lions'),
+        ('1956', 'Chicago Schwaben'),
+        ('1957', 'Chicago Schwaben'),
+        ('1958', 'Chicago Schwaben'),
+        ('1959', 'Chicago Schwaben'),
+        ('1960', 'Chicago Schwaben'),
+        ('1961', 'Chicago Maroons'),
+        ('1962', 'Chicago Maroons'),
+        ('1963', 'Chicago Schwaben'),
+        ('1964', 'Chicago Kickers'),
+        ('1965', 'Hansa'),
+        ('1966', 'Chicago Kickers'),
+        ('1967', 'Chicago Schwaben'),
+        ('1968', 'Chicago Kickers'),
+        ('1969', 'Olympic'),
+        ('1970', 'Olympic'),
+        ('1971', 'Croatian'),
+        ('1971', 'Ukrainian Lions'),
+        ('1972', 'Ukrainian Lions'),
+        ('1972', 'Chicago Maroons'),
+        ('1973', 'Croatian'),
+        ('1974', 'Ukrainian Lions'),
+        ('1982', 'Chicago Schwaben'),
+        ('1990', 'Chicago Schwaben'),
+        ('2004', 'Winged Bull'),
+        ('2005', 'Jahbat FC'),
+        ('2006', 'RWB Adria'),
+        ('2007', 'RWB Adria'),
+
+        ],
+
+}
