@@ -390,6 +390,8 @@ l = [
         'dissolved': 1996,
         },
 
+
+
     {
         'name': 'Staten Island Vipers',
         'city': 'Staten Island, NY',
@@ -404,6 +406,12 @@ l = [
         'founded': 1996,
         },
 
+    {
+        'name': 'New York Freedom',
+        'city': 'New York, NY',
+        'founded': 1999,
+        'dissolved': 2003,
+        },
 
     {
         'name': 'Westchester Flames',

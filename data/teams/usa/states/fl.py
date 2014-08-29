@@ -288,4 +288,13 @@ l = [
         'founded': 1993,
         'founded': 1993,
         },
+
+
+    {
+        'name': 'Copa Latina All Stars',
+        'city': 'Miami, FL',
+        # one-off team for game in 2012.
+    },
+
+
 ]

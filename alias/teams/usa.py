@@ -2,8 +2,13 @@
 usa = {
     'MLS Project 40': 'Project-40',
     'MLS Project 40': 'Project-40',
+    'Pro-40': 'Project-40',
     #'Nike Project-40': 'Project-40',
     #'Generation adidas': 'Project-40', # name map
+
+    'South Florida Future': 'South Florida Flamingos', # name map
+
+    'Stanislaus United Cruisers': 'Stanislaus County Cruisers',
 
     'Portland Timbers U-23': 'Portland Timbers U-23s', 
 
@@ -182,6 +187,8 @@ usa = {
     'Puget Sound BigFoot': 'Seattle BigFoot', # name map
     'Puget Sound Hammers': 'Seattle BigFoot', # name map
     'Everett Bigfoot': 'Everett BigFoot',
+    'Everett BigFoot': 'Seattle BigFoot',
+
 
 
     'North Jersey Dragons': 'Jersey Dragons',

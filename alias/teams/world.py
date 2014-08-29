@@ -1303,7 +1303,7 @@ world = {
 
     'CD Feirense': 'Feirense',
 
-    #'CD Nacional': 
+
 
 
 
@@ -5428,6 +5428,9 @@ world = {
 
     'El Nacional (Ecuador)': 'CD El Nacional',
     'Nacional (Ecuador)': 'CD El Nacional',
+    'El Nacional': 'CD El Nacional',
+    'El Nacional (Quito)': 'CD El Nacional',
+
 
     'Valdez S.C.': 'Valdez SC',
     'LDU (Quito)': 'LDU Quito',
@@ -5436,8 +5439,6 @@ world = {
     'Aucas': 'SD Aucas',
     'Barcelona -- Ecuador': 'Barcelona Sporting Club',
     'Barcelona (Ecuador)': 'Barcelona Sporting Club',
-    'El Nacional': 'CD El Nacional',
-    'El Nacional (Quito)': 'CD El Nacional',
     'LDU (Quito)': 'LDU Quito',
     'Olmedo (Riobamba)': 'CD Olmedo',
     'Everest': 'CD Everest',
@@ -5822,8 +5823,8 @@ world = {
     'CS Uruguay (Coronado)': 'Uruguay de Coronado',
     'Uruguay (Coronado)': 'Uruguay de Coronado',
 
-    'Nacional De Uruguay': 'Nacional',
-    'CA Nacional': 'Nacional',
+    'Nacional De Uruguay': 'CA Nacional',
+    #'CA Nacional': 'Nacional',
 
     'C.U.R.C.C.': 'CURCC',
 
@@ -5911,12 +5912,12 @@ world = {
     'Liverpool FC (Montevideo)': 'Liverpool (Montevideo)',
     'Liverpool (Uruguay)': 'Liverpool (Montevideo)',
 
-    'C Nacional dF': 'Nacional',
-    'Nacional de Montevideo': 'Nacional',
-    'Club Nacional de Football': 'Nacional',
-    'Nacional -- Uruguay': 'Nacional',
-    'Nacional (Montevideo)': 'Nacional',
-    'Nacional (Uruguay)': 'Nacional',
+    'C Nacional dF': 'CA Nacional',
+    'Nacional de Montevideo': 'CA Nacional',
+    'Club Nacional de Football': 'CA Nacional',
+    'Nacional -- Uruguay': 'CA Nacional',
+    'Nacional (Montevideo)': 'CA Nacional',
+    'Nacional (Uruguay)': 'CA Nacional',
 
     'Penarol': 'Peñarol',
     'CA Peñarol': 'Peñarol',

@@ -1052,7 +1052,7 @@ basic = {
 
     'Elwood Cook': 'Butch Cook',
 
-    'Camilo': 'Camilo Sanvezzo', # too broad.
+    #'Camilo': 'Camilo Sanvezzo', # too broad.
 
     #'Palva': 
     'P.Alva': 'P. Alva',
@@ -4808,7 +4808,7 @@ basic = {
     'Alex Archibald': 'Sandy Archibald',
     'Boki Bandovic': 'Božidar Bandović',
     'Kevin Oneykachi Amuneke': 'Kevin Amuneke',
-    'Paulinho Guara': 'Paulinho Guára',
+
 
 
     '"Fabiano" Medina da Silva': 'Fabiano Medina da Silva',
@@ -4991,7 +4991,7 @@ basic = {
     'Ronaldo de Assís Moreira "Ronaldinho"': 'Ronaldinho',
     'Robson de Souza "Robinho"': 'Robinho',
     'Maximiliano "Maxi" Lopez': 'Maxi Lopez',
-    'Paulo Sergio Betanin "Paulinho"': 'Paulinho',
+
     'De Morais Marcos Evangelista "Cafu"': 'Cafu',
     'Lucimar Ferreira da Silva "Lucio"': 'Lucio',
 
@@ -10744,9 +10744,15 @@ basic = {
     'Ely James Allen': 'Ely Allen',
     'Joshua Randolph Hansen': 'Josh Hansen',
     'Mike Anthony Ambersley': 'Mike Ambersley',
+
+    '\'Paulinho\'': 'Paulinho',
+    'Paulinho Guara': 'Paulinho Guára',
+
     'Paulo Rocha "Paulinho"': 'Paulinho Criciúma',
-    'Paulinho': 'Paulinho Criciúma',
     'Paulinho Criciuma': 'Paulinho Criciúma',
+
+    'Paulo Sergio Betanin "Paulinho"': 'Paulo Sergio Betanin',
+
     'Tom Reasoner': 'Tommy Reasoner',
     'Waldir': 'Waldir Sáenz',
     'Andre Taurean Manders': 'Taurean Manders',

@@ -27,6 +27,8 @@ l = [
         'city': 'Toronto, ON',
         },
 
+
+
     {
         'name': 'Calgary United FC',
         'founded': 2007,
@@ -114,6 +116,13 @@ l = [
         'name': 'Vancouver Whitecaps',
         'founded': datetime.datetime(1973, 12, 11),
         'city': 'Vancouver, BC',
+        },
+
+    {
+        'name': 'Toronto Rockets',
+        'founded': 1994,
+        'dissolved': 1994,
+        'city': 'Toronto, ON',
         },
 
     {

@@ -424,7 +424,7 @@ l = [
         },
 
     {
-        'name': 'Stanislaus United Cruisers',
+        'name': 'Stanislaus County Cruisers',
         'city': 'Modesto, CA',
         'founded': 1997,
         'dissolved': 2001,
