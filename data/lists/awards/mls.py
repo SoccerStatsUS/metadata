@@ -29,6 +29,7 @@ d = {
         (2011, 'Los Angeles Galaxy'),
         (2012, 'San Jose Earthquakes'),
         (2013, 'New York Red Bulls'),
+        (2014, 'Seattle Sounders'),
         ],
 
 
@@ -533,6 +534,7 @@ mlsrl = {
         (2011, 'Columbus Crew Reserves'),
         (2012, 'Columbus Crew Reserves'),
         (2013, 'Los Angeles Galaxy Reserves'),
+        (2014, 'Chicago Fire Reserves'),
         ],
 
 }

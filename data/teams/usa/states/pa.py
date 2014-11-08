@@ -321,6 +321,11 @@ l = [
         },
 
     {
+        'name': 'Pittsburgh Riverhounds U23',
+        'city': 'Pittsburgh, PA',
+        },
+
+    {
         'name': 'Harrisburg City Islanders',
         'city': 'Harrisburg, PA',
         'founded': 2004,

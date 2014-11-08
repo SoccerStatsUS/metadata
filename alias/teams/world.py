@@ -1,5 +1,8 @@
 world = {
 
+    'SAP': 'SAP FC',
+    'Hitachi Centre SAP FC': 'SAP FC',
+
     'Supersport United': 'SuperSport United',
 
     'Vancouver Whitecaps U23': 'Vancouver Whitecaps U-23',
@@ -2553,7 +2556,10 @@ world = {
     'Daytona Tigers': 'Orlando Nighthawks',#name map
     'Lancaster Rattlers': 'FC Santa Clarita', #name map
     'Lafayette Lightning': 'Austin Lightning',#name map
+
     'Hamilton Rage': 'K-W United FC',#name map
+    'K-W United': 'K-W United FC',
+
     'Grand Rapids Explosion': 'West Michigan Edge',#name map
     'West Michigan Explosion': 'West Michigan Edge',#name map
     'Abbotsford Mariners': 'Fraser Valley Mariners', #name map

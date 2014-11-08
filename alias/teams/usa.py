@@ -1,5 +1,8 @@
 
 usa = {
+
+    'Mississippi Brilla FC': 'Mississippi Brilla',
+
     'MLS Project 40': 'Project-40',
     'MLS Project 40': 'Project-40',
     'Pro-40': 'Project-40',
@@ -55,7 +58,8 @@ usa = {
 
     'Wilmington Hammerheads FC': 'Wilmington Hammerheads',
     'Sacramento Republic FC': 'Sacramento Republic',
-    'Orange County Blues FC': 'Orange County Blues',
+
+
 
     'OKC Energy': 'Oklahoma City Energy',
     'OKC Energy FC': 'Oklahoma City Energy',
@@ -163,7 +167,11 @@ usa = {
 
     'OC Blues Strikers': 'OC Blues Strikers FC', # Pali Blues
     
+
+    'West Texas Sockers': 'West Texas United Sockers',
     'West Texas United Sockers': 'Midland/Odessa Sockers',
+    'Midland/Odessa Sockers FC': 'Midland/Odessa Sockers',
+
 
     'El Paso Indios USA - USASA': 'El Paso Indios',
     'Danbury United - USASA': 'Danbury United',
@@ -513,8 +521,10 @@ usa = {
 
     'Los Angeles Blues 23': 'Pali Blues',
 
+    'Orange County Blues FC': 'Orange County Blues',
     'LA Blues': 'Los Angeles Blues',
     'Los Angeles Blues': 'Orange County Blues',
+    'OC Pateadores Blues': 'Orange County Blues',
 
     'MPS Portlnad Phoenix': 'GPS Portland Phoenix',
 
@@ -523,7 +533,10 @@ usa = {
 
     'Tacoma Tide': 'Sounders FC U23',
     'Sounders FC U23': 'Seattle Sounders FC U-23',
-    'West Texas Sockers': 'West Texas United Sockers',
+
+    'Seattle Sounders FC Reserves': 'Seattle Sounders Reserves',
+
+
     'Panama City Pirates': 'Panama City Beach Pirates',
     'Dwayne Demmin': 'Dwyane Demmin',
     

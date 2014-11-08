@@ -11,7 +11,7 @@ import re
 
 from metadata.settings import ROOT_DIR
 
-DRAFTS_DIR = os.path.join(ROOT_DIR, 'metadata/data/transactions/drafts')
+DRAFTS_DIR = os.path.join(ROOT_DIR, 'soccerdata/data/transactions/drafts')
 
 DRAFTS = [
 

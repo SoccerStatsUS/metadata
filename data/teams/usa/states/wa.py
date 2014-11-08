@@ -114,8 +114,6 @@ l = [
         'founded': 1989,
         },
 
-
-
     {
         'name': 'Seattle Sounders FC U-23',
         'city': 'Seattle, WA',
