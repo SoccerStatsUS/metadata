@@ -6,36 +6,42 @@ usl_pro = {
         (2011, 'Orlando City'),
         (2012, 'Charleston Battery'),
         (2013, 'Orlando City'),
+        (2014, 'Sacramento Republic'),
         ],
 
     'MVP': [
         (2011, 'Yordany Alvarez'),
         (2012, 'Kevin Molino'),
         (2013, 'Jose Angulo'),
+        (2014, 'Kevin Molino'),
         ],
        
     'Rookie of the Year': [
         (2011, 'Luke Mulholland'),
         (2012, 'Jose Cuevas'),
         (2013, 'Nate Robinson'),
+        (2014, 'John McCarthy'),
         ],
 
     'Coach of the Year': [
         (2011, 'Adrian Heath'),
         (2012, 'Adrian Heath'),
         (2013, 'Leigh Cowlishaw'),
+        (2014, 'Preki'),
         ],
 
     'Defender of the Year': [
         (2011, 'Rob Valentino'),
         (2012, 'Troy Roberts'),
         (2013, 'Colin Falvey'),
+        (2014, 'Nemanja Vukovic'),
         ],
 
     'Goalkeeper of the Year': [
         (2011, 'Miguel Gallardo'),
         (2012, 'Kristian Nicht'),
         (2013, 'Andrew Dykstra'),
+        (2014, 'John McCarthy'),
         ],
 
     'All-League First Team': [
@@ -79,6 +85,20 @@ usl_pro = {
                 'Jose Angulo',
                 'Dom Dwyer',
                 'Sainey Touray',
+                ]),
+
+        (2014, [
+                'John McCarthy',
+                'Luke Boden',
+                'Ashani Fairclough',
+                'Nemanja Vukovic',
+                'William Yomby',
+                'George Davis IV',
+                'Rodrigo Lopez',
+                'Kevin Molino',
+                'Matthew Delicate',
+                'Chandler Hoffman',
+                'Dane Kelly',
                 ]),
 
         ],
@@ -128,6 +148,20 @@ usl_pro = {
                 'Lucky Mkosana',
                 ]),
 
+        (2014, [
+                'Joe Willis',
+                'Matt Bahner',
+                'Gareth Evans',
+                'Brad Rusin',
+                'Daniel Steres',
+                'Andre Auras',
+                'Jorge Herrera',
+                'Allan Russell',
+                'J.C. Banks',
+                'Aaron Schoenfeld',
+                'Long Tan',
+                ]),
+
         ],
 
 
@@ -170,6 +204,7 @@ nasl2 = {
         (2013, 'New York Cosmos'),
         #('2013 Spring', 'Atlanta Silverbacks'),
         #('2013 Fall', 'New York Cosmos'),
+        (2014, 'San Antonio Scorpions'),
         ],
 
     'Fair Play Award': [
@@ -179,18 +214,25 @@ nasl2 = {
         
     'Coach of the Year': [
         (2013, 'Brian Haynes'),
+        (2014, 'Manny Lagos',
             ],
 
     'MVP': [
         (2011, 'Etienne Barbara'),
         (2012, 'Pablo Campos'),
         (2013, 'Georgi Hristov'),
+        (2014, 'Miguel Ibarra'),
         ],
 
     'Goalkeeper of the Year': [
         (2011, 'Evan Bush'),
         (2012, 'Daryl Sattler'),
         (2013, 'Kyle Reynish'),
+        (2014, 'John Smits'),
+        ],
+
+    'Young Player of the Year': [
+        (2014, 'Christian Ramirez'),
         ],
 
        
@@ -236,6 +278,20 @@ nasl2 = {
                 'Georgi Hristov',
                 'Brian Shriver',
                 'Hans Denissen',
+                ]),
+
+        (2014, [
+                'Jimmy Maurer',
+                'Tiago Calvano',
+                'Justin Davis',
+                'Darnell King',
+                'Carlos Mendes',
+                'Miguel Ibarra',
+                'Rafael Castillo',
+                'Lance Laing',
+                'Walter Restrepo',
+                'Fafa Picault',
+                'Christian Ramirez',
                 ]),
 
         ],
