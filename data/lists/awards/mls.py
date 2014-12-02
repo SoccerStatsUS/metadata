@@ -9,7 +9,6 @@ d = {
     'team_data': ['Supporters\' Shield',],
     'champion': 'Supporters\' Shield',
 
-
     'Supporters\' Shield': [
         (1996, 'Tampa Bay Mutiny'),
         (1997, 'D.C. United'),
@@ -32,26 +31,25 @@ d = {
         (2014, 'Seattle Sounders'),
         ],
 
-
     'MVP': [
-        (2013, 'Mike Magee'),
-        (2012, 'Chris Wondolowski'),
-        (2011, 'Dwayne De Rosario'),
-        (2010, 'David Ferreira'),
-        (2009, 'Landon Donovan'),
-        (2008, 'Guillermo Barros Schelotto'),
-        (2007, 'Luciano Emilio'),
-        (2006, 'Christian Gómez'),
-        (2005, 'Taylor Twellman'),
-        (2004, 'Amado Guevara'),
-        (2003, 'Preki'),
-        (2002, 'Carlos Ruíz'),
-        (2001, 'Alex Pineda Chacón'),
-        (2000, 'Tony Meola'),
-        (1999, 'Jason Kreis'),
-        (1998, 'Marco Etcheverry'),
-        (1997, 'Preki'),
         (1996, 'Carlos Valderrama'),
+        (1997, 'Preki'),
+        (1998, 'Marco Etcheverry'),
+        (1999, 'Jason Kreis'),
+        (2000, 'Tony Meola'),
+        (2001, 'Alex Pineda Chacón'),
+        (2002, 'Carlos Ruíz'),
+        (2003, 'Preki'),
+        (2004, 'Amado Guevara'),
+        (2005, 'Taylor Twellman'),
+        (2006, 'Christian Gómez'),
+        (2007, 'Luciano Emilio'),
+        (2008, 'Guillermo Barros Schelotto'),
+        (2009, 'Landon Donovan'),
+        (2010, 'David Ferreira'),
+        (2011, 'Dwayne De Rosario'),
+        (2012, 'Chris Wondolowski'),
+        (2013, 'Mike Magee'),
         ],
     
     'Coach of the Year': [
@@ -73,6 +71,7 @@ d = {
         (2011, 'Bruce Arena'),
         (2012, 'Frank Yallop'),
         (2013, 'Caleb Porter'),
+        (2014, 'Ben Olsen'),
         ],
 
     'Defender of the Year': [
@@ -94,6 +93,7 @@ d = {
         (2011, 'Omar Gonzalez'),
         (2012, 'Matt Besler'),
         (2013, 'Jose Goncalves'),
+        (2014, 'Chad Marshall'),
         ],
 
     'Rookie of the Year': [
@@ -115,6 +115,7 @@ d = {
         (2011, 'C.J. Sapong'),
         (2012, 'Austin Berry'),
         (2013, 'Dillon Powers'),
+        (2014, 'Tesho Akindele'),
         ],
 
     'Newcomer of the Year': [
@@ -142,6 +143,7 @@ d = {
         (2011, 'David Beckham'),
         (2012, 'Eddie Johnson'),
         (2013, 'Kevin Alston'),
+        (2014, 'Rodney Wallace'),
         ],
 
     'Fair Play Award': [
@@ -162,6 +164,7 @@ d = {
         (2011, 'Sebastien Le Toux'),
         (2012, 'Logan Pause'),
         (2013, 'Darlington Nagbe'),
+        (2014, 'Michael Parkhurst'),
         ],
 
     'Humanitarian of the Year': [
@@ -181,6 +184,7 @@ d = {
         (2011, 'Zak Boggs'),
         (2012, 'Chris Seitz'),
         (2013, 'Matt Reis'),
+        (2014, 'AJ DeLaGarza'),
         ],
 
     'Referee of the Year': [
@@ -201,6 +205,7 @@ d = {
         (2011, 'Mark Geiger'),
         (2012, 'Silviu Petrescu'),
         (2013, 'Hilario Grajeda'),
+        (2014, 'Mark Geiger'),
         ],
 
     'Assistant Referee of the Year': [
@@ -463,6 +468,20 @@ d = {
                 'Marco Di Vaio',
                 'Robbie Keane',
                 'Mike Magee',
+                ]),
+
+        (2014, [
+                'Bill Hamid',
+                'Chad Marshall',
+                'Bobby Boswell',
+                'Omar Gonzalez',
+                'Diego Valeri',
+                'Lee Nguyen',
+                'Landon Donovan',
+                'Obafemi Martins',
+                'Robbie Keane',
+                'Thierry Henry',
+                'Bradley Wright-Phillips',
                 ]),
          
 
