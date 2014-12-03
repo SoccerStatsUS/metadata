@@ -96,6 +96,28 @@ d = {
         (2014, 'Chad Marshall'),
         ],
 
+    'Goalkeeper of the Year': [
+        (1996, 'Mark Dodd'),
+        (1997, 'Brad Friedel'),
+        (1998, 'Zach Thornton'),
+        (1999, 'Kevin Hartman'),
+        (2000, 'Tony Meola'),
+        (2001, 'Tim Howard'),
+        (2002, 'Joe Cannon'),
+        (2003, 'Pat Onstad'),
+        (2004, 'Joe Cannon'),
+        (2005, 'Pat Onstad'),
+        (2006, 'Troy Perkins'),
+        (2007, 'Brad Guzan'),
+        (2008, 'Jon Busch'),
+        (2009, 'Zach Thornton'),
+        (2010, 'Donovan Ricketts'),
+        (2011, 'Kasey Keller'),
+        (2012, 'Jimmy Nielsen'),
+        (2013, 'Donovan Ricketts'),
+        (2014, 'Bill Hamid'),
+        ],
+
     'Rookie of the Year': [
         (1996, 'Steve Ralston'),
         (1997, 'Mike Duhaney'),
