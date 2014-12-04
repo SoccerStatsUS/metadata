@@ -50,6 +50,7 @@ d = {
         (2011, 'Dwayne De Rosario'),
         (2012, 'Chris Wondolowski'),
         (2013, 'Mike Magee'),
+        (2014, 'Robbie Keane'),
         ],
     
     'Coach of the Year': [
@@ -148,6 +149,7 @@ d = {
         (2011, 'Mauro Rosales'),
         (2012, 'Federico Higuaín'),
         (2013, 'Diego Valeri'),
+        (2014, 'Pedro Morales'),
         ],
 
     'Comeback Player of the Year': [
@@ -235,6 +237,9 @@ d = {
         (2009, 'Gregory Barkey'),
         (2010, 'Craig Lowry'),
         (2011, 'Corey Rockwell'),
+        (2012, 'Ian Anderson'),
+        (2013, 'Kermit Quisenberry'),
+        (2014, 'Paul Scott'),
         ],
 
 
