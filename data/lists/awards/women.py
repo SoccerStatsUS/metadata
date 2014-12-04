@@ -12,6 +12,7 @@ wusa = {
         ('2002', 'Carolina Courage'),
         ('2003', 'Washington Freedom'),
         ],
+
     'MVP': [
         ('2001', 'Tiffeny Milbrett'),
         ('2002', 'Marinette Pichon'),
@@ -146,26 +147,62 @@ nwsl = {
 
     'Champion': [
         ('2013', 'Portland Thorns'),
+        ('2014', 'FC Kansas City'),
         ],
 
     'MVP': [
         ('2013', 'Lauren Holiday'),
+        ('2014', 'Kim Little'),
         ],
 
     'Rookie of the Year': [
         ('2013', 'Erika Tymrak'),
+        ('2014', 'Julie Johnston'),
         ],
 
     'Defender of the Year': [
         ('2013', 'Becky Sauerbrunn'),
+        ('2014', 'Becky Sauerbrunn'),
         ],
 
     'Goalkeeper of the Year': [
         ('2013', 'Nicole Barnhart'),
+        ('2014', 'Alyssa Naeher'),
         ],
 
     'Coach of the Year': [
         ('2013', 'Vlatko Andonovski'),
+        ('2014', 'Laura Harvey'),
+        ],
+
+    'Best XI': [
+        (2013, [
+                'Nicole Barnhart',
+                'Christie Rampone',
+                'Leigh Ann Robinson',
+                'Becky Sauerbrunn',
+                'Brittany Taylor',
+                'Lori Chalupny',
+                'Jess Fishlock',
+                'Lauren Holiday',
+                'Diana Matheson',
+                'Sydney Leroux',
+                'Abby Wambach',
+                ]),
+
+        (2014, [
+                'Alyssa Naeher',
+                'Kendall Fletcher',
+                'Ali Krieger',
+                'Christie Rampone',
+                'Becky Sauerbrunn',
+                'Vero Boquete',
+                'Jess Fishlock',
+                'Kim Little',
+                'Lauren Holiday',
+                'Nahomi Kawasumi',
+                'Amy Rodriguez',
+                ]),
         ],
 
 }

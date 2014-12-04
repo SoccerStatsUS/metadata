@@ -7,6 +7,7 @@ d = {
     'team_data': ['Champion'],
 
     'Champion': [
+        (2014, 'Seattle Sounders'),
         (2013, 'DC United'),
         (2012, 'Sporting Kansas City'),
         (2011, 'Seattle Sounders'),
