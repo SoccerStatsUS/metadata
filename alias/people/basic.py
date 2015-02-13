@@ -1,5 +1,9 @@
 
 basic = {
+
+    'Giorgia Chinaglia': 'Giorgio Chinaglia',
+    'Giorigio Chinaglia': 'Giorgio Chinaglia',
+    'Giorio Chinaglia': 'Giorgio Chinaglia',
     
     'Amir KhalifehAsl': 'Amir Khalifeh-Asl',
 
