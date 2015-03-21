@@ -6,10 +6,10 @@ import datetime
 
 l = [
 
-    {
-        'name': 'Southwestern College',
-        'location': 'Chula Vista, CA',
-        },
+#    {
+#        'name': 'Southwestern College',
+#        'location': 'Chula Vista, CA',
+#        },
 
     {
         'name': 'Stan Canaris Stadium',
@@ -427,6 +427,16 @@ l = [
         'capacity': 30456, 
         'cost': None, 
         'opened': 1933,
+        },        
+
+    {
+        'name': 'Avaya Stadium',
+        'address': '1123 Coleman Avenue',
+        'location': 'San Jose, CA',
+        'capacity': 18000,
+        'cost': 100000000,
+        'opened': datetime.datetime(2015, 3, 22),
+        'architect': '360 Architecture',
         },        
 
     {
