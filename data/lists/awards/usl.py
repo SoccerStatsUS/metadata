@@ -214,7 +214,7 @@ nasl2 = {
         
     'Coach of the Year': [
         (2013, 'Brian Haynes'),
-        (2014, 'Manny Lagos',
+        (2014, 'Manny Lagos'),
             ],
 
     'MVP': [
