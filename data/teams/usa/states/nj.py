@@ -44,6 +44,26 @@ l = [
         },
 
     {
+        'name': 'Newark F.C.',
+        'city': 'Newark, NJ',
+        },
+
+    {
+        'name': 'Watsessing FC', # Watsessing Park, presumably?
+        'city': 'Bloomfield, NJ',
+        },
+
+    {
+        'name': 'East Newark Irish American FC',
+        'city': 'East Newark, NJ',
+        },
+
+    {
+        'name': 'East Newark Scottish-American FC',
+        'city': 'East Newark, NJ',
+        },
+
+    {
         'name': 'Newark Ironsides',
         'city': 'Newark, NJ',
         },
@@ -69,6 +89,11 @@ l = [
     {
         'name': 'Paterson Rangers',
         'city': 'Paterson, NJ',
+        },
+
+    {
+        'name': 'Passaic Swedish AC',
+        'city': 'Passaic, NJ',
         },
 
 
@@ -400,12 +425,27 @@ l = [
         },
 
     {
+        'name': 'Bayonne FC',
+        'city': 'Bayonne, NJ',
+        },
+
+    {
+        'name': 'Bayonne Rovers',
+        'city': 'Bayonne, NJ',
+        },
+
+    {
         'name': 'Centreville AC',
         'city': 'Bayonne, NJ',
         },
 
     {
         'name': 'West Hudson A.A.',
+        'city': 'West Hudson, NJ',
+        },
+
+    {
+        'name': 'West Hudson Juniors',
         'city': 'West Hudson, NJ',
         },
 

@@ -39,6 +39,11 @@ l = [
         },
 
     {
+        'name': 'Hartford Rovers',
+        'city': 'Hartford, CT',
+        },
+
+    {
         'name': 'Connecticut FC Azul',
         'city': 'Hamden, CT',
         'founded': 2011,
@@ -72,7 +77,57 @@ l = [
         },
 
     {
+        'name': 'Bridgeport St. George',
+        'city': 'Bridgeport, CT',
+        },
+
+    {
+        'name': 'Bridgeport Rovers',
+        'city': 'Bridgeport, CT',
+        },
+
+    {
+        'name': 'Bridgeport Rangers',
+        'city': 'Bridgeport, CT',
+        },
+
+    {
+        'name': 'Bridgeport City',
+        'city': 'Bridgeport, CT',
+        },
+
+    {
+        'name': 'Bridgeport Presbyterian SC',
+        'city': 'Bridgeport, CT',
+        },
+
+    {
+        'name': 'Bridgeport Swedish AC',
+        'city': 'Bridgeport, CT',
+        },
+
+    {
+        'name': 'Naugatuck FC',
+        'city': 'Naugatuck, CT',
+        },
+
+    {
+        'name': 'Plainfield FC',
+        'city': 'Plainfield, CT',
+        },
+
+    {
         'name': 'Olympia Stamford',
+        'city': 'Stamford, CT',
+        },
+
+    {
+        'name': 'Ansonia FC',
+        'city': 'Ansonia, CT',
+        },
+
+    {
+        'name': 'Stamford Danersk',
         'city': 'Stamford, CT',
         },
 

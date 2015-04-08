@@ -1,6 +1,59 @@
 
 usa = {
 
+    
+    'Greystone B.': 'Greystone B',
+
+    'Philadelphia Wanderers FC': 'Philadelphia Wanderers',
+
+    'Clan MacDonald FC': 'Clan MacDonald',
+    'Clan MacDuff FC': 'Clan MacDuff',
+    'Clan McPherson FC': 'Clan McPherson',
+    'British American FC': 'British American',
+
+    'General Electric (Erie)': 'Erie General Electric',
+
+    'Mamaronek FC': 'Mamaroneck',
+
+    'British Canadians': 'British Canadian FC',
+    
+    'Br.-Americans': 'British-Americans',
+
+    'Veteran AA FC': 'Veteran AA',
+
+    'Schmeizers': 'Schmelzer FC',
+
+    'Scottish American FC (IL)': 'Scottish-American FC (IL)',
+
+    'Scottish-American': 'Scottish-American FC',
+    'Scottish-Americans FC': 'Scottish-American FC',
+
+    'Chicago Americans': 'Chicago American FC',
+
+    'Corinthian FC (Michigan)': 'Corinthians FC (Michigan)',
+
+    'Baltimore Soccer Club': 'Baltimore SC',
+    'Baltimore S.C.': 'Baltimore SC',
+
+    'Brooklyn Rangers FC': 'Brooklyn Rangers',
+
+    'Bensonhurst': 'Bensonhurst CFC',
+    'Bensonhurst FC': 'Bensonhurst CFC',
+    
+    'Calumets': 'Calumet', # Calumet Park?
+
+
+    'Joliet': 'Joliet FC',
+
+    'Danersk FC': 'Stamford Danersk',
+    'Danersk Athletic FC': 'Stamford Danersk',
+
+    # this one needs resoultion.
+    'Brooklyn F.C.': 'Brooklyn FC',
+    #'Brooklyn FC': 'Brooklyn Field Club',
+
+
+
     'Columbia FC': 'Columbia',
 
     'Lawrence Cricket & FC': 'Lawrence FC',
@@ -9,7 +62,7 @@ usa = {
     'Caledonians FC': 'Caledonian',
     'Caledonian FC': 'Caledonian',
 
-    'Johnston City AFC': 'Johnston City FC',
+
     'Dunlevy FC': 'Dunlevy SC',
     'DeAndreis Council': 'De Andreis FC',
 
@@ -107,6 +160,8 @@ usa = {
 
     'West End Polish Club': 'West End Polish',
 
+    'Ashton-Berkeley': 'Ashton & Berkeley',
+    'Ashton Brekley': 'Ashton & Berkeley',
     'Ashton & Berkley': 'Ashton & Berkeley',
     'Ashton & Berkeley FC': 'Ashton & Berkeley',
 
@@ -756,14 +811,14 @@ usa = {
     'MacDuffs': 'MacDuff FC',
     'MacDuffs FC': 'MacDuff FC',
 
-    'Clan MacDonald': 'Clan MacDonald FC',
-    'Clan MacDuff': 'Clan MacDuff FC',
-
     'North Grafton Association': 'North Grafton Association Foot Ball',
 
     'Manville AC': 'Manville Athletics',
     'Lonsdale Athletics': 'Lonsdale Athletes',
     'Lonsdales Association': 'Lonsdale Association',
+
+
+    'Ansonia': 'Ansonia FC',
 
     'Ansonias Association': 'Ansonia Association',
     'Braidwood Association': 'Braidwoods Association',
@@ -1115,10 +1170,14 @@ usa = {
 
     #'New York Association': 'New York FBC',
 
-    'St George FC': 'St. George F.C',
+    
+    'St. George F.C': 'St George FC',
+
     'Critchley AA': 'Critchley\'s',
     'Crithleys': 'Critchley\'s',
-    'Crescent AC': 'Crescent A.C.',
+    
+    'Crescent A.C.': 'Crescent AC',
+
     'Critchley': 'Critchley\'s',
     'Wissinoming': 'Wissinoming FC',
 
@@ -1235,8 +1294,6 @@ usa = {
     'Gjoa': 'SC Gjoa',
     'Gjoa FC': 'SC Gjoa',
 
-    'Brooklyn F.C.': 'Brooklyn FC',
-    #'Brooklyn FC': 'Brooklyn Field Club',
 
     'German Hungarian S.C. (NYC)': 'New York German Hungarian',
     'German Hungarian SC (NYC)': 'German Hungarian S.C. (NYC)',
@@ -1278,8 +1335,8 @@ usa = {
 
     'IRT Strollers': 'I.R.T. Strollers',
 
-    
     'Alley Boys FC': 'Alley Boys',
+    'Alley Boys': 'Harrison Alley Boys',
 
     # New York State
 
@@ -1296,6 +1353,7 @@ usa = {
 
 
     'Rangers FC (Niagara Falls)': 'Niagara Falls Rangers',
+    'Niagara Rangers': 'Niagara Falls Rangers',
 
     'MacKenzie FC (Niagara Falls)': 'Niagara Falls MacKenzie FC',
     'Niagara Falls MacKenzie FC': 'Niagara Falls MacKenzie',
@@ -1363,6 +1421,7 @@ usa = {
     'Swanton Field Club (Kearny, NJ)': 'Swanton Field Club',
     'Hoboken F.C.': 'Hoboken FC',
 
+    'Falco AA': 'Holyoke Falcos',
     'Falco AAFC': 'Holyoke Falcos',
     'Falcon AAFC': 'Holyoke Falcos',
     'Holyoke Falco': 'Holyoke Falcos',
@@ -1558,6 +1617,8 @@ usa = {
     'Carpenters FC (Chicago)': 'Chicago Carpenters FC',
 
     'Simmons SC': 'Simmons FC',
+    
+    'Pullman': 'Pullman FC',
     'Pullman Professional FC': 'Pullman FC',
     'Pullman Association FC': 'Pullman FC',
 
@@ -1605,6 +1666,7 @@ usa = {
 
     'Johnston City AFC (Illinois)': 'Johnston City AFC',
     'Johnston City': 'Johnston City AFC',
+    'Johnston City AFC': 'Johnston City FC',
 
     'Chicago Horizons': 'Chicago Horizon',
 
@@ -1882,6 +1944,7 @@ usa = {
     'Scullin Steels': 'Scullin Steel',    
 
     'Vesper Buick': 'Vesper Buicks',
+
     'Wellston\'s': 'Wellston FC',
 
 
@@ -1911,7 +1974,7 @@ usa = {
     'Baltimore German': 'Baltimore Americans',
     'Baltimore Germans': 'Baltimore Americans',
     #'Baltimore S.C.': 'Baltimore Americans',
-    'Baltimore SC': 'Baltimore S.C.',
+
 
     'Baltimore St. Gerards': 'Baltimore Flyers', # denormalize
     #'Baltimore Stars': 'Baltimore Bays',

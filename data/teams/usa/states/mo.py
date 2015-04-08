@@ -37,6 +37,16 @@ l = [
         },
 
     {
+        'name': 'St. Louis Screw',
+        'city': 'St. Louis, MO',
+        },
+
+    {
+        'name': 'St. Louis Pants Store FC',
+        'city': 'St. Louis, MO',
+        },
+
+    {
         'name': 'Kansas City YMCA',
         'city': 'Kansas City, MO',
         },

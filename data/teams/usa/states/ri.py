@@ -36,10 +36,6 @@ l = [
         'city': 'Pawtucket, RI',
         },
 
-    {
-        'name': 'Olneyville Thorntons',
-        'city': 'Providence, RI',
-        },
 
     {
         'name': 'Pawtucket Celtic',
@@ -123,6 +119,18 @@ l = [
         'city': 'Providence, RI',
         },
 
+
+
+    {
+        'name': 'Olneyville Thorntons',
+        'city': 'Providence, RI',
+        },
+
+    {
+        'name': 'Olneyville Oaks FC',
+        'city': 'Providence, RI',
+        },
+
     {
         'name': 'Olneyville Olympics',
         'city': 'Olneyville, RI',
@@ -138,9 +146,15 @@ l = [
         'city': 'Cumberland, RI',
         },
 
+
     {
         'name': 'South Providence Association',
         'city': 'Providence, RI',
+        },
+
+    {
+        'name': 'Fairlawn Rovers',
+        'city': 'Fairlawn, RI',
         },
 
     {

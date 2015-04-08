@@ -6,6 +6,9 @@ aliases = {}
 
 full_alias = {
 
+    'NCAA': 'NCAA Division I Men\'s Soccer Championship',
+
+
     'Allied American Football Association (Philadelphia) Division 1': 'Allied American Football Association',
     'Allied American Foot Ball Association': 'Allied American Football Association',
 
@@ -14,15 +17,19 @@ full_alias = {
 
     'American Amateur Foot Ball Association Cup': 'AAFA Cup',
     
-    'New York State Amateur League, Second Division': 'New York State Amateur League Division 2',
 
 
-    'Chicago and District Association Football League': 'Association Foot Ball League of Chicago',
+
+    'Chicago and District Association Football League':  'Chicago Foot Ball Association',
+    'Association Foot Ball League of Chicago': 'Chicago Foot Ball Association',
 
     'New York State Amateur Association Foot Ball League': 'New York State Amateur League',
     'New York and District AAFBL': 'New York State Amateur League',
     'New York and District Amateur League': 'New York State Amateur League',
     'New York State Amateur League': 'New York Amateur League',
+    'New York Amateur League': 'New York Amateur League',
+
+    'New York State Amateur League, Second Division': 'New York State Amateur League Division 2',
 
     'Hartford and District Soccer League': 'Hartford and District League',
 
@@ -32,8 +39,6 @@ full_alias = {
     #'New York and District League'
 
 
-    'Chicago Foot Ball Association': 'Association Foot Ball League of Chicago',
-
     'Rochester and District League': 'Rochester and District Soccer League',
 
     'Connecticut Amateur League': 'Connecticut State Amateur League',
@@ -42,6 +47,7 @@ full_alias = {
 
     'Field Club and Soccer League of New York and New Jersey': 'Field Club Soccer League',
     'Field Club Soccer League (New York)': 'Field Club Soccer League',
+    'Field Club League': 'Field Club Soccer League',
     'Field Club Soccer League of New York and New Jersey': 'Field Club Soccer League',
     
 
@@ -62,6 +68,7 @@ full_alias = {
 
 
     'M&DAFL': 'Metropolitan and District League',
+    'Metropolitan Association Football League': 'Metropolitan and District League',
     'Metropolitan and District AFBL': 'Metropolitan and District League',
     'Metropolitan and District AF League': 'Metropolitan and District League',
 

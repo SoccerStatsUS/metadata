@@ -20,6 +20,11 @@ l = [
         'city': 'Waukesha, WI',
         },
 
+    {
+        'name': 'Kenosha FC',
+        'city': 'Kenosha, WI',
+        },
+
 
 
     {

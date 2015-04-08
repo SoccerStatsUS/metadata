@@ -172,6 +172,17 @@ l = [
         'city': 'Philadelphia, PA',
         },
 
+    { 
+        'name': 'Puritan Y.M.L.',
+        'city': 'Philadelphia, PA', # verify
+        },
+
+    { 
+        'name': 'Treveskyn FC',
+        'city': 'Treveskyn, PA',
+        },
+
+
     {
 
         'name': 'Chester Town Team',
@@ -287,6 +298,31 @@ l = [
         'founded': 1911,
         'dissolved': 1930,
         'city': 'Bethlehem, PA',
+        },
+
+    {
+        'name': 'Bethlehem East Ends',
+        'city': 'Bethlehem, PA',
+        },
+
+    {
+        'name': 'Kingessing FC',
+        'city': 'Philadelphia, PA',
+        },
+
+    {
+        'name': 'Pittsburgh Rovers',
+        'city': 'Pittsburgh, PA',
+        },
+
+    {
+        'name': 'Pittsburgh Terminal',
+        'city': 'Pittsburgh, PA',
+        },
+
+    {
+        'name': 'Pittsburgh Gallatin',
+        'city': 'Pittsburgh, PA',
         },
 
 
@@ -490,6 +526,65 @@ l = [
         'founded': 1947,
         'dissolved': 1967,
         },
+
+    {
+        'name': 'Harmarville FC',
+        'city': 'Harmarville, PA',
+        },
+
+
+
+    {
+        'name': 'Braddock FC',
+        'city': 'Braddock, PA',
+        },
+
+    {
+        'name': 'Braddock Steel',
+        'city': 'Braddock, PA',
+        },
+
+    {
+        'name': 'Castle Shannon',
+        'city': 'Castle Shannon, PA',
+        },
+
+    {
+        'name': 'McKeesport FC',
+        'city': 'McKeesport, PA',
+        },
+
+    {
+        'name': 'Vestaburg SC (Pittsburgh)',
+        'city': 'Pittsburgh, PA',
+        },
+
+    {
+        'name': 'Allentown YMCA',
+        'city': 'Allentown, PA',
+        },
+
+    {
+        'name': 'Wissinoming FC',
+        'city': 'Philadelphia, PA',
+        },
+
+
+    {
+        'name': 'West Philadelphia FC',
+        'city': 'Philadelphia, PA',
+        },
+
+    {
+        'name': 'Peabody FC',
+        'city': 'Philadelphia, PA',
+        },
+
+    {
+        'name': 'Homestead Steel',
+        'city': 'Homestead, PA',
+        },
+
 
 ]
  

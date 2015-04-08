@@ -20,6 +20,71 @@ l = [
         'name': 'Niagara Falls Rangers',
         'city': 'Niagara Falls, NY',
         },
+
+    {
+        'name': 'Rochester City AFC',
+        'city': 'Rochester, NY',
+        },
+
+    {
+        'name': 'Kodak Park',
+        'city': 'Rochester, NY',
+        },
+
+    {
+        'name': 'Erie General Electric',
+        'city': 'Erie, NY',
+        },
+
+    {
+        'name': 'Rochester City Moose',
+        'city': 'Rochester, NY',
+        },
+
+    {
+        'name': 'Niagara Falls MacKenzie',
+        'city': 'Niagara Falls, NY',
+        },
+
+    {
+        'name': 'Bay Ridge FC',
+        'city': 'Brooklyn, NY',
+        },
+
+    {
+        'name': 'Bensonhurst CFC',
+        'city': 'Brooklyn, NY',
+        },
+
+    {
+        'name': 'Staten Island C&TC',
+        'city': 'Staten Island, NY',
+        },
+
+    {
+        'name': 'Brooklyn Hibernian',
+        'city': 'Brooklyn, NY',
+        },
+
+    {
+        'name': 'Brooklyn Rangers',
+        'city': 'Brooklyn, NY',
+        },
+
+    {
+        'name': 'Brooklyn Lexington FC',
+        'city': 'Brooklyn, NY',
+        },
+
+    {
+        'name': 'Greenpoint FC',
+        'city': 'Brooklyn, NY',
+        },
+
+    {
+        'name': 'Bronx United',
+        'city': 'Bronx, NY',
+        },
     {
         'name': 'New York Eagles',
         'city': 'Mount Vernon, NY',
@@ -53,6 +118,12 @@ l = [
         'city': 'New York, NY',
         },
 
+    {
+        'name': 'Mamaroneck',
+        'city': 'Mamaroneck, NY',
+        },
+
+
 
 
     {
@@ -64,6 +135,16 @@ l = [
 
     {
         'name': 'Buffalo Blazers',
+        'city': 'Buffalo, NY',
+        },
+
+    {
+        'name': 'Buffalo Corinthians',
+        'city': 'Buffalo, NY',
+        },
+
+    {
+        'name': 'Buffalo Hungarian FC',
         'city': 'Buffalo, NY',
         },
 
@@ -585,6 +666,18 @@ l = [
 
     {
         'name': 'Yonkers Hollywood Inn',
+        'city': 'Yonkers, NY',
+        'founded': 1901,
+        },
+
+    {
+        'name': 'Yonkers Thistle',
+        'city': 'Yonkers, NY',
+        'founded': 1901,
+        },
+
+    {
+        'name': 'Yonkers FC',
         'city': 'Yonkers, NY',
         'founded': 1901,
         },
