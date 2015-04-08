@@ -10,6 +10,47 @@ l = [
         'city': 'Donora, PA',
         },
 
+    { 
+        'name': 'Curry Silver Tops',
+        'city': 'Curry, PA',
+        },
+
+    { 
+        'name': 'Morgan Strasser',
+        'city': 'Morgan, PA',
+        },
+
+    { 
+        'name': 'Germantown Cricket Club',
+        'city': 'Philadelphia, PA',
+        },
+
+    { 
+        'name': 'Merion Cricket Club',
+        'city': 'Philadelphia, PA',
+        },
+
+    { 
+        'name': 'Belmont Cricket Club',
+        'city': 'Philadelphia, PA',
+        },
+
+    { 
+        'name': 'Belmont and Merion Cricket Club',
+        'city': 'Philadelphia, PA',
+        },
+
+    { 
+        'name': 'Philadelphia Cricket Club',
+        'city': 'Philadelphia, PA',
+        },
+
+    { 
+        'name': 'Philadelphia Fairhill',
+        'city': 'Philadelphia, PA',
+        },
+
+
     # indoor
     
     { 
@@ -179,7 +220,13 @@ l = [
 
     { 
         'name': 'Treveskyn FC',
-        'city': 'Treveskyn, PA',
+        #'city': 'Treveskyn, PA',
+        'city': 'Cuddy, PA',
+        },
+
+    { 
+        'name': 'Cuddy AC',
+        'city': 'Cuddy, PA',
         },
 
 
@@ -584,6 +631,63 @@ l = [
         'name': 'Homestead Steel',
         'city': 'Homestead, PA',
         },
+
+    {
+        'name': 'Homestead FC',
+        'city': 'Homestead, PA',
+        },
+
+    {
+        'name': 'East Pittsburgh',
+        'city': 'East Pittsburgh, PA',
+        },
+
+    {
+        'name': 'East Pittsburgh Internationals',
+        'city': 'East Pittsburgh, PA',
+        },
+
+    {
+        'name': 'Feltonville',
+        'city': 'Philadelphia, PA',
+        },
+
+    {
+        'name': 'Philadelphia Hibernian',
+        'city': 'Philadelphia, PA',
+        },
+
+    {
+        'name': 'Lehighton FC',
+        'city': 'Lehighton, PA',
+        },
+
+    {
+        'name': 'Noblestown',
+        'city': 'Noblestown, PA',
+        },
+
+    {
+        'name': 'Norristown',
+        'city': 'Norristown, PA',
+        },
+
+    {
+        'name': 'Cecil',
+        'city': 'Cecil, PA',
+        },
+
+
+    {
+        'name': 'Curllsville',
+        'city': 'Curllsville, PA',
+        },
+
+    {
+        'name': 'Neffs',
+        'city': 'Neffs, PA',
+        },
+
 
 
 ]

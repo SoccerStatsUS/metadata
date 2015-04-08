@@ -5,6 +5,17 @@ import datetime
 
 l = [
 
+
+    {
+        'name': 'Astoria Independents',
+        'city': 'Queens, NY',
+        },
+
+    {
+        'name': 'Port Chester',
+        'city': 'Port Chester, NY',
+        },
+
     # indoor
     
     {
@@ -47,7 +58,17 @@ l = [
         },
 
     {
+        'name': 'Niagara Falls Wanderers',
+        'city': 'Niagara Falls, NY',
+        },
+
+    {
         'name': 'Bay Ridge FC',
+        'city': 'Brooklyn, NY',
+        },
+
+    {
+        'name': 'Bay Ridge United',
         'city': 'Brooklyn, NY',
         },
 
@@ -81,10 +102,24 @@ l = [
         'city': 'Brooklyn, NY',
         },
 
+
+    {
+        'name': 'Greenpoint Rovers',
+        'city': 'Brooklyn, NY',
+        },
+
+
+
     {
         'name': 'Bronx United',
         'city': 'Bronx, NY',
         },
+
+    {
+        'name': 'Bronx Rangers FC',
+        'city': 'Bronx, NY',
+        },
+
     {
         'name': 'New York Eagles',
         'city': 'Mount Vernon, NY',
@@ -140,6 +175,36 @@ l = [
 
     {
         'name': 'Buffalo Corinthians',
+        'city': 'Buffalo, NY',
+        },
+
+
+
+    {
+        'name': 'Buffalo Argylls',
+        'city': 'Buffalo, NY',
+        },
+
+    {
+        'name': 'Buffalo Sons of St. George',
+        'city': 'Buffalo, NY',
+        },
+
+
+    {
+        'name': 'Buffalo United',
+        'city': 'Buffalo, NY',
+        },
+
+
+    {
+        'name': 'Buffalo Rangers',
+        'city': 'Buffalo, NY',
+        },
+
+
+    {
+        'name': 'Buffalo Nomads',
         'city': 'Buffalo, NY',
         },
 
@@ -680,6 +745,11 @@ l = [
         'name': 'Yonkers FC',
         'city': 'Yonkers, NY',
         'founded': 1901,
+        },
+
+    {
+        'name': 'Yonkers St. George',
+        'city': 'Yonkers, NY',
         },
 
     {

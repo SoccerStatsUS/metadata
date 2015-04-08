@@ -10,6 +10,11 @@ l = [
         'name': 'Hoboken Germans',
         'city': 'Hoboken, NJ',
         },
+
+    {
+        'name': 'Harrison Alley Boys',
+        'city': 'Harrison, NJ',
+        },
     
 
     # early
@@ -94,6 +99,16 @@ l = [
     {
         'name': 'Passaic Swedish AC',
         'city': 'Passaic, NJ',
+        },
+
+    {
+        'name': 'Passaic Blues',
+        'city': 'Passaic, NJ',
+        },
+
+    {
+        'name': 'Metuchen United',
+        'city': 'Metuchen, NJ',
         },
 
 
@@ -186,6 +201,11 @@ l = [
         },
 
     {
+        'name': 'Trenton Caledonians',
+        'city': 'Trenton, NJ',
+        },
+
+    {
         'name': 'Trenton Tile Rovers',
         'city': 'Trenton, NJ',
         },
@@ -202,6 +222,11 @@ l = [
 
     {
         'name': 'Hoboken Union Club',
+        'city': 'Hoboken, NJ',
+        },
+
+    {
+        'name': 'Hoboken FC',
         'city': 'Hoboken, NJ',
         },
 
@@ -265,6 +290,16 @@ l = [
     {
         'name': 'Trenton Young Americans',
         'city': 'Trenton, NJ',
+        },
+
+    {
+        'name': 'Montclair FC',
+        'city': 'Montclair, NJ',
+        },
+
+    {
+        'name': 'Montclair AC',
+        'city': 'Montclair, NJ',
         },
 
     # indoor
@@ -427,6 +462,16 @@ l = [
     {
         'name': 'Bayonne FC',
         'city': 'Bayonne, NJ',
+        },
+
+    {
+        'name': 'Bayonne Thistles',
+        'city': 'Bayonne, NJ',
+        },
+
+    {
+        'name': 'Jersey City Illhern\'s',
+        'city': 'Jersey City, NJ',
         },
 
     {

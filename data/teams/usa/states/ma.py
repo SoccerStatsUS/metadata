@@ -12,6 +12,21 @@ l = [
         },
 
     {
+        'name': 'New Bedford Cotton Mills',
+        'city': 'New Bedford, MA',
+        },
+
+    {
+        'name': 'Ludlow Clan McClennan',
+        'city': 'Ludlow, MA',
+        },
+
+    {
+        'name': 'Methuen FC',
+        'city': 'Methuen, MA',
+        },
+
+    {
         'name': 'Real Boston Rams',
         'city': 'Boston, MA',
         'founded': 2012,

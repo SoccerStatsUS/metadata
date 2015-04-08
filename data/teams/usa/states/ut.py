@@ -5,6 +5,19 @@ import datetime
 
 l = [
 
+    # old
+
+    { 
+        'name': 'Ogden Railroaders',
+        'city': 'Ogden, UT',
+        },
+
+    { 
+        'name': 'Eureka Miners',
+        'city': 'Eureka, UT',
+        },
+
+
     # indoor
 
     {

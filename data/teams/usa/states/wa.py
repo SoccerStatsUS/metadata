@@ -30,6 +30,11 @@ l = [
         'city': 'Tacoma, WA',
         },
 
+    {
+        'name': 'Tacoma',
+        'city': 'Tacoma, WA',
+        },
+
 
     {
         'name': 'FC Seattle',

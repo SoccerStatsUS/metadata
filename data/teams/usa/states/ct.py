@@ -39,6 +39,26 @@ l = [
         },
 
     {
+        'name': 'Hartford Swedes',
+        'city': 'Hartford, CT',
+        },
+
+    {
+        'name': 'Hartford Danes',
+        'city': 'Hartford, CT',
+        },
+
+    {
+        'name': 'Hartford City',
+        'city': 'Hartford, CT',
+        },
+
+    {
+        'name': 'Hartford United',
+        'city': 'Hartford, CT',
+        },
+
+    {
         'name': 'Hartford Rovers',
         'city': 'Hartford, CT',
         },
@@ -69,6 +89,11 @@ l = [
     {
         'name': 'SoccerPlus Connecticut',
         'city': 'New Britain, CT',
+        },
+
+    {
+        'name': 'New Haven Rangers',
+        'city': 'New Haven, CT',
         },
 
     {
@@ -103,6 +128,11 @@ l = [
 
     {
         'name': 'Bridgeport Swedish AC',
+        'city': 'Bridgeport, CT',
+        },
+
+    {
+        'name': 'Bridgeport Celtics',
         'city': 'Bridgeport, CT',
         },
 

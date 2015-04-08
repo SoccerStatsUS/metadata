@@ -51,7 +51,12 @@ l = [
 
     {
         'name': 'SC Cleveland', 
-        'city': 'Cleveland, OH', # presumably?
+        'city': 'Cleveland, OH', 
+        },
+
+    {
+        'name': 'Cleveland FC', # same as SC Cleveland?
+        'city': 'Cleveland, OH', 
         },
 
 
@@ -207,6 +212,21 @@ l = [
     {
         'name': 'Akron Clan MacKenzie',
         'city': 'Akron, OH',
+        },
+
+    {
+        'name': 'Firestone Non-Skid',
+        'city': 'Akron, OH',
+        },
+
+    {
+        'name': 'Goodyear Company',
+        'city': 'Akron, OH',
+        },
+
+    {
+        'name': 'Cincinnati Gym & AC',
+        'city': 'Cincinnati, OH',
         },
 
 

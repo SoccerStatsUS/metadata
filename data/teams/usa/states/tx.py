@@ -77,6 +77,31 @@ l = [
         },
 
     {
+        'name': 'Baylor University',
+        'city': 'Waco, TX',
+        },
+
+    {
+        'name': 'Dallas Athletics',
+        'city': 'Dallas, TX',
+        },
+
+    {
+        'name': 'Dallas Nomads',
+        'city': 'Dallas, TX',
+        },
+
+    {
+        'name': 'Dallas Sears-Roebuck',
+        'city': 'Dallas, TX',
+        },
+
+    {
+        'name': 'Cleburne',
+        'city': 'Cleburne, TX',
+        },
+
+    {
         'name': 'Oak Cliff High School',
         'city': 'Dallas, TX',
         },

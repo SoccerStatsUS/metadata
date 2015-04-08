@@ -4964,7 +4964,7 @@ world = {
     'Schalke': 'Schalke 04',
     'FC Schalke 04 Gelsenkirchen': 'Schalke 04',
 
-    'Splitdorf FC': 'Splitdorf F.C',
+
 
     'V.F.B. Stuttgart': 'VfB Stuttgart',
     'VfB Stuttgart (Ger)': 'VfB Stuttgart',

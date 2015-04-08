@@ -1,15 +1,78 @@
 
 usa = {
 
+    'Dunlevy SC': 'Dunlevy',
+
+    'Independents': 'Independent',
+
+    'Irish-American FC': 'Irish-American',
+    'Irish Americans': 'Irish-American',
+
+    'Wilberforce': 'Wilberforce FC',
+
+    'NY Thistles FC': 'New York Thistles',
+    'NY Caledonian FC': 'New York Caledonian',
+
+    'Hungarians': 'Hungarian',
+
+    'Northampton Hgts FC': 'Northampton Heights FC',
+
+    'North American Lace Co.': 'North American Lace Company',
+
+    'Norwegian Americans': 'Norwegian American',
+    'Norwegian American FC': 'Norwegian American',
+
+    'St Teresas': 'St. Teresa\'s',
+
+    'Portchester': 'Port Chester',
+
+    'Astoria Ind.': 'Astoria Independents',
+
+    'Oritani': 'Oritani FC',
+
+    'Olympics': 'Olympic',
+
+    'E. Pitts. Int.': 'East Pittsburgh Internationals',
+
+    'Peabody': 'Peabody FC',
+
+    'Naugatuck': 'Naugatuck FC',
+
+    'McKeesport': 'McKeesport FC',
+    'Bourne Mill FC': 'Bourne Mill',
+
+    'Camerons': 'Cameron FC',
+    'Cameron': 'Cameron FC',
+
+    'Bay Ridge': 'Bay Ridge FC',
+    'Greenpoint': 'Greenpoint FC',
+
+    'Wanderers FC': 'Wanderers',
+
     
     'Greystone B.': 'Greystone B',
 
     'Philadelphia Wanderers FC': 'Philadelphia Wanderers',
 
+    'Bohemian American FC': 'Bohemian American',
+
+    'Clan Scott FC': 'Clan Scott',
+    'Clan McDonald FC': 'Clan McDonald',
     'Clan MacDonald FC': 'Clan MacDonald',
+    'Clan MacDonalds': 'Clan MacDonald',
+
+    'Clan McKenzies': 'Clan McKenzie',
+    'Clan McKenzie FC': 'Clan McKenzie',
+
+    'Clan MacDuffs': 'Clan MacDuff',
+    'Clan McDuff FC': 'Clan MacDuff',
     'Clan MacDuff FC': 'Clan MacDuff',
     'Clan McPherson FC': 'Clan McPherson',
+
     'British American FC': 'British American',
+    'British-American': 'British American',
+
+    'British Canadian FC': 'British Canadian',
 
     'General Electric (Erie)': 'Erie General Electric',
 
@@ -22,6 +85,7 @@ usa = {
     'Veteran AA FC': 'Veteran AA',
 
     'Schmeizers': 'Schmelzer FC',
+    'Schmelzers': 'Schmelzer FC',
 
     'Scottish American FC (IL)': 'Scottish-American FC (IL)',
 
@@ -64,7 +128,7 @@ usa = {
 
 
     'Dunlevy FC': 'Dunlevy SC',
-    'DeAndreis Council': 'De Andreis FC',
+
 
     'Saylesville FC': 'Sayles Finishing Plant', # cf 11/24/1921 game.
     'Gillespie FC': 'Gillespie',
@@ -108,7 +172,6 @@ usa = {
     'Fairlawn Rovers FC': 'Fairlawn Rovers',
     'Esmond Cortex FC': 'Esmond Cortex',
 
-    'Disston Saw FC': 'Disston Saw',
 
     'Cleveland Thistles': 'Cleveland Thistle',
     
@@ -150,7 +213,9 @@ usa = {
     'St. Leos': 'St. Leo\'s',
     'St. Leos FC': 'St. Leo\'s',
 
+    'Viacose': 'Viscose FC',
     'Viscoes': 'Viscose FC',
+    'Viscose': 'Viscose FC',
 
     'Wilsonville United FC': 'Wilsonville United',
 
@@ -828,11 +893,13 @@ usa = {
 
 
     'St. Patricks': 'St. Patrick\'s',
-    'St. George FC': 'St. George F.C.',
+    
+    'St. George F.C.': 'St. George FC',
+    'St. George\'s FC': 'St. George FC',
 
 
-
-    'Splitdorf F.C': 'Splitdorf F.C.', #find
+    'Splitdorf': 'Splitdorf FC',
+    'Splitdorf F.C.': 'Splitdorf FC',
 
     # Mexico
     'Espana': 'España', # This is a Mexican team.
@@ -851,8 +918,9 @@ usa = {
     'Presbyterian FC (Bridgeport)': 'Bridgeport Presbyterian SC',
     'Bridgeport City AF.C': 'Bridgeport City AFC',
 
-    'Danersk FC (Stamford)': 'Stamford Danersk FC',
-    'Danersk Athletic FC': 'Stamford Danersk FC',
+    'Danersk Athletics': 'Stamford Danersk',
+    'Danersk FC (Stamford)': 'Stamford Danersk',
+    'Danersk Athletic FC': 'Stamford Danersk',
     'Stamford Danersk FC': 'Stamford Danersk',
 
     'Vasco da Gama SC': 'Vasco Da Gama SC',
@@ -1173,12 +1241,14 @@ usa = {
     
     'St. George F.C': 'St George FC',
 
+    'Critchley FC': 'Critchley\'s',
     'Critchley AA': 'Critchley\'s',
     'Crithleys': 'Critchley\'s',
+    'Critchley': 'Critchley\'s',
     
     'Crescent A.C.': 'Crescent AC',
 
-    'Critchley': 'Critchley\'s',
+
     'Wissinoming': 'Wissinoming FC',
 
 
@@ -1385,7 +1455,8 @@ usa = {
 
     'Hollywood Inn': 'Yonkers Hollywood Inn',
 
-    'Yonkers Thistles FC': 'Yonkers Thistle FC',
+    'Yonkers Thistles': 'Yonkers Thistle',
+    'Yonkers Thistles FC': 'Yonkers Thistle',
     'Yonkers Thistle FC': 'Yonkers Thistle',
     'Yonkers Th.': 'Yonkers Thistle',
 
@@ -1626,6 +1697,8 @@ usa = {
 
     'Buda A.A. (Harvey, Illinois)': 'Harvey Buda A.A.',
 
+    'Harvey': 'Harvey FC',
+
     'Manhattan Beer': 'Chicago Manhattan Beer',
 
     'Olympic SC (IL)': 'Olympia FC (Chicago)',
@@ -1790,6 +1863,12 @@ usa = {
     'Philadelphia Hibernians': 'Philadelphia Hibernian',
 
 
+
+    'Henry Disston & Sons FC': 'Disston',
+    'Disston Saw FC': 'Disston Saw',
+    'Disston Saw': 'Disston',
+
+
     'Tacony Disston A.A.': 'Disston A.A.',
     'Philadelphia Disston': 'Disston A.A.',
     'Tacony FC': 'Disston A.A.',
@@ -1900,6 +1979,7 @@ usa = {
 
     'DeAndreis': 'DeAndreis Council',
     'De Andreis SC (St. Louis)': 'DeAndreis Council',
+    'DeAndreis Council': 'De Andreis FC',
 
     'Busch SC': 'Busch SC (MO)',
     'St. Louis Carondolet': 'St. Louis Carondolets',
@@ -1935,6 +2015,7 @@ usa = {
 
     'St. Louis Innisfails': 'Innisfails FC',
     'Innisfall FC': 'Innisfails FC',
+    'Innisfalls': 'Innisfails FC',
     'Innisfalls FC': 'Innisfails FC',
     'Innisfails': 'Innisfails FC',
 
@@ -2017,6 +2098,7 @@ usa = {
 
     'Lynn Thistles': 'Lynn Thistle',
 
+    'Lynn GE': 'Lynn Gas & Electric',
     'Lynn General Electrics': 'Lynn Gas & Electric',
     'Lynn Gas & electric': 'Lynn Gas & Electric',
     'Lynn Gas All Americans': 'Lynn Gas & Electric',

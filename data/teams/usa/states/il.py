@@ -29,6 +29,11 @@ l = [
         },
 
     {
+        'name': 'Benld (IL)',
+        'city': 'Benld, IL',
+        },
+
+    {
         'name': 'Harvey Buda A.A.',
         'city': 'Harvey, IL',
         },
@@ -261,6 +266,16 @@ l = [
     {
         'name': 'Chicago Swedish American SC',
         'city': 'Chicago, IL',
+        },
+
+    {
+        'name': 'Chicago Woodlawns',
+        'city': 'Chicago, IL',
+        },
+
+    {
+        'name': 'Coal City Maroons',
+        'city': 'Coal City, IL',
         },
 
     {

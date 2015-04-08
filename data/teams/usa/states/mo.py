@@ -42,6 +42,21 @@ l = [
         },
 
     {
+        'name': 'Scullin Steel',
+        'city': 'St. Louis, MO',
+        },
+
+    {
+        'name': 'St. Leo\'s',
+        'city': 'St. Louis, MO',
+        },
+
+    {
+        'name': 'Innisfails FC',
+        'city': 'St. Louis, MO',
+        },
+
+    {
         'name': 'St. Louis Pants Store FC',
         'city': 'St. Louis, MO',
         },
@@ -52,7 +67,32 @@ l = [
         },
 
     {
+        'name': 'Schmelzer FC',
+        'city': 'Kansas City, MO',
+        },
+
+    {
+        'name': 'St. George FC (Kansas City)',
+        'city': 'Kansas City, MO',
+        },
+
+    {
+        'name': 'British-American (Kansas City)',
+        'city': 'Kansas City, MO',
+        },
+
+    {
+        'name': 'Shamrock FC (Kansas City)',
+        'city': 'Kansas City, MO',
+        },
+
+    {
         'name': 'St. Louis Montgomerys',
+        'city': 'St. Louis, MO',
+        },
+
+    {
+        'name': 'De Andreis FC',
         'city': 'St. Louis, MO',
         },
 

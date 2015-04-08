@@ -11,6 +11,11 @@ l = [
         'founded': 1996,
         },
 
+    {
+        'name': 'Manchester United (NH)',
+        'city': 'Manchester, NH',
+        },
+
 
     {
         'name': 'Southern New Hampshire University',

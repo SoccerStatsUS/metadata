@@ -53,6 +53,16 @@ l = [
         },
 
     {
+        'name': 'Seaconnet',
+        'city': 'Portsmouth, RI',
+        },
+
+    {
+        'name': 'Bourne Mill', # probably played on the future site of Mark's Stadium
+        'city': 'Tiverton, RI',
+        },
+
+    {
         'name': 'Thornton British Hosieries',
         'city': 'Thornton, RI',
         },
@@ -71,6 +81,11 @@ l = [
 
     {
         'name': 'Pawtucket Lorraines',
+        'city': 'Pawtucket, RI',
+        },
+
+    {
+        'name': 'Pawtucket Odd Fellows',
         'city': 'Pawtucket, RI',
         },
 
