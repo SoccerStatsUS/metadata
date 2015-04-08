@@ -6,6 +6,67 @@ aliases = {}
 
 full_alias = {
 
+    'Allied American Football Association (Philadelphia) Division 1': 'Allied American Football Association',
+    'Allied American Foot Ball Association': 'Allied American Football Association',
+
+    'Allied American Football Association (Philadelphia) Division 2': 'Allied American Football Association D2',
+
+
+    'American Amateur Foot Ball Association Cup': 'AAFA Cup',
+    
+    'New York State Amateur League, Second Division': 'New York State Amateur League Division 2',
+
+
+    'Chicago and District Association Football League': 'Association Foot Ball League of Chicago',
+
+    'New York State Amateur Association Foot Ball League': 'New York State Amateur League',
+    'New York and District AAFBL': 'New York State Amateur League',
+    'New York and District Amateur League': 'New York State Amateur League',
+    'New York State Amateur League': 'New York Amateur League',
+
+    'Hartford and District Soccer League': 'Hartford and District League',
+
+    'Southern New England League': 'Southern New England Soccer League',
+    'Southern New England Football League': 'Southern New England Soccer League',
+
+    #'New York and District League'
+
+
+    'Chicago Foot Ball Association': 'Association Foot Ball League of Chicago',
+
+    'Rochester and District League': 'Rochester and District Soccer League',
+
+    'Connecticut Amateur League': 'Connecticut State Amateur League',
+
+    'Boston and District League': 'Boston and District Foot Ball League',
+
+    'Field Club and Soccer League of New York and New Jersey': 'Field Club Soccer League',
+    'Field Club Soccer League (New York)': 'Field Club Soccer League',
+    'Field Club Soccer League of New York and New Jersey': 'Field Club Soccer League',
+    
+
+    'National Association Football League': 'National Association Foot Ball League',
+    'National League': 'National Association Foot Ball League',
+
+
+
+    'Association Foot Ball League of the Association Cricket Clubs': 'Football League of the Associated Cricket Clubs of Philadelphia',
+    'Foot Ball League of the Associated Cricket Clubs of Philadelphia': 'Football League of the Associated Cricket Clubs of Philadelphia',
+
+
+    'Press Soccer Foot Ball League': 'Pittsburgh Press Soccer League',
+    'Pittsburgh Press Soccer Football League': 'Pittsburgh Press Soccer League',
+    'Pittsburgh Press League': 'Pittsburgh Press Soccer League',
+
+    'Pittsburgh and District Association Football League': 'Pittsburgh District Association Foot Ball League',
+
+
+    'M&DAFL': 'Metropolitan and District League',
+    'Metropolitan and District AFBL': 'Metropolitan and District League',
+    'Metropolitan and District AF League': 'Metropolitan and District League',
+
+    'Connecticut State League': 'Connecticut State Football League',
+
     'NCAA Division I Men\'s Soccer Championship': 'NCAA Division I',
     
     'Copa Rio de Janeiro': 'Copa Rio', # not sure?
@@ -56,6 +117,7 @@ full_alias = {
 
     'Europa League': 'UEFA Europa League',
 
+    'National Challenge Cup': 'U.S. Open Cup',
     'USOC': 'U.S. Open Cup',
     'US Open Cup': 'U.S. Open Cup',
 
