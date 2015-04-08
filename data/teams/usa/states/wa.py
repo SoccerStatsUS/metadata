@@ -5,6 +5,12 @@ import datetime
 
 l = [
 
+    {
+        'name': 'Seattle Sounders FC 2',
+        'founded': 2014,
+        'city': 'Seattle, WA',
+        },
+
     # Indoor
 
 

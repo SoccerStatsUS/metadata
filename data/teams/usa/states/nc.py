@@ -13,9 +13,14 @@ l = [
         },
 
     {
+        'name': 'Charlotte Independence',
+        'city': 'Charlotte, NC',
+        'founded': 2014,
+        },
+
+    {
         'name': 'UNC Chapel Hill',
         'city': 'Chapel Hill, NC',
-
         },
 
     {

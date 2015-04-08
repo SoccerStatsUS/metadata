@@ -1,6 +1,8 @@
 
 basic = {
 
+    'Cees DeWolf': 'Cees de Wolf',
+
     'Giorgia Chinaglia': 'Giorgio Chinaglia',
     'Giorigio Chinaglia': 'Giorgio Chinaglia',
     'Giorio Chinaglia': 'Giorgio Chinaglia',
@@ -375,8 +377,6 @@ basic = {
 
     'Qusai Munir': 'Qusai Mounir',
     'Glenton Wolfe': 'Glenton Wolffe',
-
-    'Cees de Wolf': 'Cees DeWolf',
 
     'Russ Wolf': 'Russell Wolf',
     'Kameel Wolfe': 'Kemeel Wolfe',

@@ -1,6 +1,21 @@
 
 usa = {
 
+    'Kollsman': 'Kollsman SC',
+
+    'New York Hakoah-Americans': 'New York Hakoah Americans',
+
+    'New York Ukrainians': 'New York Ukrainian',
+
+    'Kostek FC': 'Kosteks SC',
+    'Kosteks': 'Kosteks SC',
+
+    'Graphite Bronze': 'Cleveland Graphite Bronze',
+    
+    'Des Moines Menace USASA': 'Des Moines Menace',
+
+    'NYCFC': 'New York City FC',
+
     'Dunlevy SC': 'Dunlevy',
 
     'Independents': 'Independent',
@@ -170,7 +185,9 @@ usa = {
     'Falls C&FC': 'Falls Cricket and Football Club',
 
     'Fairlawn Rovers FC': 'Fairlawn Rovers',
+
     'Esmond Cortex FC': 'Esmond Cortex',
+    'Esmond Cortez': 'Esmond Cortex',
 
 
     'Cleveland Thistles': 'Cleveland Thistle',
@@ -418,7 +435,7 @@ usa = {
     'Prague Americans': 'New York Prague',
     'Prague-Americans': 'New York Prague',
 
-    'S.A. Healey FC (White Plains)': 'SA Helaey',
+    'S.A. Healey FC (White Plains)': 'SA Healey',
 
     'Greek American SC (New Orleans)': 'New Orleans Greek American',
 
@@ -851,7 +868,7 @@ usa = {
     
     # Northern New England
     'West End Polish FC': 'West End Polish Club',
-    'Esmond Cortez': 'Esmond Cortex',
+
 
     'Club Espana': 'Club España',
 
@@ -1302,6 +1319,9 @@ usa = {
     'German Americans': 'German-Americans',
     'German American SC': 'German American S.C.',
     'German-American AC': 'German American AC',
+    'German-American SC': 'German American',
+    'German-Americans': 'German American',
+    'German-Americans AC': 'German American',
 
     # This may not be right. Brooklyn Italians itself seems to have 
     # Gone to lower leagues, played as Palermo and Brokolyn Dodgers.
@@ -1378,6 +1398,7 @@ usa = {
     'Swiss SC (East NY)': 'Swiss FC',
     'Swiss Soccer Club': 'Swiss FC',
 
+
     'Eintracht SC': 'S.C. Eintracht',
     'Eintracht S.C.': 'S.C. Eintracht',
     'SC Eintracht':'S.C. Eintracht',
@@ -1401,9 +1422,9 @@ usa = {
 
     #'IRT Celtics': 'I.R.T. Celtics',
         
-    'IRT Rangers': 'I.R.T. Rangers',
-
-    'IRT Strollers': 'I.R.T. Strollers',
+    'I.R.T. Rangers': 'IRT Rangers',
+    
+    'I.R.T. Strollers': 'IRT Strollers',
 
     'Alley Boys FC': 'Alley Boys',
     'Alley Boys': 'Harrison Alley Boys',

@@ -18,6 +18,12 @@ l = [
         'founded': 2013,
         },
 
+    {
+        'name': 'Portland Timbers 2',
+        'founded': 2014,
+        'city': 'Portland, OR',
+        },
+
     #D1
 
     {

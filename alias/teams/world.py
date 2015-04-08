@@ -1,5 +1,11 @@
 world = {
 
+    'German American S.C.': 'German-American SC',
+    'Reading German Americans': 'Reading German-Americans',
+
+    'Reading FC': 'Reading',
+
+
     'SAP': 'SAP FC',
     'Hitachi Centre SAP FC': 'SAP FC',
 
@@ -293,11 +299,9 @@ world = {
 
     'St. Catharines': 'St Catharines', 
     'VFR': 'VfR', 
-    'German American S.C.': 'German-American SC',
-    'Reading German Americans': 'Reading German-Americans'
-    'U.S.S.R. Olympic', 'USSR Olympic'
+    'U.S.S.R. Olympic': 'USSR Olympic',
 
-    'Internaţional Curtea de Argeş': 'Internațional Curtea de Argeș',
+    #'Internaţional Curtea de Argeş': 'Internațional Curtea de Argeș',
     'Jiul Petroşani': 'Jiul Petroșani',
     'Gloria Bistriţa': 'Gloria Bistrița',
     'Atletico Pompeya': 'Atlético Pompeya',
@@ -3321,9 +3325,10 @@ world = {
     'NAC': 'NAC Breda',
     'Nac Breda': 'NAC Breda',
 
-    'N.E.C.': 'NEC',
+    'NEC Nijmegen': 'NEC',
     'NEC (Nijmegen)': 'NEC',
     'NEC (Nĳmegen)': 'NEC',
+    'N.E.C.': 'NEC',
     'Nec': 'NEC',
 
     'FC Twente (Enschede)': 'FC Twente',
@@ -4673,6 +4678,7 @@ world = {
     'Moss': 'Moss FK',
     'Moss FK (Nor)': 'Moss FK',
 
+    'Bodo Glimt': 'Bodø/Glimt',
     'Bodo': 'Bodø/Glimt',
     'Bodo/Glimt': 'Bodø/Glimt',
     'Bodo/Glimt -- Norway': 'Bodo/Glimt',
@@ -4829,6 +4835,7 @@ world = {
     'Köln': '1. FC Köln',
     'Nürnberg': '1. FC Nürnberg',
 
+    'Hoffenheim 1899': '1899 Hoffenheim',
     'Hoffenheim': '1899 Hoffenheim',
     'TSG 1899 Hoffenheim': '1899 Hoffenheim',
 
@@ -5139,6 +5146,7 @@ world = {
 
     'Oldham': 'Oldham Athletic',
 
+    'Middlesbrough FC': 'Middlesbrough',
     'Middleborough FC': 'Middlesbrough F.C.',
     'Middlesbrough F.C.': 'Middlesbrough',
 
@@ -5289,6 +5297,7 @@ world = {
     'Bucaramanga': 'Atlético Bucaramanga',
     'Bucuramanga': 'Atlético Bucaramanga',
     'Atletico Bucaramanga': 'Atlético Bucaramanga',
+    'Atletico Bucuramanga': 'Atlético Bucaramanga',
     'Atl Bucaramanga': 'Atlético Bucaramanga',
     'Atl. Bucaramanga': 'Atlético Bucaramanga',
 
@@ -6042,7 +6051,7 @@ world = {
     'Olimpo (Bahía Blanca)': 'Olimpo',
 
 
-
+    'Union Santa Fe': 'Unión de Santa Fe',
     'Unión De Santa Fe': 'Unión de Santa Fe',
     'Unión (Sta.Fe)': 'Unión de Santa Fe',
     'Union (SF)': 'Unión de Santa Fe',

@@ -5,6 +5,12 @@ import datetime
 
 l = [
 
+    { 
+        'name': 'Real Monarchs SLC',
+        'founded': 2014,
+        'city': 'Salt Lake City, UT',
+        },
+
     # old
 
     { 

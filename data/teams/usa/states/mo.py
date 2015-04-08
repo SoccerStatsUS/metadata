@@ -5,6 +5,13 @@ import datetime
 
 l = [
 
+
+    {
+        'name': 'Saint Louis FC',
+        'founded': 2014,
+        'city': 'St. Louis, MO',
+        },
+
     # Indoor
 
     {

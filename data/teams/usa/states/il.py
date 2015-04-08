@@ -29,6 +29,11 @@ l = [
         },
 
     {
+        'name': 'Wieboldt Wonderbolts',
+        'city': 'Chicago, IL',
+        },
+
+    {
         'name': 'Benld (IL)',
         'city': 'Benld, IL',
         },

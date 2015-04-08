@@ -12,6 +12,11 @@ l = [
         },
 
     {
+        'name': 'Lackawanna Hispano',
+        'city': 'Lackawanna, NY',
+        },
+
+    {
         'name': 'Port Chester',
         'city': 'Port Chester, NY',
         },
@@ -418,6 +423,12 @@ l = [
     {
         'name': 'New York Red Bulls',
         'founded': 1995,
+        'city': 'New York, NY',
+        },
+
+    {
+        'name': 'New York Red Bulls II',
+        'founded': datetime.datetime(2015,1,21),
         'city': 'New York, NY',
         },
 
