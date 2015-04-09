@@ -5,6 +5,12 @@ import datetime
 
 l = [
 
+    {
+        'name': 'Colorado Springs Switchbacks FC',
+        'city': 'Colorado Springs, CO',
+        'founded': 2014,
+        },
+
     # indoor
 
 

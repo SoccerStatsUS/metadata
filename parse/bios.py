@@ -70,14 +70,17 @@ def process_asl_bios():
     l = []
     for line in f:
 
-        fields = line.split("\t") # 9 fields
+        if line.startswith("*"):
+            continue
+
+        fields = line.split(";") # 9 fields
         name, birthplace, bmonth, bday, byear, deathplace, dmonth, dday, dyear = fields
 
         if bmonth:
             try:
                 birthdate = datetime.datetime(int(byear), int(bmonth), int(bday))
             except:
-                print(name, byear, bmonth, bday )
+                #print(name, byear, bmonth, bday )
                 birthdate = None
         else:
             birthdate = None
@@ -86,7 +89,8 @@ def process_asl_bios():
             try:
                 deathdate = datetime.datetime(int(dyear), int(dmonth), int(dday))
             except:
-                print(name, dyear, dmonth, dday )
+                #print("deathdate problem")
+                #print(name, dyear, dmonth, dday )
                 deathdate = None
 
         else:

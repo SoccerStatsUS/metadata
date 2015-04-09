@@ -5,6 +5,12 @@ import datetime
 
 l = [
 
+    {
+        'name': 'Jacksonville Armada FC',
+        'founded': 2013,
+        'city': 'Jacksonville, FL',
+        },
+
     # indoor
 
         {

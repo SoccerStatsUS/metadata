@@ -10,6 +10,47 @@ l = [
         'city': 'Donora, PA',
         },
 
+    { 
+        'name': 'Curry Silver Tops',
+        'city': 'Curry, PA',
+        },
+
+    { 
+        'name': 'Morgan Strasser',
+        'city': 'Morgan, PA',
+        },
+
+    { 
+        'name': 'Germantown Cricket Club',
+        'city': 'Philadelphia, PA',
+        },
+
+    { 
+        'name': 'Merion Cricket Club',
+        'city': 'Philadelphia, PA',
+        },
+
+    { 
+        'name': 'Belmont Cricket Club',
+        'city': 'Philadelphia, PA',
+        },
+
+    { 
+        'name': 'Belmont and Merion Cricket Club',
+        'city': 'Philadelphia, PA',
+        },
+
+    { 
+        'name': 'Philadelphia Cricket Club',
+        'city': 'Philadelphia, PA',
+        },
+
+    { 
+        'name': 'Philadelphia Fairhill',
+        'city': 'Philadelphia, PA',
+        },
+
+
     # indoor
     
     { 
@@ -172,6 +213,23 @@ l = [
         'city': 'Philadelphia, PA',
         },
 
+    { 
+        'name': 'Puritan Y.M.L.',
+        'city': 'Philadelphia, PA', # verify
+        },
+
+    { 
+        'name': 'Treveskyn FC',
+        #'city': 'Treveskyn, PA',
+        'city': 'Cuddy, PA',
+        },
+
+    { 
+        'name': 'Cuddy AC',
+        'city': 'Cuddy, PA',
+        },
+
+
     {
 
         'name': 'Chester Town Team',
@@ -287,6 +345,31 @@ l = [
         'founded': 1911,
         'dissolved': 1930,
         'city': 'Bethlehem, PA',
+        },
+
+    {
+        'name': 'Bethlehem East Ends',
+        'city': 'Bethlehem, PA',
+        },
+
+    {
+        'name': 'Kingessing FC',
+        'city': 'Philadelphia, PA',
+        },
+
+    {
+        'name': 'Pittsburgh Rovers',
+        'city': 'Pittsburgh, PA',
+        },
+
+    {
+        'name': 'Pittsburgh Terminal',
+        'city': 'Pittsburgh, PA',
+        },
+
+    {
+        'name': 'Pittsburgh Gallatin',
+        'city': 'Pittsburgh, PA',
         },
 
 
@@ -490,6 +573,122 @@ l = [
         'founded': 1947,
         'dissolved': 1967,
         },
+
+    {
+        'name': 'Harmarville FC',
+        'city': 'Harmarville, PA',
+        },
+
+
+
+    {
+        'name': 'Braddock FC',
+        'city': 'Braddock, PA',
+        },
+
+    {
+        'name': 'Braddock Steel',
+        'city': 'Braddock, PA',
+        },
+
+    {
+        'name': 'Castle Shannon',
+        'city': 'Castle Shannon, PA',
+        },
+
+    {
+        'name': 'McKeesport FC',
+        'city': 'McKeesport, PA',
+        },
+
+    {
+        'name': 'Vestaburg SC (Pittsburgh)',
+        'city': 'Pittsburgh, PA',
+        },
+
+    {
+        'name': 'Allentown YMCA',
+        'city': 'Allentown, PA',
+        },
+
+    {
+        'name': 'Wissinoming FC',
+        'city': 'Philadelphia, PA',
+        },
+
+
+    {
+        'name': 'West Philadelphia FC',
+        'city': 'Philadelphia, PA',
+        },
+
+    {
+        'name': 'Peabody FC',
+        'city': 'Philadelphia, PA',
+        },
+
+    {
+        'name': 'Homestead Steel',
+        'city': 'Homestead, PA',
+        },
+
+    {
+        'name': 'Homestead FC',
+        'city': 'Homestead, PA',
+        },
+
+    {
+        'name': 'East Pittsburgh',
+        'city': 'East Pittsburgh, PA',
+        },
+
+    {
+        'name': 'East Pittsburgh Internationals',
+        'city': 'East Pittsburgh, PA',
+        },
+
+    {
+        'name': 'Feltonville',
+        'city': 'Philadelphia, PA',
+        },
+
+    {
+        'name': 'Philadelphia Hibernian',
+        'city': 'Philadelphia, PA',
+        },
+
+    {
+        'name': 'Lehighton FC',
+        'city': 'Lehighton, PA',
+        },
+
+    {
+        'name': 'Noblestown',
+        'city': 'Noblestown, PA',
+        },
+
+    {
+        'name': 'Norristown',
+        'city': 'Norristown, PA',
+        },
+
+    {
+        'name': 'Cecil',
+        'city': 'Cecil, PA',
+        },
+
+
+    {
+        'name': 'Curllsville',
+        'city': 'Curllsville, PA',
+        },
+
+    {
+        'name': 'Neffs',
+        'city': 'Neffs, PA',
+        },
+
+
 
 ]
  

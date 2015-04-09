@@ -6,6 +6,11 @@ import datetime
 l = [
 
     {
+        'name': 'Gary FC',
+        'city': 'Gary, IN',
+        },
+
+    {
         'name': 'Fort Wayne Fever',
         'city': 'Fort Wayne, IN',
         'founded': 2003,

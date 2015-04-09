@@ -12,6 +12,21 @@ l = [
         },
 
     {
+        'name': 'New Bedford Cotton Mills',
+        'city': 'New Bedford, MA',
+        },
+
+    {
+        'name': 'Ludlow Clan McClennan',
+        'city': 'Ludlow, MA',
+        },
+
+    {
+        'name': 'Methuen FC',
+        'city': 'Methuen, MA',
+        },
+
+    {
         'name': 'Real Boston Rams',
         'city': 'Boston, MA',
         'founded': 2012,
@@ -20,6 +35,43 @@ l = [
     {
         'name': 'Boston Highlands Team',
         'city': 'Boston, MA',
+        },
+
+    {
+        'name': 'Bunker Hill Celtics',
+        'city': 'Boston, MA',
+        },
+
+    {
+        'name': 'Bunker Hill FC',
+        'city': 'Boston, MA',
+        },
+
+    {
+        'name': 'Lynn Fosse',
+        'city': 'Lynn, MA',
+        },
+
+    {
+        'name': 'Lynn Gas & Electric',
+        'city': 'Lynn, MA',
+        },
+
+    {
+        'name': 'Lynn Hibernian',
+        'city': 'Lynn, MA',
+        },
+
+
+
+    {
+        'name': 'Lynn Thistle',
+        'city': 'Lynn, MA',
+        },
+
+    {
+        'name': 'Brockton FC',
+        'city': 'Brockton, MA',
         },
 
     {
@@ -53,6 +105,38 @@ l = [
         'city': 'Fall River, MA',
         },
 
+    {
+        'name': 'Farr Alpaca',
+        'city': 'Holyoke, MA',
+        },
+
+    {
+        'name': 'Lawrence FC',
+        'city': 'Lawrence, MA',
+        },
+
+    {
+        'name': 'Lawrence Thistle',
+        'city': 'Lawrence, MA',
+        },
+
+
+
+    {
+        'name': 'Lawrence Olympics',
+        'city': 'Lawrence, MA',
+        },
+
+
+    {
+        'name': 'Taunton City',
+        'city': 'Taunton, MA',
+        },
+
+    {
+        'name': 'Andover United',
+        'city': 'Andover, MA',
+        },
     {
         'name': 'Taunton Whittentons',
         'city': 'Taunton, MA',
@@ -166,6 +250,16 @@ l = [
 
     {
         'name': 'New Bedford North Ends',
+        'city': 'New Bedford, MA',
+        },
+
+    {
+        'name': 'Quissett Mill',
+        'city': 'New Bedford, MA',
+        },
+
+    {
+        'name': 'Nashawena Mill',
         'city': 'New Bedford, MA',
         },
 

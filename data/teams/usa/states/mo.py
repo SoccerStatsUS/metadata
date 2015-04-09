@@ -5,6 +5,13 @@ import datetime
 
 l = [
 
+
+    {
+        'name': 'Saint Louis FC',
+        'founded': 2014,
+        'city': 'St. Louis, MO',
+        },
+
     # Indoor
 
     {
@@ -37,12 +44,62 @@ l = [
         },
 
     {
+        'name': 'St. Louis Screw',
+        'city': 'St. Louis, MO',
+        },
+
+    {
+        'name': 'Scullin Steel',
+        'city': 'St. Louis, MO',
+        },
+
+    {
+        'name': 'St. Leo\'s',
+        'city': 'St. Louis, MO',
+        },
+
+    {
+        'name': 'Innisfails FC',
+        'city': 'St. Louis, MO',
+        },
+
+    {
+        'name': 'St. Louis Pants Store FC',
+        'city': 'St. Louis, MO',
+        },
+
+    {
         'name': 'Kansas City YMCA',
         'city': 'Kansas City, MO',
         },
 
     {
+        'name': 'Schmelzer FC',
+        'city': 'Kansas City, MO',
+        },
+
+    {
+        'name': 'St. George FC (Kansas City)',
+        'city': 'Kansas City, MO',
+        },
+
+    {
+        'name': 'British-American (Kansas City)',
+        'city': 'Kansas City, MO',
+        },
+
+    {
+        'name': 'Shamrock FC (Kansas City)',
+        'city': 'Kansas City, MO',
+        },
+
+    {
         'name': 'St. Louis Montgomerys',
+        'city': 'St. Louis, MO',
+        },
+
+    {
+        'name': 'De Andreis FC',
         'city': 'St. Louis, MO',
         },
 

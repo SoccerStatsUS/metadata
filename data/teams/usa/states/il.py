@@ -29,6 +29,78 @@ l = [
         },
 
     {
+        'name': 'Wieboldt Wonderbolts',
+        'city': 'Chicago, IL',
+        },
+
+    {
+        'name': 'Benld (IL)',
+        'city': 'Benld, IL',
+        },
+
+    {
+        'name': 'Harvey Buda A.A.',
+        'city': 'Harvey, IL',
+        },
+
+    {
+        'name': 'Harvey FC',
+        'city': 'Harvey, IL',
+        },
+
+    {
+        'name': 'Johnston City FC',
+        'city': 'Johnston City, IL',
+        },
+
+    {
+        'name': 'Hyde Park Blues',
+        'city': 'Chicago, IL',
+        },
+
+
+    {
+        'name': 'Lincoln Park FC',
+        'city': 'Chicago, IL',
+        },
+
+    {
+        'name': 'Chicago Vienna',
+        'city': 'Chicago, IL',
+        },
+
+    {
+        'name': 'Chicago MacDuff',
+        'city': 'Chicago, IL',
+        },
+
+    {
+        'name': 'Chicago Sparta Reserves',
+        'city': 'Chicago, IL',
+        },
+
+    {
+        'name': 'Chicago Norwegian American',
+        'city': 'Chicago, IL',
+        },
+
+    {
+        'name': 'Chicago Canadian Club',
+        'city': 'Chicago, IL',
+        },
+    {
+        'name': 'Chicago Olympia',
+        'city': 'Chicago, IL',
+        },
+
+    {
+        'name': 'Pullman FC',
+        'city': 'Chicago, IL',
+        'founded': 1893, # wiki
+        'dissolved': 1929, # wiki
+        },
+
+    {
         'name': 'Rockford Rampage',
         'city': 'Rockford, IL',
         },
@@ -185,9 +257,34 @@ l = [
         'city': 'Joliet, IL',
         },
 
+    {
+        'name': 'Joliet FC',
+        'city': 'Joliet, IL',
+        },
+
+    {
+        'name': 'Joliet Steel Works',
+        'city': 'Joliet, IL',
+        },
+
 
     {
         'name': 'Chicago Swedish American SC',
+        'city': 'Chicago, IL',
+        },
+
+    {
+        'name': 'Chicago Woodlawns',
+        'city': 'Chicago, IL',
+        },
+
+    {
+        'name': 'Coal City Maroons',
+        'city': 'Coal City, IL',
+        },
+
+    {
+        'name': 'Palmer Park',
         'city': 'Chicago, IL',
         },
 

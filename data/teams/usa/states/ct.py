@@ -39,6 +39,31 @@ l = [
         },
 
     {
+        'name': 'Hartford Swedes',
+        'city': 'Hartford, CT',
+        },
+
+    {
+        'name': 'Hartford Danes',
+        'city': 'Hartford, CT',
+        },
+
+    {
+        'name': 'Hartford City',
+        'city': 'Hartford, CT',
+        },
+
+    {
+        'name': 'Hartford United',
+        'city': 'Hartford, CT',
+        },
+
+    {
+        'name': 'Hartford Rovers',
+        'city': 'Hartford, CT',
+        },
+
+    {
         'name': 'Connecticut FC Azul',
         'city': 'Hamden, CT',
         'founded': 2011,
@@ -67,12 +92,72 @@ l = [
         },
 
     {
+        'name': 'New Haven Rangers',
+        'city': 'New Haven, CT',
+        },
+
+    {
         'name': 'Bridgeport Bears',
         'city': 'Bridgeport, CT',
         },
 
     {
+        'name': 'Bridgeport St. George',
+        'city': 'Bridgeport, CT',
+        },
+
+    {
+        'name': 'Bridgeport Rovers',
+        'city': 'Bridgeport, CT',
+        },
+
+    {
+        'name': 'Bridgeport Rangers',
+        'city': 'Bridgeport, CT',
+        },
+
+    {
+        'name': 'Bridgeport City',
+        'city': 'Bridgeport, CT',
+        },
+
+    {
+        'name': 'Bridgeport Presbyterian SC',
+        'city': 'Bridgeport, CT',
+        },
+
+    {
+        'name': 'Bridgeport Swedish AC',
+        'city': 'Bridgeport, CT',
+        },
+
+    {
+        'name': 'Bridgeport Celtics',
+        'city': 'Bridgeport, CT',
+        },
+
+    {
+        'name': 'Naugatuck FC',
+        'city': 'Naugatuck, CT',
+        },
+
+    {
+        'name': 'Plainfield FC',
+        'city': 'Plainfield, CT',
+        },
+
+    {
         'name': 'Olympia Stamford',
+        'city': 'Stamford, CT',
+        },
+
+    {
+        'name': 'Ansonia FC',
+        'city': 'Ansonia, CT',
+        },
+
+    {
+        'name': 'Stamford Danersk',
         'city': 'Stamford, CT',
         },
 

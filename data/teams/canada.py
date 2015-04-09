@@ -5,6 +5,24 @@ import datetime
 
 l = [
 
+    {
+        'name': 'Vancouver Whitecaps FC 2',
+        'founded': 2014,
+        'city': 'Vancouver, BC',
+        },
+
+    {
+        'name': 'Toronto FC II',
+        'founded': 2014,
+        'city': 'Toronto, ON',
+        },
+
+    {
+        'name': 'FC Montreal',
+        'founded': 2014,
+        'city': 'Montreal, QC',
+        },
+
     # indoor
 
     {

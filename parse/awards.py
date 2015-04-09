@@ -297,7 +297,7 @@ def process_apsl_awards():
     return process_awards(apsl.d) + process_awards(apsl.apslpc) + process_awards(wsa.d) + process_awards(usl0.d)
 
 def process_american_cup_awards():
-    from metadata.data.lists.awards.americancup import d
+    from metadata.data.lists.awards.afacup import d
     return process_awards(d)
 
 def process_us_open_cup_awards():

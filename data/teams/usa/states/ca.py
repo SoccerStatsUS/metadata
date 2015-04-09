@@ -91,6 +91,11 @@ l = [
         },
 
     {
+        'name': 'McIlvaine Canvasbacks',
+        'city': 'San Pedro, CA',
+        },
+
+    {
         'name': 'San Francisco California Rangers',
         'city': 'San Francisco, CA',
         },

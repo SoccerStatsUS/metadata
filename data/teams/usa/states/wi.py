@@ -11,13 +11,19 @@ l = [
         },
 
     {
-        'name': 'Waukesha Town Club',
+        'name': 'Waukesha Town Club', # Town Team?
         'city': 'Waukesha, WI',
         },
+
 
     {
         'name': 'Carroll College (WI)',
         'city': 'Waukesha, WI',
+        },
+
+    {
+        'name': 'Kenosha FC',
+        'city': 'Kenosha, WI',
         },
 
 

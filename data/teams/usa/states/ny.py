@@ -5,6 +5,22 @@ import datetime
 
 l = [
 
+
+    {
+        'name': 'Astoria Independents',
+        'city': 'Queens, NY',
+        },
+
+    {
+        'name': 'Lackawanna Hispano',
+        'city': 'Lackawanna, NY',
+        },
+
+    {
+        'name': 'Port Chester',
+        'city': 'Port Chester, NY',
+        },
+
     # indoor
     
     {
@@ -20,6 +36,95 @@ l = [
         'name': 'Niagara Falls Rangers',
         'city': 'Niagara Falls, NY',
         },
+
+    {
+        'name': 'Rochester City AFC',
+        'city': 'Rochester, NY',
+        },
+
+    {
+        'name': 'Kodak Park',
+        'city': 'Rochester, NY',
+        },
+
+    {
+        'name': 'Erie General Electric',
+        'city': 'Erie, NY',
+        },
+
+    {
+        'name': 'Rochester City Moose',
+        'city': 'Rochester, NY',
+        },
+
+    {
+        'name': 'Niagara Falls MacKenzie',
+        'city': 'Niagara Falls, NY',
+        },
+
+    {
+        'name': 'Niagara Falls Wanderers',
+        'city': 'Niagara Falls, NY',
+        },
+
+    {
+        'name': 'Bay Ridge FC',
+        'city': 'Brooklyn, NY',
+        },
+
+    {
+        'name': 'Bay Ridge United',
+        'city': 'Brooklyn, NY',
+        },
+
+    {
+        'name': 'Bensonhurst CFC',
+        'city': 'Brooklyn, NY',
+        },
+
+    {
+        'name': 'Staten Island C&TC',
+        'city': 'Staten Island, NY',
+        },
+
+    {
+        'name': 'Brooklyn Hibernian',
+        'city': 'Brooklyn, NY',
+        },
+
+    {
+        'name': 'Brooklyn Rangers',
+        'city': 'Brooklyn, NY',
+        },
+
+    {
+        'name': 'Brooklyn Lexington FC',
+        'city': 'Brooklyn, NY',
+        },
+
+    {
+        'name': 'Greenpoint FC',
+        'city': 'Brooklyn, NY',
+        },
+
+
+    {
+        'name': 'Greenpoint Rovers',
+        'city': 'Brooklyn, NY',
+        },
+
+
+
+    {
+        'name': 'Bronx United',
+        'city': 'Bronx, NY',
+        },
+
+    {
+        'name': 'Bronx Rangers FC',
+        'city': 'Bronx, NY',
+        },
+
     {
         'name': 'New York Eagles',
         'city': 'Mount Vernon, NY',
@@ -53,6 +158,12 @@ l = [
         'city': 'New York, NY',
         },
 
+    {
+        'name': 'Mamaroneck',
+        'city': 'Mamaroneck, NY',
+        },
+
+
 
 
     {
@@ -64,6 +175,46 @@ l = [
 
     {
         'name': 'Buffalo Blazers',
+        'city': 'Buffalo, NY',
+        },
+
+    {
+        'name': 'Buffalo Corinthians',
+        'city': 'Buffalo, NY',
+        },
+
+
+
+    {
+        'name': 'Buffalo Argylls',
+        'city': 'Buffalo, NY',
+        },
+
+    {
+        'name': 'Buffalo Sons of St. George',
+        'city': 'Buffalo, NY',
+        },
+
+
+    {
+        'name': 'Buffalo United',
+        'city': 'Buffalo, NY',
+        },
+
+
+    {
+        'name': 'Buffalo Rangers',
+        'city': 'Buffalo, NY',
+        },
+
+
+    {
+        'name': 'Buffalo Nomads',
+        'city': 'Buffalo, NY',
+        },
+
+    {
+        'name': 'Buffalo Hungarian FC',
         'city': 'Buffalo, NY',
         },
 
@@ -272,6 +423,12 @@ l = [
     {
         'name': 'New York Red Bulls',
         'founded': 1995,
+        'city': 'New York, NY',
+        },
+
+    {
+        'name': 'New York Red Bulls II',
+        'founded': datetime.datetime(2015,1,21),
         'city': 'New York, NY',
         },
 
@@ -587,6 +744,23 @@ l = [
         'name': 'Yonkers Hollywood Inn',
         'city': 'Yonkers, NY',
         'founded': 1901,
+        },
+
+    {
+        'name': 'Yonkers Thistle',
+        'city': 'Yonkers, NY',
+        'founded': 1901,
+        },
+
+    {
+        'name': 'Yonkers FC',
+        'city': 'Yonkers, NY',
+        'founded': 1901,
+        },
+
+    {
+        'name': 'Yonkers St. George',
+        'city': 'Yonkers, NY',
         },
 
     {

@@ -36,10 +36,6 @@ l = [
         'city': 'Pawtucket, RI',
         },
 
-    {
-        'name': 'Olneyville Thorntons',
-        'city': 'Providence, RI',
-        },
 
     {
         'name': 'Pawtucket Celtic',
@@ -54,6 +50,16 @@ l = [
     {
         'name': 'Providence Portuguese',
         'city': 'Providence, RI',
+        },
+
+    {
+        'name': 'Seaconnet',
+        'city': 'Portsmouth, RI',
+        },
+
+    {
+        'name': 'Bourne Mill', # probably played on the future site of Mark's Stadium
+        'city': 'Tiverton, RI',
         },
 
     {
@@ -75,6 +81,11 @@ l = [
 
     {
         'name': 'Pawtucket Lorraines',
+        'city': 'Pawtucket, RI',
+        },
+
+    {
+        'name': 'Pawtucket Odd Fellows',
         'city': 'Pawtucket, RI',
         },
 
@@ -123,6 +134,18 @@ l = [
         'city': 'Providence, RI',
         },
 
+
+
+    {
+        'name': 'Olneyville Thorntons',
+        'city': 'Providence, RI',
+        },
+
+    {
+        'name': 'Olneyville Oaks FC',
+        'city': 'Providence, RI',
+        },
+
     {
         'name': 'Olneyville Olympics',
         'city': 'Olneyville, RI',
@@ -138,9 +161,15 @@ l = [
         'city': 'Cumberland, RI',
         },
 
+
     {
         'name': 'South Providence Association',
         'city': 'Providence, RI',
+        },
+
+    {
+        'name': 'Fairlawn Rovers',
+        'city': 'Fairlawn, RI',
         },
 
     {

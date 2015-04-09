@@ -5,6 +5,25 @@ import datetime
 
 l = [
 
+    { 
+        'name': 'Real Monarchs SLC',
+        'founded': 2014,
+        'city': 'Salt Lake City, UT',
+        },
+
+    # old
+
+    { 
+        'name': 'Ogden Railroaders',
+        'city': 'Ogden, UT',
+        },
+
+    { 
+        'name': 'Eureka Miners',
+        'city': 'Eureka, UT',
+        },
+
+
     # indoor
 
     {

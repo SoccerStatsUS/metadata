@@ -109,6 +109,8 @@ l = [
         'city': 'Detroit, MI',
         },
 
+    # early
+
     {
         'name': 'Detroit Packard FC',
         'city': 'Detroit, MI',
@@ -121,6 +123,46 @@ l = [
         'name': 'Detroit Swedish American FC',
         'city': 'Detroit, MI',
         },
+
+    {
+        'name': 'Detroit Highland Park',
+        'city': 'Detroit, MI',
+        },
+
+    {
+        'name': 'Detroit St. George FC',
+        'city': 'Detroit, MI',
+        },
+
+    {
+        'name': 'Detroit Wood Hydraulic',
+        'city': 'Detroit, MI',
+        },
+
+    {
+        'name': 'Detroit Celtic',
+        'city': 'Detroit, MI',
+        },
+
+    {
+        'name': 'Detroit All Scots',
+        'city': 'Detroit, MI',
+        },
+
+
+    {
+        'name': 'Flint City',
+        'city': 'Flint, MI',
+        },
+
+
+    {
+        'name': 'Flint IMA',
+        'city': 'Flint, MI',
+        },
+
+
+
 
 
     {

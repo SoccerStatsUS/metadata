@@ -51,7 +51,12 @@ l = [
 
     {
         'name': 'SC Cleveland', 
-        'city': 'Cleveland, OH', # presumably?
+        'city': 'Cleveland, OH', 
+        },
+
+    {
+        'name': 'Cleveland FC', # same as SC Cleveland?
+        'city': 'Cleveland, OH', 
         },
 
 
@@ -82,6 +87,53 @@ l = [
         'city': 'Cleveland, OH',
         },
 
+    {
+        'name': 'Cleveland White Motor FC',
+        'city': 'Cleveland, OH',
+        },
+
+    {
+        'name': 'Cleveland Favorite Knits',
+        'city': 'Cleveland, OH',
+        },
+
+    {
+        'name': 'Cleveland Thistle',
+        'city': 'Cleveland, OH',
+        },
+
+    {
+        'name': 'Cuyahoga Works FC', 
+        'city': 'Cleveland, OH', # presumably
+        },
+
+    {
+        'name': 'Cleveland American Hungarian',
+        'city': 'Cleveland, OH',
+        },
+
+    {
+        'name': 'Cleveland British War Veterans',
+        'city': 'Cleveland, OH',
+        },
+
+    {
+        'name': 'Cleveland Bricklayers',
+        'city': 'Cleveland, OH',
+        },
+
+    {
+        'name': 'East Liverpool Sons of St. George',
+        'city': 'East Liverpool, OH',
+        },
+
+    {
+        'name': 'Woodlawn Rovers',
+        'city': 'Woodlawn, OH',
+        },
+
+
+
 
     # division 1
 
@@ -92,6 +144,8 @@ l = [
         'dissolved': 1967,
         'city': 'Cleveland, OH',
         },
+
+
 
 
 
@@ -155,11 +209,27 @@ l = [
         'city': 'Akron, OH',
         },
 
+    {
+        'name': 'Akron Clan MacKenzie',
+        'city': 'Akron, OH',
+        },
 
     {
-        'name': 'Cleveland White Motor FC',
-        'city': 'Cleveland, OH',
+        'name': 'Firestone Non-Skid',
+        'city': 'Akron, OH',
         },
+
+    {
+        'name': 'Goodyear Company',
+        'city': 'Akron, OH',
+        },
+
+    {
+        'name': 'Cincinnati Gym & AC',
+        'city': 'Cincinnati, OH',
+        },
+
+
 
     {
         'name': 'Cincinnati Kids',

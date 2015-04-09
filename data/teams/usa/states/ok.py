@@ -5,6 +5,22 @@ import datetime
 
 l = [
 
+    {
+        'name': 'Tulsa Roughnecks FC',
+        'founded': 2013,
+        'city': 'Tulsa, OK',
+        },
+
+    {
+        'name': 'Tulsa Athletics',
+        'city': 'Tulsa, OK',
+        },
+
+    {
+        'name': 'Tulsa Internationals',
+        'city': 'Tulsa, OK',
+        },
+
     # Indoor
 
     {
