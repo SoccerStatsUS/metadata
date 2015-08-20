@@ -987,6 +987,7 @@ basic = {
     'Tom Strong': 'Thomas Strong',
 
     'Johnny Pettigrew': 'John Pettigrew',
+    'Jack Pettigerw': 'John Pettigrew',
 
     '"Joe" Zell': 'Joe Zell',
 
