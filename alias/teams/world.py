@@ -5394,6 +5394,7 @@ world = {
 
     'Atlético Junior': 'Junior de Barranquilla',
     'Atl. Junior': 'Junior de Barranquilla',
+    'Corporacion Popular Junior': 'Junior de Barranquilla',
 
     'Junior (Colombia)': 'Junior de Barranquilla',
     'Atletico Junior': 'Junior de Barranquilla',
@@ -6048,6 +6049,7 @@ world = {
 
     'Olimpo De Bahía Blanca': 'Olimpo',
     'Olimpo (BB)': 'Olimpo',
+    'Club Olimpo': 'Olimpo',
     'Olimpo (Bahía Blanca)': 'Olimpo',
 
 
@@ -6182,6 +6184,7 @@ world = {
     'Colón': 'CA Colon',
     'CA Colon': 'CA Colón',
 
+    'Belgrano FC': 'Belgrano AC',
     'CA Belgrano': 'Belgrano AC',
     'Belgrano': 'Belgrano AC',
     'Belgrano Athletic': 'Belgrano AC',

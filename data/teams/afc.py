@@ -266,6 +266,12 @@ l = [
         },
 
     {
+        'name': 'FC Anyang',
+        'founded': 2013,
+        'city': 'Anyang, South Korea',
+        },
+
+    {
         'name': 'Bucheon SK',
         'founded': 1996,
         'dissolved': 2006,
@@ -379,6 +385,12 @@ l = [
         'name': 'Raj Pracha FC',
         'founded': 1968,
         #'city': 'Thailand',
+        },
+
+    {
+        'name': 'Buriram United',
+        'founded': 1970,
+        'city': 'Buriram, Thailand',
         },
 
     # Iran

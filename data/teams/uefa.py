@@ -1891,6 +1891,12 @@ l = [
         'city': 'Spjutsbygd, Sweden',
         },
 
+    {
+        'name': 'Angelholms FF',
+        'founded': 1976,
+        'city': 'Angelholms, Sweden',
+        },
+
 
     # Norway
 
