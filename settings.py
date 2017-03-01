@@ -9,6 +9,7 @@ roots = {
     'oscar': '/home/chris/soccer',
     'li1014-58': '/home/chris/soccer',
     'jason': '/home/chris/soccer',
+    'ubuntu': '/home/chris/soccer',
     }
 
 ROOT_DIR = roots[host]
