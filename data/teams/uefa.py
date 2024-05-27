@@ -59,6 +59,12 @@ l = [
         },
 
     {
+        'name': 'Mjondalen IF',
+        'city': 'Mjøndalen, Norway',
+        'founded': datetime.datetime(1910, 8, 22),
+        },
+
+    {
         'name': 'Sandnes Ulf',
         'city': 'Sandnes, Norway',
         'founded': datetime.datetime(1911, 6, 1),
@@ -2725,6 +2731,12 @@ l = [
     {
         'name': 'Hapoel Tel Aviv F.C.',
         'founded': datetime.datetime(1927, 5, 31),
+        'city': 'Tel Aviv, Israel',
+        },
+
+    {
+        'name': 'Bnei Yehuda Tel Aviv',
+        'founded': 1936,
         'city': 'Tel Aviv, Israel',
         },
 
@@ -5722,6 +5734,15 @@ l = [
         'name': 'Vejle',
         'founded': 1891,
         'city': 'Vejle, Denmark',
+        },
+
+    {
+        'name': 'Vejle Kolding',
+        'founded': 2011,
+        'dissolved': 2013,
+        'city': 'Vejle, Denmark',
+        # The club was founded in June 2011, when Vejle Boldklub and Kolding FC merged.
+        # The club was dissolved in June 2013 and split into Vejle Boldklub and Kolding IF.
         },
 
     {

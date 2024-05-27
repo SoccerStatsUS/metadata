@@ -42,6 +42,12 @@ l = [
         },
 
     {
+        'name': 'Al-Gharafa SC',
+        'founded': datetime.datetime(1979, 6, 6),
+        'city': 'Doha, Qatar',
+        },
+
+    {
         'name': 'Al-Wahda',
         'founded': 1974,
         'city': 'Abu Dhabi, United Arab Emirates',

@@ -6,6 +6,12 @@ import datetime
 l = [
 
     {
+        'name': 'Rayo OKC',
+        'founded': 2015,
+        'city': 'Oklahoma City, OK',
+        },
+
+    {
         'name': 'Tulsa Roughnecks FC',
         'founded': 2013,
         'city': 'Tulsa, OK',
