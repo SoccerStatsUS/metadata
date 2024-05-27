@@ -78,6 +78,9 @@ world = {
     'Georgios Karaiskakis': 'Georgios Karaiskakis Stadium',
 
     'Toyota': 'Toyota Stadium',
+
+
+
     'Calcio': 'Serie A',
 
     'San Jakob': 'St. Jakob-Park',
@@ -954,6 +957,10 @@ united_states = {
     'Sporting Park': 'Sporting Kansas City Park',
     'Sporting Park (Kansas City)': 'Sporting Kansas City Park',
     'Livestrong Sporting Park': 'Sporting Kansas City Park',
+    'Sporting Kansas City Park': 'Children\'s Mercy Park',
+    
+
+    
 
     'Community America Ballpark': 'CommunityAmerica Ballpark',
 
@@ -983,13 +990,16 @@ united_states = {
     'Sports Authority Field': 'Sports Authority Field at Mile High',
     'Invesco Field': 'Sports Authority Field at Mile High',
     'INVESCO Field': 'Sports Authority Field at Mile High',
+    'Sports Authority Field at Mile High': 'Mile High',
 
     # Rhode Island
     'Marks Stadium': 'Mark\'s Stadium',
     'Coats Field': 'Coates Field',
 
     # Ohio
-    'Crew Stadium': 'Columbus Crew Stadium',
+    'Crew Stadium': 'MAPFRE Stadium',
+    'Columbus Crew Stadium': 'MAPFRE Stadium',
+    
 
     'Beaver Creek High School': 'Dayton Outpatient Center Stadium',
     'Beavercreek High School': 'Dayton Outpatient Center Stadium',
@@ -1009,7 +1019,10 @@ united_states = {
     # Florida
 
     'ESPN Wide World of Sports': 'ESPN Wide World of Sports Complex',
+
+    'Orlando Citrus Bowl': 'Citrus Bowl',
     'Florida Citrus Bowl': 'Citrus Bowl',
+
     'Orange Bowl': 'Miami Orange Bowl',
     'Alltel Stadium': 'EverBank Field',
     'Al Lang Stadium': 'Progress Energy Park',
@@ -1098,6 +1111,8 @@ united_states = {
 
     # Pennsylvania
 
+    'PPL Park': 'Talen Energy Stadium',
+
     # 'Yellow Jacket Stadium': 'Frankford Stadium', multiple Yellow Jacket Stadiums existed.
     'Cambria Stadium': 'Cambria Field',
 
@@ -1123,7 +1138,9 @@ united_states = {
     'Gardner Park': 'Burnett Field',
     'Old Panther Stadium, Duncanville': 'Old Panther Field, Duncanville',
     'adidas Field at Pizza Hut Park': 'adidas Field',
-    'Pizza Hut Park': 'FC Dallas Stadium',
+
+    'Pizza Hut Park': 'Toyota Stadium (Frisco)',
+    'FC Dallas Stadium': 'Toyota Stadium (Frisco)',
 
     # Washington
     'Memorial Stadium (Seattle)': 'Seattle Memorial Stadium',

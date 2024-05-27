@@ -1,6 +1,12 @@
 
 usa = {
 
+    'Colorado Switchbacks': 'Colorado Springs Switchbacks FC',
+
+    'Arizona United SC': 'Arizona United',
+
+    'Atlanta United FC': 'Atlanta United',
+
     'Kollsman': 'Kollsman SC',
 
     'New York Hakoah-Americans': 'New York Hakoah Americans',
@@ -689,11 +695,17 @@ usa = {
     'La Galaxy': 'Los Angeles Galaxy',
     'Los Angeles Galaxy': 'LA Galaxy',
 
+    'Los Angeles Galaxy Reserves': 'LA Galaxy Reserves',
+
     'Los Angeles Galaxy II': 'LA Galaxy II',
+
 
     'New England Revolution - MLS': 'New England Revolution',
     'Ne Revolution': 'New England Revolution',
     'NE Revolution': 'New England Revolution',
+
+    'NYC FC': 'New York City FC',
+
     'NY/NJ Metrostars': 'New York Red Bulls',
     'Metrostars': 'New York Red Bulls',
     'MetroStars': 'New York Red Bulls',
@@ -701,6 +713,9 @@ usa = {
     'NY/NJ MetroStars': 'New York Red Bulls',
     'NY Red Bulls': 'New York Red Bulls',
     'Red Bull New York': 'New York Red Bulls',
+
+    'Columbus Crew SC': 'Columbus Crew',
+
     'Philadephia Union': 'Philadelphia Union',
 
     'FC Portland': 'Portland Timbers',

@@ -307,7 +307,9 @@ full_alias = {
 
 
 
-    'Olympic Games Qualifying': 'Olympic Games qualification',
+    
+    'Olympic Games qualification': 'Olympic Games Qualifying',
+    'Olympic Qualifying': 'Olympic Games Qualifying',
 
 
     # Just fix...

@@ -1,5 +1,15 @@
 
 basic = {
+    'Bryan Rochez': 'Bryan Róchez',
+    'Sebastian Hines': 'Seb Hines',
+    
+
+    'Josh Yaro': 'Joshua Yaro',
+
+    'Alex Zendejas': 'Alejandro Zendejas',
+    'Maximiliano Urruti': 'Max Urruti',
+
+    'Sunday Stephen': 'Sunday Stephen Obayan',
 
     'Cees DeWolf': 'Cees de Wolf',
 
@@ -1172,7 +1182,7 @@ basic = {
     'Gustavo Florentin': 'Gustavo Florentín',
     'Jeffrey Leblanc': 'Jeffrey LeBlanc',
     'Cesar Flores': 'César Flores',
-    'Shaun Wright Phillips': 'Shaun Wright-Phillips',
+
     'Roberto Néstor Sensini': 'Roberto Nestor Sensini',
     'Martin Verges': 'Martín Vergés',
     'Michael "Scott" Champ': 'Michael (Scott) Champ',
@@ -3929,8 +3939,14 @@ basic = {
     'André Pinto': 'Andre Pinto',
     'Mons-Ivar Mjelde': 'Mons Ivar Mjelde',
     'Balasko Ivan': 'Balaskó Iván',
+
+    'Shaun Wright Phillips': 'Shaun Wright-Phillips',
     'S Wright Phillips': 'Shaun Wright Phillips', 
     'S Wright-Phillips': 'Shaun Wright Phillips', 
+
+    'Bradley Wright Phillips': 'Bradley Wright-Phillips',
+    'Bradley-Wright Phillips': 'Bradley Wright-Phillips',
+
     'Ireneusz Jelen': 'Ireneusz Jeleń',
     'Tamas Vasko': 'Tamás Vaskó',
     'Sebastian Gorzad': 'Sebastian Gorząd',
@@ -4841,9 +4857,15 @@ basic = {
     '"Cristiano Ronaldo" dos Santos': 'Cristiano Ronaldo',
     '"Cristiano Ronaldo" dos Santos Aveiro': 'Cristiano Ronaldo',
     
+    'Ricardo dos Santos Leit': 'Kaka',
     '"Kaka" Ricardo Izecson Dos Santos Leite': 'Kaka',
     '"Kaká" Ricardo Izecson Dos Santos': 'Kaka',
     '"Kaká" Ricardo Izecson Dos Santos Leite': 'Kaka',
+    'Kaka': 'Kaká',
+    'Ricardo "Kakà" Izecson': 'Kaka',
+    'Ricardo "Kaká" Izecson': 'Kaka',
+
+
     '"Marcelo" Vieira da Silva': 'Marcelo Vieira',
     '"Marcelo" Vieira da Silva Júnior': 'Marcelo Vieira',
     '"Zé Castro" José Eduardo Rosa Vale Castro': 'Ze Castro',
@@ -4979,14 +5001,14 @@ basic = {
     
 
 
-    'Ricardo "Kaká" Izecson': 'Kaka',
+
     'De Morais Marcos Evangelista "Cafù"': 'Cafu',
     'Sergio Claudio dos Santos Serginho': 'Serginho',
     'Cicero Joao de Cezare "Cicinho"': 'Cicinho',
     'Rubens Fernando Moedim "Rubinho"': 'Rubinho',
     'De Oliveira Carvalho Amauri': 'Amauri',
 
-    'Ricardo "Kakà" Izecson': 'Kaka',
+
     'Sergio Claudio Dos Santos "Serginho"': 'Serginho',
     'Anderson Miguel Da Silva "Nenè"': 'Nene',
     'Alexandre "Pato" Rodrigues da Silva': 'Pato',
@@ -11484,7 +11506,9 @@ basic = {
     'Luis Henriquez': 'Luis Henríquez',
     'Efrain Juarez': 'Efraín Juárez',
     'Julio (Daniel) Frias-Adame': 'Julio Daniel Frías Adame',
-    'Kaka': 'Kaká',
+
+
+
     'Ricardo Martinez': 'Ricardo Martínez',
     
     'James Douglas': 'Jim Douglas',

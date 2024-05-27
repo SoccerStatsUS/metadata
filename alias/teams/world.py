@@ -2500,7 +2500,9 @@ world = {
     'A.F.C. Euro Kickers': 'Euro Kickers',
     'Eurokickers': 'Euro Kickers',
     'Boulder Nova': 'Colorado Rapids U-23',
+
     'LA Blues 23': 'OC Blues Strikers FC',
+
     'Minnesota Stars FC': 'Minnesota United FC',
     'CFC Azul': 'Connecticut FC Azul',
     'University of Nebraska at Omaha': 'University of Nebraska Omaha',
@@ -4284,6 +4286,7 @@ world = {
     'Altay Izmir': 'Altay',
 
 
+    'Trabszonspor': 'Trabzonspor',
     'Trabzon': 'Trabzonspor',
     'Trabzonspor K': 'Trabzonspor',
     'Trabzonspor (Tur)': 'Trabzonspor',
@@ -4965,6 +4968,7 @@ world = {
     'FC Saarbrücken': '1. FC Saarbrücken',
     'FC Saarbrucken': '1. FC Saarbrücken',
 
+    'FC Schalke': 'Schalke 04',
     'FC Schalke 04 (FRG)': 'Schalke 04',
     'Schalke´04': 'Schalke 04',
     'FC Schalke 04': 'Schalke 04',
@@ -5908,6 +5912,7 @@ world = {
     'M. Wanderers': 'Montevideo Wanderers',
 
     'River Plate Montevideo': 'River Plate (Montevideo)',
+    'CA River Plate Montevideo': 'River Plate (Montevideo)',
 
     'Bella Vista': 'CA Bella Vista',
     'C.A. Bella Vista': 'CA Bella Vista',
@@ -7277,6 +7282,7 @@ world = {
 
     #'Cobras de Queretaro': 'Querétaro FC',
 
+    'CF Pachuca': 'Pachuca',
     'Pachuca - Mexico': 'Pachuca',
     'A.Pachuca': 'Pachuca',
     'Club Pachuca': 'Pachuca',

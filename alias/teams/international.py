@@ -62,7 +62,7 @@ international = {
 
     'Italia': 'Italy',
 
-    'Checoslovaquia': 'Czechoslovakia',
+
     'Bélgica': 'Belgium',
     'Hungría': 'Hungary',
     'Noruega': 'Norway',
@@ -87,6 +87,7 @@ international = {
     'USSR U-20': 'U.S.S.R. U-20',
     'USSR U-17': 'U.S.S.R. U-17',
     'U.S.S.R U-17': 'U.S.S.R. U-17',
+
 
     'Checoslovaquia Sub-17': 'Czechoslovakia U-17',
 
@@ -118,11 +119,18 @@ international = {
     'Grecia': 'Greece',
     'Suecia': 'Sweden',
     'Finlandia': 'Finland',
+
+    'Commonwealth of Independent States': 'Russia', # add separation
     'Rusia': 'Russia',
+
     'Belice': 'Belize',
 
     'Rp China': 'China',
+
+    'Checoslovaquia': 'Czechoslovakia',
+    'Czechoslovakia': 'Czech Republic', # add separation.
     'Rep. Checa': 'Czech Republic',
+
     'Corea Del Norte': 'North Korea',
     'Corea Del Sur': 'South Korea',
 
