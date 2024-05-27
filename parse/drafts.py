@@ -25,6 +25,9 @@ DRAFTS = [
     'superdraft', 
     'supplemental', 
     'supplemental2' , 
+    ]
+
+D2 = [
 
     # minor
 
@@ -65,6 +68,7 @@ def load_draft_data():
     draft_filenames = []
     draft_filenames.extend(DRAFTS)
     #draft_filenames.append(USMNT_DRAFTS)
+    #draft_filenames = ['superdraft',]
 
     dp = DraftProcessor()
 
@@ -100,6 +104,8 @@ class DraftProcessor():
         self.drafts = []
         self.picks = []
 
+        self.date = None
+
 
     @property
     def current_draft(self):
@@ -110,14 +116,40 @@ class DraftProcessor():
 
         line = remove_pairs(line, "[", "]")
 
+
         if line.startswith('*'):
             return
 
 
-        if line.startswith("Round:"):
-            return
 
-        if line.startswith("Draft:"):
+        if line.startswith("Date:"):
+            s = line.replace("Date:", '')
+            if s == '':
+                self.date = None
+            else:
+                month, day, year = [int(e) for e in s.split('/')]
+                self.date = datetime.datetime(year, month, day)
+            
+            """
+            fields = s.split(',')
+
+            fields = [e.strip() for e in fields]
+
+            if len(fields) == 2:
+                start, end = [process_date(e) for e in fields]
+                
+            elif len(fields) == 1:
+                start = process_date(fields[0])
+                end = start
+
+            self.current_draft['start'] = start
+            self.current_draft['end'] = end
+            """
+
+        elif line.startswith("Round:"):
+            pass
+
+        elif line.startswith("Draft:"):
             self.name = line.replace("Draft:", '').strip()
 
         elif line.startswith("Competition"):
@@ -134,22 +166,6 @@ class DraftProcessor():
                     'season': self.season,
                     'competition': self.competition,
                     })
-
-        elif line.startswith("Date:"):
-            s = line.replace("Date:", '')
-            fields = s.split(',')
-
-            fields = [e.strip() for e in fields]
-
-            if len(fields) == 2:
-                start, end = [process_date(e) for e in fields]
-                
-            elif len(fields) == 1:
-                start = process_date(fields[0])
-                end = start
-
-            self.current_draft['start'] = start
-            self.current_draft['end'] = end
 
         elif line.strip():
             fields = [e.strip() for e in line.split(';')]
@@ -181,15 +197,16 @@ class DraftProcessor():
                 import pdb; pdb.set_trace()
 
             self.picks.append({
-                    'team': team,
-                    'text': text,
-                    'position': position,
-                    'former_team': former_team,
-                    'number': self.pick_number,
-                    'draft': self.current_draft['name'],
-                    'season': self.current_draft['season'],
-                    'competition': self.competition,
-                    })
+                'team': team,
+                'text': text,
+                'position': position,
+                'former_team': former_team,
+                'number': self.pick_number,
+                'draft': self.current_draft['name'],
+                'date': self.date,
+                'season': self.current_draft['season'],
+                'competition': self.competition,
+            })
 
             self.pick_number += 1
 
