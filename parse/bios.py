@@ -102,7 +102,7 @@ def process_asl_bios():
                 'birthplace': birthplace,
                 'deathdate': deathdate,
                 'deathplace': deathplace,
-                'source': 'American Soccer League (1921-1931)',
+                'source': 'American Soccer League 1921-1931: The Golden Years of American Soccer',
                 })
 
     return l
