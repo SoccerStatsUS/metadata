@@ -1,0 +1,13 @@
+# Names and format strings only -- does this refer to something that doesn't exist?
+# Deliberately not the pycodestyle defaults (~1720 style findings across these
+# repos) and not F401/F841, which are clutter here and unsafe to autofix where
+# imports have side effects.
+
+# data/ is corpus, not code. Two files there carry a .py extension without being
+# Python: data/lists/awards/ussoccer2.py is semicolon-delimited rows, and
+# data/formations/formations.py is an unfinished sketch that does not parse.
+# Linting them reports 470 findings that are not about code.
+extend-exclude = ["data"]
+
+[lint]
+select = ["F821", "F811", "F502", "F506", "F509", "F522", "F523", "F524"]
