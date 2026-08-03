@@ -700,6 +700,7 @@ usa = {
     'Los Angeles Galaxy II': 'LA Galaxy II',
 
     'LAFC': 'Los Angeles FC',
+    'Los Angeles Football Club': 'Los Angeles FC',    
 
 
     'New England Revolution - MLS': 'New England Revolution',
