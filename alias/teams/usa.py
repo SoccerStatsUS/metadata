@@ -699,6 +699,8 @@ usa = {
 
     'Los Angeles Galaxy II': 'LA Galaxy II',
 
+    'LAFC': 'Los Angeles FC',
+
 
     'New England Revolution - MLS': 'New England Revolution',
     'Ne Revolution': 'New England Revolution',
@@ -1026,6 +1028,8 @@ usa = {
 
     # Utah
     #Flamengo SC (UT)
+
+    'Real Monarchs': 'Real Monarchs SLC',
 
     # North Carolina
     #Village Tavern (NC)

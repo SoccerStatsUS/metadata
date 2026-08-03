@@ -172,6 +172,13 @@ l = [
         'city': 'San Jose, CA',
         },
 
+    {
+        'name': 'Los Angeles FC',
+        'founded': datetime.datetime(2014, 10, 30),
+        'city': 'Los Angeles, CA',
+        },
+
+
     { 
         'name': 'Chivas USA Reserves',
         'city': 'Los Angeles, CA',

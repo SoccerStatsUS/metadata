@@ -146,9 +146,6 @@ l = [
         },
 
 
-
-
-
     {
         'name': 'Columbus Crew',
         'founded': datetime.datetime(1994, 6, 15),
@@ -159,6 +156,13 @@ l = [
         'name': 'Columbus Crew Reserves',
         'city': 'Columbus, OH',
         },
+
+    {
+        'name': 'FC Cincinnati',
+        'founded': datetime.datetime(2015, 8, 12),
+        'city': 'Cincinnati, OH',
+        },
+
 
 
     # indoor

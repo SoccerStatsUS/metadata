@@ -5457,8 +5457,11 @@ world = {
     'LDU': 'LDU Quito',
     'America de Quito': 'América de Quito',
     'Aucas': 'SD Aucas',
+
     'Barcelona -- Ecuador': 'Barcelona Sporting Club',
     'Barcelona (Ecuador)': 'Barcelona Sporting Club',
+    'Barcelona SC': 'Barcelona Sporting Club',    
+    
     'LDU (Quito)': 'LDU Quito',
     'Olmedo (Riobamba)': 'CD Olmedo',
     'Everest': 'CD Everest',

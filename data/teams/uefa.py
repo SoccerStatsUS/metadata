@@ -1471,6 +1471,13 @@ l = [
         },
 
     {
+        'name': 'Union Berlin',
+        'founded': datetime.datetime(1966, 1, 20),
+        'city': 'Berlin, Germany',
+        },
+
+
+    {
         'name': '1899 Hoffenheim',
         'founded': datetime.datetime(1899, 7, 1),
         'city': 'Hoffenheim, Germany',

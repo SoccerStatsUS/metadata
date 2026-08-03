@@ -45,6 +45,13 @@ l = [
         'city': 'Tampa, FL',
         },
 
+    {
+        'name': 'Inter Miami',
+        'founded': datetime.datetime(2018, 1, 29),        
+        'city': 'Miami, FL',
+        },
+
+
     # indoor
 
     {
@@ -100,6 +107,11 @@ l = [
         'name': 'Orlando City SC',
         'city': 'Orlando, FL',
         'founded': 2010,
+        },
+
+    {
+        'name': 'Orlando City B',
+        'city': 'Orlando, FL',
         },
 
     {

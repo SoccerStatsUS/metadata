@@ -207,7 +207,8 @@ d = {
         (2022, 'Jesus Ferreira'),
         (2023, 'Thiago Almada'),
         (2024, 'Diego Luna'),
-        (2025, 'Alex Freeman'),        
+        (2025, 'Alex Freeman'),
+        ],
 
 
     'Newcomer of the Year': [

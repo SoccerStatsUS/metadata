@@ -200,6 +200,12 @@ l = [
         },
 
 
+    {
+        'name': 'Chicago Fire Reserves',
+        'city': 'Chicago, IL',
+        },
+
+
 
     # indoor
 
