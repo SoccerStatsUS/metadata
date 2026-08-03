@@ -242,7 +242,7 @@ d = {
         (1932, 'Olympic'),
         (1933, 'Olympic'),
         (1934, 'Douglas Aircraft'),
-        (1935, 'Western Pacific of Sacramento')
+        (1935, 'Western Pacific of Sacramento'),
         (1936, 'Vikings'),
         (1937, 'Rovers'),
         (1938, 'Western Pacific of Sacramento'),

@@ -1,9 +1,23 @@
 d = {
     'competition': 'United States',
     
-    'team_data': []
+    'team_data': [],
 
-    'Player of the Year': [
+    'Male Player of the Year': [
+        (2025, 'Chris Richards'),
+        (2024, 'Antonee Robinson'),
+        (2023, 'Christian Pulisic'),
+        (2022, 'Tyler Adams'),
+        (2021, 'Christian Pulisic'),
+        (2020, 'Weston McKennie'),
+        (2019, 'Christian Pulisic'),
+        (2018, 'Zack Steffen'),
+        (2017, 'Christian Pulsiic'),
+        (2016, 'Jozy Altidore'),
+        (2015, 'Michael Bradley'),
+        (2014, 'Tim Howard'),
+        (2013, 'Jozy Altidore'),
+        (2012, 'Clint Dempsey'),
         (2011, 'Clint Dempsey'),
         (2010, 'Landon Donovan'),
         (2009, 'Landon Donovan'),
@@ -25,6 +39,37 @@ d = {
         (1993, 'Thomas Dooley'),
         (1992, 'Eric Wynalda'),
         (1991, 'Hugo Perez'),
+        ],
+
+    'Young Male Player of the Year': [
+        (2025, 'Benjamin Cremaschi'),
+        (2024, 'Tanner Tessman'),
+        (2023, 'Kevin Paredes'),
+        (2022, 'Yunus Musah'),
+        (2021, 'Ricardo Pepi'),
+        (2020, 'Gio Reyna'),
+        (2019, 'Sergino Dest'),
+        (2018, 'Alex Mendez'),
+        (2017, 'Josh Sargent'),
+        (2016, 'Christian Pulisic'),
+        (2015, 'Matt Miazga'),
+        (2014, 'DeAndre Yedlin'),
+        (2013, 'Wil Trapp'),
+        (2012, 'Rubio Rubin'),
+        (2011, 'Brek Shea'),
+        (2010, 'Gale Agbossoumonde'),
+        (2009, 'Luis Gil'),
+        (2008, 'Sacha Kljestan'),
+        (2007, 'Michael Bradley'),
+        (2006, 'Jozy Altidore'),
+        (2005, 'Benny Feilhaber'),
+        (2004, 'Eddie Johnson'),
+        (2003, 'Freddy Adu'),
+        (2002, 'Bobby Convey'),
+        (2001, 'DaMarcus Beasley'),
+        (2000, 'Landon Donovan'),
+        (1999, 'Ben Olsen'),
+        (1998, 'Josh Wolff'),
         ],
 
     'National Soccer Hall of Fame': [

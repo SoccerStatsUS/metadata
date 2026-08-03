@@ -602,7 +602,30 @@ d = {
                 'Thierry Henry',
                 'Bradley Wright-Phillips',
                 ]),
-         
+
+        (2015, [
+            ]),
+        (2016, [
+            ]),
+        (2017, [
+            ]),
+        (2018, [
+            ]),
+        (2019, [
+            ]),
+        (2020, [
+            ]),
+        (2021, [
+            ]),
+        (2022, [
+            ]),
+        (2023, [
+            ]),
+        (2024, [
+            ]),
+        (2025, [
+            ]),
+
 
         ]
 }
@@ -627,6 +650,18 @@ d = {
         (2011, 'Darlington Nagbe', (7, 2, 2011), 'http://www.youtube.com/watch?v=vTzTjP1Na0o'),
         (2012, 'Patrick Ianni', (6, 20, 2012), 'http://www.youtube.com/watch?v=lZtvCkRZ5as'),
         (2013, 'Camilo Sanvezzo', (10, 6, 2013), 'http://www.youtube.com/watch?v=IqlI42OeRfE'),
+        (2014, 'Obafemi Martins', (5, 17, 2014)),
+        (2015, 'Krisztian Nemeth', (10, 3, 2015)),
+        (2016, 'Shkelzen Gashi', (9, 24, 2016)),
+        (2017, 'Hector Villalba', (7, 21, 2017)),
+        (2018, 'Zlatan Ibrahimovic', (3, 31, 2018)),
+        (2019, 'Josef Martinez', (9, 18, 2019)),
+        (2020, 'Darlington Nagbe', (8, 20, 2020)),
+        (2021, 'Rubio Rubin', (5, 7, 2021)),
+        (2022, 'Josef Martinez', (10, 1, 2022)),
+        (2023, 'Luciano Acosta', (9, 23, 2023)),
+        (2024, 'Luca Orellano', (8, 31, 2024)),
+        (2025, 'Son Heung-min', (8, 23, 2025)),
         ],
 }
 
@@ -654,6 +689,19 @@ d2 = {
         (2010, 'Colorado Rapids'),
         (2011, 'Los Angeles Galaxy'),
         (2012, 'Los Angeles Galaxy'),
+        (2013, 'Sporting KC'),
+        (2014, 'LA Galaxy'),
+        (2015, 'Portland Timbers'),
+        (2016, 'Seattle Sounders'),
+        (2017, 'Toronto FC'),
+        (2018, 'Atlanta United'),
+        (2019, 'Seattle Sounders'),
+        (2020, 'Columbus Crew'),
+        (2021, 'New York City FC'),
+        (2022, 'Los Angeles FC'),
+        (2023, 'Columbus Crew'),
+        (2024, 'LA Galaxy'),
+        (2025, 'Inter Miami'),
         ],
 
 }

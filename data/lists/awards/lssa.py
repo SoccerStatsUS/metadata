@@ -15,5 +15,5 @@ lssa = {
         (1992, 'Dallas Inter'),
         ],
 
-]
+}
 
