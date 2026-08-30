@@ -504,6 +504,8 @@ usa = {
     'FC Golden Pride': 'FC Gold Pride',
 
     'Sky Blue F. C.': 'Sky Blue FC',
+    'Gotham FC': 'Sky Blue FC',
+    'NJ/NY Gotham FC': 'Sky Blue FC',
 
     'Golden Bay Buccaneers': 'Oakland Buccaneers',
     'Chicago Schwaben AC': 'Chicago Schwaben',
@@ -565,6 +567,9 @@ usa = {
 
     'Western NY Flash': 'Western New York Flash',
     'Seattle Reign FC': 'Seattle Reign',
+    'Reign FC': 'Seattle Reign',
+    'OL Reign': 'Seattle Reign',
+    'Kansas City NWSL': 'Kansas City Current',
 
     'Greenville Lions Premier': 'Greenville Lions',
 
@@ -718,6 +723,20 @@ usa = {
     'Red Bull New York': 'New York Red Bulls',
 
     'Columbus Crew SC': 'Columbus Crew',
+
+    'Chicago Fire FC': 'Chicago Fire',
+    'CF Montreal': 'Montreal Impact',
+    'CF Montréal': 'Montreal Impact',
+    'St. Louis City SC': 'St. Louis City',
+    'Timbers2': 'Portland Timbers 2',
+
+    # U.S. Open Cup entrants as the mlssoccer.com feed prints them.
+    'Pittsburgh Riverhounds SC': 'Pittsburgh Riverhounds',
+    'Colorado Springs Switchbacks': 'Colorado Springs Switchbacks FC',
+    'Laredo Heat SC': 'Laredo Heat',
+    'Brockton FC United': 'Brockton FC',
+    'CD Faialense': 'Cambridge Faialense',
+    'Azteca': 'Azteca FC',
 
     'Philadephia Union': 'Philadelphia Union',
 

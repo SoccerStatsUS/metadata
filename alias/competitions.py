@@ -135,6 +135,10 @@ full_alias = {
     'Copa Mundial Sub-17 Femenil': 'FIFA U-17 Women\'s World Cup',
 
     'MLS': 'Major League Soccer',
+    'Major League Soccer - Regular Season': 'Major League Soccer',
+    'Major League Soccer - Cup Playoffs': 'MLS Cup Playoffs',
+
+    'TELUS Canadian Championship': 'Canadian Championship',
 
     #'Amistosos': 'Friendly',
     'Amistosos': 'International Friendly',
