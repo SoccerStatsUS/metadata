@@ -7,12 +7,12 @@ l = [
 
     { 
         'name': 'Rhodes Field',
-        'city': 'Philadelphia, PA',
+        'location': 'Philadelphia, PA',
         },
 
     { 
         'name': 'Treveskyn Field',
-        'city': 'Treveskyn, PA',
+        'location': 'Treveskyn, PA',
         },
 
     {
