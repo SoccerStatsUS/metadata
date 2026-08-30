@@ -282,24 +282,3 @@ def load_bios(p):
     header = lines[0].split('\t')
     bios = [process_line(line) for line in lines[1:]]
     return [e for e in bios if e]
-
-
-def bios_yaml(p):
-    # Convert bios to yaml.
-    import yaml
-    s = yaml.dump(load_all_bios())
-    f = open(p, 'w')
-    f.write(s)
-    f.close()
-
-
-if __name__ == "__main__":
-    print(bios_yaml())
-    
-
-
-
-    
-
-        
-        
