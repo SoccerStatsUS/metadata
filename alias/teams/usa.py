@@ -738,6 +738,32 @@ usa = {
     'CD Faialense': 'Cambridge Faialense',
     'Azteca': 'Azteca FC',
 
+    # U.S. Open Cup entrants as thecup.us prints them (2022, 2023).
+    'Houston Dynamo FC': 'Houston Dynamo',
+    'Inter Miami CF': 'Inter Miami',
+    'St. Louis CITY SC': 'St. Louis City',
+    'St. Louis CITY 2': 'St. Louis City 2',
+    'Portland Timbers FC': 'Portland Timbers',
+    'Portland Timbers U-23s': 'Portland Timbers U23s',
+    'San Diego Loyal SC': 'San Diego Loyal',
+    'Oakland Roots': 'Oakland Roots SC',
+    'El Paso Locomotive FC': 'El Paso Locomotive',
+    'Loudoun United': 'Loudoun United FC',
+    'Lexington Sporting Club': 'Lexington SC',
+    'Maryland Bobcats': 'Maryland Bobcats FC',
+    'Central Valley Fuego': 'Central Valley Fuego FC',
+    'Club de Lyon': 'Club de Lyon FC',
+    'Georgia Revolution FC': 'Georgia Revolution',
+    'LA Force FC': 'LA Force',
+    'South Carolina United FC': 'South Carolina United',
+    'Park City Red Wolves': 'Park City Red Wolves SC',
+    'NC Fusion U23': 'North Carolina Fusion U23',
+    'NC Fusion U-23s': 'North Carolina Fusion U23',
+    'Rochester New York FC': 'Rochester Rhinos',  # the Rhinos' 2021-2023 name
+    'Ocean City Nor’easters': "Ocean City Nor'easters",
+    'D’Feeters Kicks SC': "D'Feeters Kicks SC",
+    'D’Feeters Kicks Soccer Club': "D'Feeters Kicks SC",
+
     'Philadephia Union': 'Philadelphia Union',
 
     'FC Portland': 'Portland Timbers',
