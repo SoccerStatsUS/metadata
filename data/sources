@@ -10,6 +10,7 @@ A Moment of Brilliance: A Soccer History Blog; ; http://amofb.blogspot.com/
 TheCup.us; Josh Hakala; http://thecup.us
 Soccernet; ; http://soccernet.espn.go.com
 ESPN FC; ; http://www.espnfc.com
+ESPN.com; ; http://www.espn.com
 Newsbank; ; http://nl.newsbank.com/nl-search
 NewspaperArchive.com; ; http://newspaperarchive.com/
 RSSSF; ; http://www.rsssf.com
@@ -35,6 +36,7 @@ LASoccernews.com; ; http://www.lasoccernews.com
 OverlappingRun; ; http://www.overlappingrun.com
 MLSSoccer.com; ; http://www.mlssoccer.com
 MLS MatchCenter; ; http://matchcenter.mlssoccer.com
+MLS stats API; ; https://stats-api.mlssoccer.com
 bethlehemsteelsoccer.org; Daniel Morrison; http://www.bethlehemsteelsoccer.org/
 Google News; ; http://news.google.com
 USSoccer.com; ; http://www.ussoccer.com
@@ -119,6 +121,7 @@ Youtube.com; ; http://www.youtube.com
 Archive.org; ; http://www.archive.org/
 Archive.org; ; http://wayback.archive.org/
 NWSLsoccer.com; ; http://www.nwslsoccer.com/
+NWSL SDP API; ; https://api-sdp.nwslsoccer.com
 Soccer America; ; http://www.socceramerica.com
 WPSL.info; ; http://www.wpsl.info/
 
