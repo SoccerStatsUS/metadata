@@ -2,6 +2,25 @@ import hashlib
 import os
 import random
 import time
+import unicodedata
+
+
+def person_identity_key(name):
+    name = " ".join(name.split()).casefold()
+    name = unicodedata.normalize("NFKD", name)
+    return "".join(char for char in name if not unicodedata.combining(char))
+
+
+def preferred_person_name(current, candidate):
+    def accent_count(name):
+        decomposed = unicodedata.normalize("NFKD", name)
+        return sum(unicodedata.combining(char) != 0 for char in decomposed)
+
+    current = " ".join(current.split())
+    candidate = " ".join(candidate.split())
+    if accent_count(candidate) > accent_count(current):
+        return candidate
+    return current
 
 
 
