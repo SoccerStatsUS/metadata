@@ -63,8 +63,13 @@ North American Soccer League; NASL; soccer; domestic; League; 1; Country; United
 Major League Soccer; MLS; soccer; domestic; League; 1; Country; United States
 
 National Women's Soccer League; NWSL; women; domestic; League; 1; Country; United States
+NWSL Playoffs; NWSLp; women; domestic; Cup; 1; Country; United States
+
 Women's Professional Soccer; WPS; women; domestic; League; 1; Country; United States
+WPS Playoffs; WPSp; women; domestic; Cup; 1; Country; United States
+
 Women's United Soccer Association; WUSA; women; domestic; League; 1; Country; United States
+WUSA Playoffs; WUSAp; women; domestic; Cup; 1; Country; United States
 
 Damallsvenskan; SWE1W; women; domestic; League; 1; Country; Sweden
 Championnat Féminin; FRA1W; women; domestic; League; 1; Country; France
