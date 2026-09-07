@@ -114,7 +114,22 @@ championship = {
         (2010, 'Toronto FC'),
         (2011, 'Toronto FC'),
         (2012, 'Toronto FC'),
+        (2013, 'Montreal Impact'),
+        (2014, 'Montreal Impact'),
+        (2015, 'Vancouver Whitecaps'),
+        (2016, 'Toronto FC'),
+        (2017, 'Toronto FC'),
+        (2018, 'Toronto FC'),
+        (2019, 'Montreal Impact'),
+        (2020, 'Toronto FC'),
+        (2021, 'CF Montreal'),
+        (2022, 'Vancouver Whitecaps'),
+        (2023, 'Vancouver Whitecaps'),
+        (2024, 'Vancouver Whitecaps'),
+        (2025, 'Vancouver Whitecaps'),                   
         ],
+
+
 
     'MVP': [
         (2008, 'Matt Jordan'),
@@ -122,6 +137,51 @@ championship = {
         (2010, 'Dwayne De Rosario'),
         (2011, 'Joao Plata'),
         (2012, 'Ryan Johnson'),
-        ], 
+        (2013, 'Justin Mapp'),
+        (2014, 'Justin Mapp'),
+        (2015, 'Russell Teibert'),
+        (2016, 'Benoit Cheyrou'),
+        (2017, 'Sebastian Giovinco'),
+        (2018, 'Jonathan Osorio'),
+        (2019, 'Ignacio Piatti'),
+        # (2020, not awarded
+        (2021, 'Sebastian Breza'),
+        (2022, 'Ryan Gauld'),
+        (2023, 'Julian Gressel'),
+        (2024, 'Isaac Boehmer'),
+        (2025, 'Ali Ahmed'),                  
+        ],
+
+    'Champion': [
+        (2008, 'Roberto Brown'),
+        (2009, 'Dwayne De Rosario'),
+        (2010, 'Dwayne De Rosario'),
+        (2011, 'Maicon Santos'),
+        (2012, 'Sebastien Le Toux'),
+        (2013, 'Camilo Sanvezzo'),
+        (2014, 'Jack McInerney'),
+        (2015, 'Tomi Ameobi'),
+        (2016, 'Jordan Hamilton'),
+        (2017, 'Sebastian Giovinco'),
+        (2018, 'Jonathan Osorio'),
+        (2019, 'Ignacio Piatti'),
+        (2020, 'Tristan Borges'),
+        (2021, 'Austin Ricci'),
+        (2022, 'Sunusi Ibrahim'),
+        (2023, 'Sunusi Ibrahim'),
+        (2024, 'Deandre Kerr'),
+        (2025, 'Samuel Salter'),
+        ],
+
+
+    'Best Young Canadian Player': [
+        (2019, 'Zachary Brault-Guillard'),
+        # (2020, not awarded
+        (2021, 'Jacob Shaffelburg'),
+        (2022, 'Ryan Raposo'),
+        (2023, 'Ali Ahmed'),
+        (2024, 'Isaac Boehmer'),
+        (2025, 'Jayden Nelson'),
+        ],
 
 }

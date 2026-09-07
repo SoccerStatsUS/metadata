@@ -148,31 +148,140 @@ nwsl = {
     'Champion': [
         ('2013', 'Portland Thorns'),
         ('2014', 'FC Kansas City'),
+        ('2015', 'FC Kansas City'),
+        ('2016', 'Wesetern New York Flash'),
+        ('2017', 'Portland Thorns'),
+        ('2018', 'North Carolina Courage'),
+        ('2019', 'North Carolina Courage'),
+        # ('2020', '
+        ('2021', 'Washington Spirit'),
+        ('2022', 'Portland Thorns'),
+        ('2023', 'NJ/NY Gotham FC'),
+        ('2024', 'Orlando Pride'),
+        ('2025', 'Gotham FC'),                
+        ],
+
+    'Shield': [
+        ('2013', 'Western New York Flash'),
+        ('2014', 'Seattle Reign'),
+        ('2015', 'Seattle Reign'),
+        ('2016', 'Portland Thorns'),
+        ('2017', 'North Carolina Courage'),
+        ('2018', 'North Carolina Courage'),
+        ('2019', 'North Carolina Courage'),
+        # ('2020', '
+        ('2021', 'Portland Thorns'),
+        ('2022', 'OL Reign'),
+        ('2023', 'San Diego Wave FC'),
+        ('2024', 'Orlando Pride'),
+        ('2025', 'Kansas City Current'),
         ],
 
     'MVP': [
         ('2013', 'Lauren Holiday'),
         ('2014', 'Kim Little'),
+        ('2015', 'Crystal Dunn'),
+        ('2016', 'Lynn Williams'),
+        ('2017', 'Sam Kerr'),
+        ('2018', 'Lindsey Horan'),
+        ('2019', 'Sam Kerr'),
+        # ('2020', '
+        ('2021', 'Jess Fishlock'),
+        ('2022', 'Sophia Smith'),
+        ('2023', 'Kerolin'),
+        ('2024', 'Temwaw Chawinga'),
+        ('2025', 'Temwa Chawinga'),
+        
         ],
+
+    'Golden Boot': [
+        ('2013', 'Lauren Holiday'),
+        ('2014', 'Kim Little'),
+        ('2015', 'Crystal Dunn'),
+        ('2016', 'Lynn Williams'),
+        ('2017', 'Sam Kerr'),
+        ('2018', 'Sam Kerr'),
+        ('2019', 'Sam Kerr'),
+        # ('2020', '
+        ('2021', 'Ashley Hatch'),
+        ('2022', 'Alex Morgan'),
+        ('2023', 'Sophia Wilson'),
+        ('2024', 'Temwa Chawinga'),
+        ('2025', 'Temwa Chawinga'),
+        ],
+
 
     'Rookie of the Year': [
         ('2013', 'Erika Tymrak'),
         ('2014', 'Julie Johnston'),
+        ('2015', 'Danielle Colaprico'),
+        ('2016', 'Rocky Rodriguez'),
+        ('2017', 'Ashley Hatch'),
+        ('2018', 'Imani Dorsey'),
+        ('2019', 'Bethany Balcer'),
+        # ('2020', '
+        ('2021', 'Trinity Rodman'),
+        ('2022', 'Naomi Girma'),
+        ('2023', 'Jenna Nighswonger'),
+        ('2024', 'Croix Bethune'),
+        ('2025', 'Lilly Reale'),
+        
         ],
 
     'Defender of the Year': [
         ('2013', 'Becky Sauerbrunn'),
         ('2014', 'Becky Sauerbrunn'),
+        ('2015', 'Becky Sauerbrunn'),
+        ('2016', 'Lauren Barnes'),
+        ('2017', 'Abby Dahlkemper'),
+        ('2018', 'Abby Erceg'),
+        ('2019', 'Becky Sauerbrunn'),
+        # ('2020', '
+        ('2021', 'Caprice Dydasco'),
+        ('2022', 'Naomi Girma'),
+        ('2023', 'Naomi Girma'),
+        ('2024', 'Emily Sams'),
+        ('2025', 'Tara McKeown'),   
         ],
 
     'Goalkeeper of the Year': [
         ('2013', 'Nicole Barnhart'),
         ('2014', 'Alyssa Naeher'),
+        ('2015', 'Michelle Betos'),
+        ('2016', 'Ashlyn Harris'),
+        ('2017', 'Adrianna Franch'),
+        ('2018', 'Adrianna Franch'),
+        ('2019', 'Aubrey Kingsbury'),
+        # ('2020', '
+        ('2021', 'Aubrey Kingsbury'),
+        ('2022', 'Kailen Sheridan'),
+        ('2023', 'Jane Campbell'),
+        ('2024', 'Ann-Katrin Berger'),
+        ('2025', 'Lorena'),
+    ],
+
+    'Midfielder of the Year': [
+        ('2024', 'Croix Bethune'),
+        ('2025', 'Manaka Matsukubo'),
         ],
+
+
 
     'Coach of the Year': [
         ('2013', 'Vlatko Andonovski'),
         ('2014', 'Laura Harvey'),
+        ('2015', 'Laura Harvey'),
+        ('2016', 'Mark Parsons'),
+        ('2017', 'Paul Riley'),
+        ('2018', 'Paul Riley'),
+        ('2019', 'Vlatko Andonovski'),
+        # ('2020', '
+        ('2021', 'Laura Harvey'),
+        ('2022', 'Casey Stoney'),
+        ('2023', 'Juan Carlos Amoros'),
+        ('2024', 'Seb Hines'),
+        ('2025', 'Bev Yanez'),    
+        
         ],
 
     'Best XI': [
