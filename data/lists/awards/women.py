@@ -149,7 +149,7 @@ nwsl = {
         ('2013', 'Portland Thorns'),
         ('2014', 'FC Kansas City'),
         ('2015', 'FC Kansas City'),
-        ('2016', 'Wesetern New York Flash'),
+        ('2016', 'Western New York Flash'),
         ('2017', 'Portland Thorns'),
         ('2018', 'North Carolina Courage'),
         ('2019', 'North Carolina Courage'),

@@ -9,6 +9,7 @@ TimesMachine (New York Times); ; http://timesmachine.nytimes.com/
 A Moment of Brilliance: A Soccer History Blog; ; http://amofb.blogspot.com/
 TheCup.us; Josh Hakala; http://thecup.us
 Soccernet; ; http://soccernet.espn.go.com
+Soccernet; ; http://soccernet-assets.espn.go.com
 ESPN FC; ; http://www.espnfc.com
 ESPN.com; ; http://www.espn.com
 Newsbank; ; http://nl.newsbank.com/nl-search
@@ -40,6 +41,7 @@ MLS stats API; ; https://stats-api.mlssoccer.com
 bethlehemsteelsoccer.org; Daniel Morrison; http://www.bethlehemsteelsoccer.org/
 Google News; ; http://news.google.com
 USSoccer.com; ; http://www.ussoccer.com
+USSoccer.com; ; https://ussoccer.app.box.com
 Fifa.com; ; http://www.fifa.com
 USSF2 Demosphere Archive; ; http://ussf.demosphere.com
 World XI; ; http://www.worldxi.com
@@ -87,6 +89,7 @@ CDChivasUSA.com; ; http://www.cdchivasusa.com
 DCUnited.com; ; http://www.dcunited.com
 SanJoseEarthquakes.com; ; http://www.sjearthquakes.com
 RealSaltLake.com; ; http://www.realsaltlake.com
+RealSaltLake.com; ; http://www.rsl.com
 FCDallas.com; ; http://www.fcdallas.com
 HoustonDynamo.com; ; http://www.houstondynamo.com
 PhiladelphiaUnion.com; ; http://www.philadelphiaunion.com
@@ -115,7 +118,7 @@ ManUtd.com; ; http://www.manutd.com
 RSSSF Brazil; ; http://rsssfbrasil.com
 LatinoTimes.com; ; http://latinotimes.com
 LATimes.com; ; http://articles.latimes.com
-Canada Soccer; ; http://canadasoccer.com
+Canada Soccer; ; http://www.canadasoccer.com
 Youtube; ; http://youtube.com
 Youtube.com; ; http://www.youtube.com
 Archive.org; ; http://www.archive.org/
@@ -154,7 +157,7 @@ TorontoFC.ca; ; http://www.torontofc.ca
 ArizonaUnited.com; ; http://arizonaunited.com
 BoxScoreNews.com; ; http://boxscorenews.com
 CityIslanders.com; ; http://cityislanders.com
-OrlandoCitySC.com; ; http://orlandocitysc.com
+OrlandoCitySC.com; ; http://www.orlandocitysc.com
 RhinosSoccer.com; ; http://rhinossoccer.com
 BigAppleSoccer.com; ; http://www.bigapplesoccer.com
 BigSoccer; ; http://forums.bigsoccer.com
@@ -174,3 +177,15 @@ Soccerway; ; http://us.women.soccerway.com
 Soccerly; ; http://womens.soccerly.com
 MyFootballFacts.com; ; http://www.myfootballfacts.com
 Riverhounds.com; ; http://www.riverhounds.com
+Pointstreak (MISL); ; http://misl.stats.pointstreak.com
+Pointstreak (MASL); ; http://majorarenasoccer.stats.pointstreak.com
+Digital Archives of the Fall River Public Library; ; https://fallriver.advantage-preservation.com
+CONCACAF.com; ; http://www.concacaf.com
+CONCACAF.com; ; http://carbon.concacaf.com
+CONCACAF.com; ; http://old.concacaf.com
+ProQuest; ; http://search.proquest.com.ezproxy.pratt.edu
+The Equalizer; ; http://equalizersoccer.com
+WashingtonSpirit.com; ; http://washingtonspirit.com
+NCCourage.com; ; http://www.nccourage.com
+WNYFlash.com; ; http://www.wnyflash.com
+OttawaFuryFC.com; ; http://www.ottawafuryfc.com
