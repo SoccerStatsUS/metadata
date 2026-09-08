@@ -152,7 +152,7 @@ championship = {
         (2025, 'Ali Ahmed'),                  
         ],
 
-    'Champion': [
+    'Golden Boot': [
         (2008, 'Roberto Brown'),
         (2009, 'Dwayne De Rosario'),
         (2010, 'Dwayne De Rosario'),
