@@ -507,6 +507,18 @@ usa = {
     'Gotham FC': 'Sky Blue FC',
     'NJ/NY Gotham FC': 'Sky Blue FC',
 
+    # espn writes every NWSL club's current name, suffix and all, including on
+    # the seasons it played under an earlier one -- a 2019 Chicago Red Stars
+    # game is filed under the name the club took in 2024. Folding them here is
+    # what lets an espn game match the one the league's own archive recorded;
+    # the game keeps the name its first source gave it.
+    'Chicago Stars FC': 'Chicago Red Stars',
+    'San Diego Wave FC': 'San Diego Wave',
+    'Angel City FC': 'Angel City',
+    'Racing Louisville FC': 'Racing Louisville',
+    'Boston Legacy FC': 'Boston Legacy',
+    'Denver Summit FC': 'Denver Summit',
+
     'Golden Bay Buccaneers': 'Oakland Buccaneers',
     'Chicago Schwaben AC': 'Chicago Schwaben',
 
