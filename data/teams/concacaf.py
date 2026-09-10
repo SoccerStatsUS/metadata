@@ -219,7 +219,16 @@ l = [
 
     # Trinidad
 
-    { 'name': 'Maple Club FC' }, # Trinidad
+    {
+        'name': 'Maple Club FC',
+        'city': 'Port of Spain, Trinidad and Tobago',        
+    },
+
+    {
+        'name': 'Central FC',
+        'city': 'California, Trinidad and Tobago',        
+    },
+
 
     {
         'name': 'North East Stars',

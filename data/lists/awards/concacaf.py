@@ -82,7 +82,7 @@ champions_league = {
 }
 
 
-superliga = {
+leagues_cup = {
     'competition': 'Leagues Cup',
     'team_data': ['Champion'],
 

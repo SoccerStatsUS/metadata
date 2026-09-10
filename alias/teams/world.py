@@ -2766,13 +2766,22 @@ world = {
 
     # Canada
 
-    'Toronto Thunderhawks': 'Toronto ThunderHawks',
-
-    'Detroit-Windsor Border Stars': 'Windsor Stars',
+     # MLS
 
     'Impact De Montreal': 'Montreal Impact',
     'Impact de Montreal': 'Montreal Impact',
 
+     # CPL
+
+    'York9': 'Inter Toronto FC',
+    'York United': 'Inter Toronto FC',
+    'Atletico Ottawa': 'Atlético Ottawa',
+
+     # Other
+
+    'Toronto Thunderhawks': 'Toronto ThunderHawks',
+
+    'Detroit-Windsor Border Stars': 'Windsor Stars',
 
     'Hamilton Steloos': 'Hamilton Stelcos',
 
@@ -6945,6 +6954,7 @@ world = {
     'Hankook Verdes United': 'Club Verdes',
     'Leslie Verdes': 'Club Verdes',
     'Real Verdes': 'Club Verdes',
+    'Verdes FC': 'Club Verdes',
 
     # Guatemala
 

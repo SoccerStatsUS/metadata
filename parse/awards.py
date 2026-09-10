@@ -151,11 +151,23 @@ def process_argentina_awards():
 
 # Uefa
 
-
-def process_uefa_awards():
+def process_uefa_confederation_awards():
     from metadata.data.lists.awards import uefa as u
     l = [
-        'super', 'champions', 'europa', 'fairs',
+        'super',
+        'champions',
+        'europa',
+        # 'fairs',
+        ]
+    a = []
+    for name in l:
+        a.extend(process_awards(getattr(u, name)))
+    return a
+    
+
+def process_uefa_league_awards():
+    from metadata.data.lists.awards import uefa as u
+    l = [
         'spain', 'france', 'germany', 'italy', # major
         'portugal', 'scotland',
         'sweden', 'norway', 'denmark',
@@ -201,8 +213,8 @@ def process_csl_awards():
     return process_awards(csl)
 
 def process_canada_awards():
-    from metadata.data.lists.awards.canada import championship
-    return process_awards(championship)
+    from metadata.data.lists.awards.canada import championship, cpl
+    return process_awards(championship) + process_awards(cpl)
 
 
 def process_ny_awards():
@@ -211,9 +223,23 @@ def process_ny_awards():
 
 
 def process_concacaf_awards():
-    from metadata.data.lists.awards.concacaf import champions_cup, champions_league, superliga, giants_cup, ccc
-    return process_awards(champions_cup) + process_awards(champions_league) + process_awards(superliga) + process_awards(giants_cup) \
-        + process_awards(ccc)
+    from metadata.data.lists.awards.concacaf import champions_cup, champions_league
+    from metadata.data.lists.awards.concacaf import superliga, leagues_cup
+    from metadata.data.lists.awards.concacaf import giants_cup, ccc
+
+    l = []
+    for e in [
+            champions_cup,
+            champions_league,
+            superliga,
+            leagues_cup
+            # giants_cup,
+            # ccc
+            ]: 
+        l.extend(process_awards(e))
+
+    return l
+        
 
 def process_concacaf_international_awards():
     from metadata.data.lists.awards.concacaf import gold_cup, cccf, championship, cacg
@@ -373,9 +399,11 @@ def process_women_awards():
 
 def process_world_awards():
     from metadata.data.lists.awards import world 
-    return process_awards(world.intercontinental_cup) + process_awards(world.interamerican_cup) + \
+    return process_awards(world.confederations) + \
         process_awards(world.suruga) + process_awards(world.panpacific) + process_awards(world.club_world_cup) + \
-        process_awards(world.copa_rio)  + process_awards(world.confederations) \
+        process_awards(world.copa_rio) 
+        # + process_awards(world.interamerican_cup) \ 
+        # + process_awards(world.intercontinental_cup) \ 
         # + process_awards(world.copita)
 
 if __name__ == "__main__":

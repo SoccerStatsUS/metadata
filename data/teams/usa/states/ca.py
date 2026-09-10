@@ -86,11 +86,6 @@ l = [
     #    },
 
     {
-        'name': 'Saint Mary\'s College of California',
-        'city': 'Moraga, CA',
-        },
-
-    {
         'name': 'McIlvaine Canvasbacks',
         'city': 'San Pedro, CA',
         },

@@ -5,6 +5,58 @@ import datetime
 
 l = [
 
+
+# Canadian Premier League
+
+    {
+        'name': 'Inter Toronto FC', # formerly York9, York United
+        'founded': datetime.datetime(2018, 5, 5),
+        'city': 'Toronto, ON',
+        },
+
+    {
+        'name': 'Vancouver FC',
+        'founded': datetime.datetime(2022, 11, 2),
+        'city': 'Langley, BC',
+        },
+
+    {
+        'name': 'Valour FC',
+        'founded': datetime.datetime(2017, 5, 6),
+        'city': 'Winnipeg, MB',
+        },
+    
+    {
+        'name': 'Pacific FC',
+        'founded': datetime.datetime(2018, 6, 1),
+        'city': 'Victoria, BC',
+        },
+    {
+        'name': 'HFX Wanderers',
+        'founded': datetime.datetime(2018, 5, 5),
+        'city': 'Halifax, NS',
+        },
+    {
+        'name': 'Forge FC',
+        'founded': datetime.datetime(2017, 5, 6),
+        'city': 'Hamilton, ON',
+        },
+
+    {
+        'name': 'Cavalry FC',
+        'founded': datetime.datetime(2018, 5, 5),
+        'city': 'Calgary, AB',
+        },
+
+    {
+        'name': 'Atlético Ottawa',
+        'founded': datetime.datetime(2020, 1, 29),
+        'city': 'Ottawa, ON',
+        },
+
+        
+
+
     {
         'name': 'Vancouver Whitecaps FC 2',
         'founded': 2014,
