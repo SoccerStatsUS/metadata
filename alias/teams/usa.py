@@ -1376,6 +1376,7 @@ usa = {
     'Hungaria SC (East NY)': 'New York Hungaria',
     'Hungaria Sport Club (NYC)': 'New York Hungaria',
     'Hungaria SC': 'New York Hungaria',
+    'Victoria Hungaria': 'New York Hungaria',
 
     'First German SC (NYC)': 'New York First German',
 

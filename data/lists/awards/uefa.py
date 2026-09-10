@@ -4,14 +4,12 @@
 
 #major
 
-
-
-
 champions = {
 
     'competition': 'UEFA Champions League',
     'team_data': ['Champion'],
     'champion': 'Champion',
+    
     'Champion': [
 
         ('1955-1956', 'Real Madrid'),
@@ -52,8 +50,11 @@ champions = {
         ('1987-1988', 'PSV Eindhoven'),
         ('1988-1989', 'AC Milan'),
         ('1989-1990', 'AC Milan'),
+        
         ('1990-1991', 'Red Star Belgrade'),
         ('1991-1992', 'FC Barcelona'),
+
+        # modern
         ('1992-1993', 'Marseille'),
         ('1993-1994', 'AC Milan'),
         ('1994-1995', 'Ajax'),
@@ -62,6 +63,7 @@ champions = {
         ('1997-1998', 'Real Madrid'),
         ('1998-1999', 'Manchester United'),
         ('1999-2000', 'Real Madrid'),
+        
         ('2000-2001', 'Bayern Munich'),
         ('2001-2002', 'Real Madrid'),
         ('2002-2003', 'AC Milan'),
@@ -72,10 +74,23 @@ champions = {
         ('2007-2008', 'Manchester United'),
         ('2008-2009', 'FC Barcelona'),
         ('2009-2010', 'Inter Milan'),
+        
         ('2010-2011', 'FC Barcelona'),
         ('2011-2012', 'Chelsea'),
         ('2012-2013', 'Bayern Munich'),
         ('2013-2014', 'Real Madrid'),
+        ('2014-2015', 'FC Barcelona'),
+        ('2015-2016', 'Real Madrid'),
+        ('2016-2017', 'Real Madrid'),
+        ('2017-2018', 'Real Madrid'),
+        ('2018-2019', 'Liverpool FC'),
+        ('2019-2020', 'Bayern Munich'),
+        ('2020-2021', 'Chelsea FC'),
+        ('2021-2022', 'Real Madrid'),
+        ('2022-2023', 'Manchester City FC'),
+        ('2023-2024', 'Real Madrid'),
+        ('2024-2025', 'Paris Saint-Germain'),
+        ('2025-2026', 'Paris Saint-Germain'),        
         ],
 }
 
@@ -131,6 +146,18 @@ europa = {
         ('2011-2012', 'Atletico Madrid'),
         ('2012-2013', 'Chelsea'),
         ('2013-2014', 'Sevilla'),
+        ('2014-2015', 'Sevilla'),
+        ('2015-2016', 'Sevilla'),
+        ('2016-2017', 'Manchester United'),
+        ('2017-2018', 'Atletico Madrid'),
+        ('2018-2019', 'Chelsea FC'),
+        ('2019-2020', 'Sevilla'),
+        ('2020-2021', 'Villarreal CF'),
+        ('2021-2022', 'Eintracht Frankfurt'),
+        ('2022-2023', 'Sevilla'),
+        ('2023-2024', 'Atalanta'),
+        ('2024-2025', 'Tottenham Hotspur'),
+        ('2025-2026', 'Aston Villa'),
         ],
 }
 
@@ -205,6 +232,20 @@ super = {
         (2010, 'Atletico Madrid'),
         (2011, 'FC Barcelona'),
         (2012, 'Atletico Madrid'),
+        (2013, 'Bayern Munich'),
+        (2014, 'Real Madrid'),
+        (2015, 'FC Barcelona'),
+        (2016, 'Real Madrid'),
+        (2017, 'Real Madrid'),
+        (2018, 'Atletico Madrid'),
+        (2019, 'Liverpool FC'),
+        (2020, 'Bayern Munich'),
+        (2021, 'Chelsea FC'),
+        (2022, 'Real Madrid'),
+        (2023, 'Manchester City FC'),
+        (2024, 'Real Madrid'),
+        (2025, 'Paris Saint-Germain'),                 
+        (2026, 'Paris Saint-Germain'),                                   
         ],
    }
 

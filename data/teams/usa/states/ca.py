@@ -5,6 +5,15 @@ import datetime
 
 l = [
 
+    # d1
+
+    {
+        'name': 'San Diego FC',
+        'city': 'San Diego, CA',
+        'founded': datetime.datetime(2023, 5, 18),
+       },
+
+
     # indoor
 
 

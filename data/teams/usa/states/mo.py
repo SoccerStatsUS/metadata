@@ -6,6 +6,16 @@ import datetime
 l = [
 
 
+    # D1
+
+    {
+        'name': 'Saint Louis City SC',
+        'founded': datetime.datetime(2019, 8, 20),
+        'city': 'St. Louis, MO',
+        },
+
+
+
     {
         'name': 'Saint Louis FC',
         'founded': 2014,

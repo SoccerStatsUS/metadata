@@ -2729,7 +2729,7 @@ l = [
         },
 
     {
-        'name': 'Hapoel Petah Tikva F.C.',
+        'name': 'Hapoel Petah Tikva',
         'founded': 1934,
         'city': 'Petah Tikva, Israel',
         },
@@ -3673,6 +3673,12 @@ l = [
     {
         'name': 'Wiener Sport-Club',
         'founded': 1883,
+        'city': 'Vienna, Austria',
+        },
+
+    {
+        'name': 'Wiener AC',
+        # 'founded': 1897,
         'city': 'Vienna, Austria',
         },
 

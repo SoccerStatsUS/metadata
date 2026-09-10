@@ -363,8 +363,8 @@ def process_ncaa_awards():
     return process_awards(men) + process_awards(women)
 
 def process_isl_awards():
-    from metadata.data.lists.awards.isl import d, palmares, parmalat
-    return process_awards(d) + process_awards(palmares) + process_awards(parmalat)
+    from metadata.data.lists.awards.isl import isl, palmares, parmalat
+    return process_awards(isl) # + process_awards(palmares) + process_awards(parmalat)
 
 
 def process_usl_awards():
@@ -391,10 +391,13 @@ def process_world_cup_awards():
     return process_awards(world_cup) + process_awards(u20) + process_awards(u17)
 
 
-def process_women_awards():
-    from metadata.data.lists.awards.women import wusa, wps, nwsl, wpsl, sweden, germany, premier, fa_wsl
-    return process_awards(wusa) + process_awards(wps) + process_awards(nwsl) + process_awards(wpsl) + process_awards(sweden) \
-        + process_awards(germany) + process_awards(fa_wsl) + process_awards(premier)
+def process_nwsl_awards():
+    from metadata.data.lists.awards.women import wusa, wps, nwsl, wpsl, premier
+    return process_awards(wusa) + process_awards(wps) + process_awards(nwsl) # + process_awards(wpsl) + process_awards(premier)
+
+def process_uefa_women_awards():
+    from metadata.data.lists.awards.women import sweden, germany, premier, fa_wsl    
+    return process_awards(sweden) + process_awards(germany) + process_awards(fa_wsl)
 
 
 def process_world_awards():

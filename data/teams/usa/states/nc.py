@@ -6,6 +6,13 @@ import datetime
 l = [
 
     {
+        'name': 'Charlotte FC',
+        'city': 'Charlotte, NC',
+        'founded': datetime.datetime(2019, 12, 17),
+       },
+
+
+    {
         'name': 'Cary Clarets',
         'city': 'Cary, NC',
         'founded': 2002,

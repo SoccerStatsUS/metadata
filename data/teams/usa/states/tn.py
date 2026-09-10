@@ -8,11 +8,21 @@ l = [
     # division 1
 
     {
+        'name': 'Nashville SC',
+        'city': 'Nashville, TN',
+        'founded': datetime.datetime(2016, 5, 19),
+       },
+
+
+    {
         'name': 'Memphis Rogues',
         'founded': 1978,
         'dissolved': 1980,
         'city': 'Memphis, TN',
         },
+
+
+    # other
 
 
     {

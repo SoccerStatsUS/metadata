@@ -2914,11 +2914,10 @@ world = {
 
     'Hapoel Tel Aviv F.C.': 'Hapoel Tel Aviv',
 
-    'Hapoel Petah Tikvah': 'Hapoel Petah Tikva F.C.',
-    'Hapoel Petah Tikva': 'Hapoel Petah Tikva F.C.',
+    'Hapoel Petah Tikvah': 'Hapoel Petah Tikva',
+    'Hapoel Petah Tikva F.C.': 'Hapoel Petah Tikva',
 
     'Hapoel Haifa': 'Hapoel Haifa F.C.',
-
 
     'Maccabi Tel Aviv F.C.': 'Maccabi Tel Aviv',
     'Maccabi Tel-Aviv Fc': 'Maccabi Tel Aviv',
@@ -5143,6 +5142,7 @@ world = {
 
     'Swindon': 'Swindon Town',
 
+    'Manchester City FC': 'Manchester City',
     'Manchester City FC - England': 'Manchester City',
     'Manchester C': 'Manchester City',
     'Man City': 'Manchester City',

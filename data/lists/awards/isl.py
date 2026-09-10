@@ -4,7 +4,7 @@
 import datetime
 
 
-d = {
+isl = {
     'competition': 'International Soccer League',
     'team_data': ['Champion'],
 
