@@ -2,6 +2,12 @@
 usa = {
 
     'Colorado Switchbacks': 'Colorado Springs Switchbacks FC',
+    'Notre Dame University': 'University of Notre Dame',
+    'University of North Carolina Wilmington': 'UNC Wilmington',
+    'University of Nebraska - Omaha': 'University of Nebraska Omaha',
+
+    'St. Mary\'s College of California': 'Saint Mary\'s College of California',
+    'CSU Northridge': 'Cal State Northridge',
 
     'Arizona United SC': 'Arizona United',
 
@@ -557,7 +563,15 @@ usa = {
     'St. Mary\'s College': 'Saint Mary\'s College of California',
     'Saint Mary\'s College': 'Saint Mary\'s College of California',
     'Midwestern State': 'Midwestern State University',
+
     'University of California': 'University of California, Berkeley',
+    'University of California-Berkeley': 'University of California, Berkeley',
+    'University of California Berkeley': 'University of California, Berkeley',
+
+    'UM-Baltimore County': 'University of Maryland, Baltimore County',
+    'Denver University': 'University of Denver',
+
+     'Cal State Sacramento': 'California State University, Sacramento',
 
     'Cobb Soccer Club': 'Cobb Futbol Club',
     'West Pines United Club': 'West Pines United Futbol Club',

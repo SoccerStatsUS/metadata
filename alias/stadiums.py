@@ -163,6 +163,7 @@ world = {
     'Shepherds Bush Stadium': 'Shepherds Bush Green',
     'Cleveland Browns Stadium': 'FirstEnergy Stadium',
     'Home Depot Center': 'StubHub Center',
+    'Stubhub Center': 'StubHub Center',    
 
     'Estadio Bella Vista': 'Estadio Bellavista',
     'Estadio Casa Blanca': 'Estadio de Liga Deportiva Universitaria',
@@ -1043,6 +1044,7 @@ united_states = {
     'Chapman Stadium': 'Skelly Field at H. A. Chapman Stadium',
 
     # Washington DC
+    'D.C. Stadium': 'Robert F. Kennedy Memorial Stadium',    
     'Robert F. Kennedy Stadium': 'Robert F. Kennedy Memorial Stadium',
     'RFK Stadium': 'Robert F. Kennedy Memorial Stadium',
     'RFK Memorial Stadium': 'Robert F. Kennedy Memorial Stadium',

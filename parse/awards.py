@@ -367,18 +367,16 @@ def process_world_cup_awards():
 
 def process_women_awards():
     from metadata.data.lists.awards.women import wusa, wps, nwsl, wpsl, sweden, germany, premier, fa_wsl
-    return process_awards(wusa) + process_awards(wps) + process_awards(nwsl) + process_awards(wpsl) + process_awards(sweden) + process_awards(germany) + process_awards(fa_wsl) + process_awards(premier)
+    return process_awards(wusa) + process_awards(wps) + process_awards(nwsl) + process_awards(wpsl) + process_awards(sweden) \
+        + process_awards(germany) + process_awards(fa_wsl) + process_awards(premier)
 
 
 def process_world_awards():
     from metadata.data.lists.awards import world 
     return process_awards(world.intercontinental_cup) + process_awards(world.interamerican_cup) + \
         process_awards(world.suruga) + process_awards(world.panpacific) + process_awards(world.club_world_cup) + \
-        process_awards(world.copa_rio) + process_awards(world.copita) + process_awards(world.confederations)
-
-
-    
-
+        process_awards(world.copa_rio)  + process_awards(world.confederations) \
+        # + process_awards(world.copita)
 
 if __name__ == "__main__":
     print(process_world_cup_awards())
