@@ -4,6 +4,12 @@ from metadata.settings import ROOT_DIR
 
 COMPETITIONS = os.path.join(ROOT_DIR, 'metadata/data/competitions/definitions')
 RELATIONSHIPS = os.path.join(ROOT_DIR, 'metadata/data/competitions/relationships')
+ACTIVE = os.path.join(ROOT_DIR, 'metadata/data/competitions/active')
+
+
+def load_active():
+    with open(ACTIVE) as f:
+        return set(line.strip() for line in f if line.strip() and not line.startswith('*'))
 
 def load_competitions():
 
@@ -36,7 +42,16 @@ def load_competitions():
 
     p = os.path.join(COMPETITIONS)
     f = open(p)
-    return [helper(line.strip()) for line in f if line.strip() and not line.startswith('*')]
+    competitions = [helper(line.strip()) for line in f if line.strip() and not line.startswith('*')]
+
+    active = load_active()
+    unknown = active - set(c['name'] for c in competitions)
+    if unknown:
+        raise ValueError("active competitions not in definitions: %s" % sorted(unknown))
+    for c in competitions:
+        c['active'] = c['name'] in active
+
+    return competitions
 
 
 
