@@ -1,14 +1,58 @@
+
+usl_cup = {
+    'competition': 'USL Cup',
+    'team_data': ['Champion', ],
+
+    'Champion': [
+        (2024, 'Northern Colorado Hailstorm FC'),
+        (2025, 'Hartford Athletic'),
+        ],
+    }
+
+
+
 usl_pro = {
     'competition': 'USL Pro',
-    'team_data': ['Champion'],
+    'team_data': ['Champion', 'Players\' Shield'],
     
     'Champion': [
         (2011, 'Orlando City'),
         (2012, 'Charleston Battery'),
         (2013, 'Orlando City'),
         (2014, 'Sacramento Republic'),
+        (2015, 'Rochester Rhinos'),
+        (2016, 'New York Red Bulls II'),
+        (2017, 'Louisville City FC'),
+        (2018, 'Louisville City FC'),
+        (2019, 'Real Monarchs SLC'),
+        # (2020, cancelled, COVID
+        (2021, 'Orange County SC'),
+        (2022, 'San Antonio FC'),
+        (2023, 'Phoenix Rising FC'),
+        (2024, 'Colorado Springs Switchbacks'),
+        (2025, 'Pittsburgh Riverhounds'),
         ],
 
+    'Players\' Shield': [
+        (2011, 'Orlando City SC'),
+        (2012, 'Orlando City SC'),
+        (2013, 'Richmond Kickers'),
+        (2014, 'Orlando City SC'),
+        (2015, 'Rochester Rhinos'),
+        (2016, 'New York Red Bulls II'),
+        (2017, 'Real Monarchs SLC'),
+        (2018, 'FC Cincinnati'),
+        (2019, 'Phoenix Rising FC')
+        (2020, 'Reno 1868 FC'),
+        (2021, 'Tampa Bay Rowdies'),
+        (2022, 'San Antonio FC'),
+        (2023, 'Pittsburgh Riverhounds SC'),
+        (2024, 'Louisville City FC'),
+        (2025, 'Louisville City FC'),
+        
+        ],
+        
+        
     'MVP': [
         (2011, 'Yordany Alvarez'),
         (2012, 'Kevin Molino'),

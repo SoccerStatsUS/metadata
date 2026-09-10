@@ -8,6 +8,42 @@ import datetime
 l = [
 
     {
+        'name': 'Rancho Santiago Community College',
+        'city': 'Santa Ana, CA',
+        },
+
+    {
+        'name': 'Iona University',
+        'city': 'New Rochelle, NY',
+        },
+
+    {
+        'name': 'US Naval Academy',
+        'city': 'Annapolis, MD',
+        },
+
+    {
+        'name': 'University of Maryland, Baltimore County',
+        'city': 'Catonsville, MD',
+        },
+
+    {
+        'name': 'Davenport University',
+        'city': 'Kent County, MI',
+        },
+
+    {
+        'name': 'Saint Mary\'s College of California',
+        'city': 'Moraga, CA',
+        },
+
+    {
+        'name': 'Whitworth University',
+        'city': 'Country Homes, WA',
+        },
+
+
+    {
         'name': 'Saint Louis University',
         'city': 'St. Louis, MO',
         },
@@ -133,6 +169,8 @@ l = [
         'name': 'College of William and Mary',
         'city': 'Williamsburg, VA',
         },
+
+
 
     {
         'name': 'Oakland University',
@@ -478,6 +516,11 @@ l = [
     {
         'name': 'California State University, Sacramento',
         'city': 'Sacramento, CA',
+        },
+
+    {
+        'name': 'University of North Florida',
+        'city': 'Jacksonville, FL',
         },
 
 
@@ -1341,6 +1384,12 @@ l = [
         'name': 'Cal State Northridge',
         'city': 'Northridge, CA',
        },
+
+    {
+        'name': 'Wheaton College (IL)',
+        'city': 'Wheaton, IL',
+       },
+
     {
         'name': 'Westminster College (Utah)',
         'city': 'Salt Lake City, UT',

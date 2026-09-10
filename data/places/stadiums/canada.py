@@ -6,6 +6,15 @@ import datetime
 
 l = [
 
+
+    {
+        'name': 'Lamport Stadium',
+        'address': '1151 King Street West',
+        'location': 'Toronto, ON',
+        'opened': datetime.datetime(1976, 9, 19),
+        'capacity': 9600,
+        },
+
         {
         'name': 'Carruthers Park',
         'location': 'Winnipeg, MB',

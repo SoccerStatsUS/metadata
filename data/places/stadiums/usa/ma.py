@@ -15,7 +15,19 @@ l = [
         'architect': 'James McLaughlin',
         'capacity': 37493,
         },
-    
+
+{
+        'name': 'Manning Bowl',
+        'address': '76 Locust St',
+        'location': 'Lynn, MA',
+        'opened': datetime.datetime(1937, 11, 24),
+        'cost': 500000,
+        'architect': 'Cyril Harding',
+        'capacity': 21000,
+        },
+
+
+
     {
         'name': 'Harvard Stadium',
         'address': '95 N Harvard St',

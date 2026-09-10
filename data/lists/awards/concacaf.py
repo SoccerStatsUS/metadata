@@ -66,8 +66,36 @@ champions_league = {
             ('2011-2012', 'CF Monterrey'),
             ('2012-2013', 'CF Monterrey'),
             ('2013-2014', 'Cruz Azul'),
+            ('2014-2015', 'Club America'),
+            ('2015-2016', 'Club America'),
+            ('2016-2017', 'Pachuca'),
+            ('2018', 'CD Guadalajara'),
+            ('2019', 'Monterrey'),
+            ('2020', 'Tigres UANL'),
+            ('2021', 'Monterrey'),
+            ('2022', 'Seattle Sounders'),
+            ('2023', 'Leon'),  
+            ('2024', 'Pachuca'),
+            ('2025', 'Cruz Azul'),
+            ('2026', 'Toluca'),                                    
             ],
 }
+
+
+superliga = {
+    'competition': 'Leagues Cup',
+    'team_data': ['Champion'],
+
+    'Champion': [
+        (2019, 'Cruz Azul'),
+        (2021, 'Leon'),
+        (2023, 'Inter Miami CF'),
+        (2024, 'Columbus Crew'),
+        (2025, 'Seattle Sounders FC'),
+        (2026, 'Toluca'),
+        ]
+}
+
 
 superliga = {
     'competition': 'North American SuperLiga',
