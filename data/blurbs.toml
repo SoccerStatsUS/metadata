@@ -119,3 +119,45 @@ text = "The ASL grew from eight clubs to twelve in 1924–25 and stretched the s
 kind = "competition"
 competition = "Eastern Soccer League (1928-1929)"
 text = "The United States Football Association set up the Eastern Soccer League in the fall of 1928 as a home for Bethlehem Steel, the Newark Skeeters and the New York Giants, the three clubs the ASL had suspended for entering the National Challenge Cup. Filled out with New York's ethnic clubs, it played a split 1928–29 season and a fall 1929 season before the Soccer War ended and its clubs were folded back into the ASL."
+
+[[blurbs]]
+kind = "season"
+competition = "North American Soccer League"
+season = "1968"
+text = "The NASL's first season was the merger of the two 1967 leagues, and it started with seventeen clubs. Twelve of them folded over the winter, and the league played 1969 with five."
+
+[[blurbs]]
+kind = "season"
+competition = "North American Soccer League"
+season = "1984"
+text = "The NASL's last season had nine clubs, down from 24 in 1980. Chicago Sting beat Toronto in Soccer Bowl '84, and the league suspended operations the following March and never came back."
+
+[[blurbs]]
+kind = "team"
+team = "Fort Lauderdale Strikers"
+text = "Two lineages have carried the Strikers name. The NASL franchise began as the Washington Darts in 1970, became the Miami Gatos and then the Miami Toros, played in Fort Lauderdale from 1977 to 1983 and finished as the Minnesota Strikers. Miami FC of the revived NASL took the name in 2011. Both are filed here."
+
+[[blurbs]]
+kind = "player"
+player = "Alan Willey"
+text = "Alan Willey scored five goals for the Minnesota Kicks in a 9–2 playoff win over the Cosmos on August 14, 1978. It counted for little: the Cosmos won the second game 4–0, took the tie-breaking mini-game, and went on to the title."
+
+[[blurbs]]
+kind = "player"
+player = "Bart McGhee"
+text = "Bart McGhee scored the United States' first World Cup goal, in the 41st minute against Belgium on July 13, 1930. Seven years earlier, playing for the New York Field Club, he had scored six in one ASL game against the Philadelphia Field Club."
+
+[[blurbs]]
+kind = "player"
+player = "Landon Donovan"
+text = "Landon Donovan retired in 2014 as the leading scorer in the history of both MLS and the United States national team, with six MLS Cup titles between San Jose and the LA Galaxy. He came back for the Galaxy in 2016 and, briefly, for León in Mexico in 2018."
+
+[[blurbs]]
+kind = "player"
+player = "Giorgio Chinaglia"
+text = "Giorgio Chinaglia came to the Cosmos from Lazio in 1976 and led the NASL in scoring five times; nobody in the league's history scored more. In 1984 he bought the club he had played for, and it folded within a year."
+
+[[blurbs]]
+kind = "competition"
+competition = "Copa Rio"
+text = "Copa Rio was a summer tournament staged in Rio de Janeiro and São Paulo from 1951 to 1953, pairing Brazil's biggest clubs with invited European sides. Palmeiras won the first edition and has argued ever since that it was the first club world championship."
