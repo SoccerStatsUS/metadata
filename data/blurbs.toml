@@ -201,3 +201,106 @@ text = "Predrag Radosavljević, known as Preki, spent a decade in American indoo
 kind = "player"
 player = "Jimmy Douglas"
 text = "Jimmy Douglas was the United States' goalkeeper at the 1924 Olympics and the 1930 World Cup, where he kept clean sheets against Belgium and Paraguay. He hurt a knee early in the semifinal against Argentina and, with no substitutes allowed, played on through a 6–1 defeat."
+
+[[blurbs]]
+kind = "player"
+player = "Roy Lassiter"
+text = "Roy Lassiter scored 27 goals for Tampa Bay in MLS's first season, a record that stood for 22 years until Josef Martinez broke it in 2018."
+
+[[blurbs]]
+kind = "player"
+player = "Stern John"
+text = "Stern John scored 26 goals as a rookie for Columbus in 1998, then 18 more the next year, and left for Nottingham Forest. He never returned to MLS; Trinidad and Tobago's record scorer spent the rest of his career in England."
+
+[[blurbs]]
+kind = "player"
+player = "Carlos Valderrama"
+text = "Carlos Valderrama was the first MLS MVP, in 1996 with the Tampa Bay Mutiny. In 2000 he set up 26 goals, a single-season assist record that has never been matched."
+
+[[blurbs]]
+kind = "player"
+player = "Marco Etcheverry"
+text = "Marco Etcheverry ran D.C. United's midfield from the league's first season through 2003, winning three of the first four MLS Cups and the 1998 MVP award. He arrived from Bolivia with a reputation as a hothead and left as the league's first great playmaker."
+
+[[blurbs]]
+kind = "player"
+player = "Jaime Moreno"
+text = "Jaime Moreno played fourteen seasons in MLS, all but one with D.C. United, and won four MLS Cups. He was the first player in the league with 100 goals and 100 assists, and retired in 2010 as its all-time leading scorer."
+
+[[blurbs]]
+kind = "player"
+player = "Taylor Twellman"
+text = "Taylor Twellman scored 101 goals in 174 league games for New England and was MVP in 2005, but a head injury in 2008 ended his career at 28. He retired formally two years later and became an advocate for concussion awareness in the sport."
+
+[[blurbs]]
+kind = "player"
+player = "Eddie Pope"
+text = "Eddie Pope headed in the golden goal that won the first MLS Cup as a rookie in 1996, and was the league's Defender of the Year the next season. He played in three World Cups for the United States, in 1998, 2002 and 2006."
+
+[[blurbs]]
+kind = "player"
+player = "Kasey Keller"
+text = "Kasey Keller spent nearly two decades in goal for Millwall, Leicester, Tottenham, Rayo Vallecano and Borussia Mönchengladbach before coming home to Seattle for the club's first three MLS seasons. He was the league's Goalkeeper of the Year in 2011, at 41, in the last season of his career."
+
+[[blurbs]]
+kind = "player"
+player = "Clint Dempsey"
+text = "Clint Dempsey was MLS Rookie of the Year with New England in 2004, spent six seasons at Fulham and one at Tottenham, and came back to Seattle in 2013. He finished level with Landon Donovan as the United States' all-time leading scorer, and was Comeback Player of the Year in 2017 after missing half a season with an irregular heartbeat."
+
+[[blurbs]]
+kind = "team"
+team = "Team America"
+text = "Team America was the United States national team entered in the NASL as a franchise, based in Washington, for the 1983 season. Many of the best American players refused to leave their clubs for it, the team finished last, and the experiment was dropped after one year."
+
+[[blurbs]]
+kind = "team"
+team = "Minnesota Kicks"
+text = "The Kicks averaged nearly 33,000 at Metropolitan Stadium in 1977, more than any club in the league but the Cosmos, on the strength of a parking-lot tailgating scene that became the team's real identity. The crowds fell by half within four years and the club folded after the 1981 season."
+
+[[blurbs]]
+kind = "team"
+team = "Tampa Bay Mutiny"
+text = "The Mutiny had the best record in MLS's first season and the league's first MVP in Carlos Valderrama, but never found an owner. The league ran the club itself for six years and shut it down, along with Miami, after 2001."
+
+[[blurbs]]
+kind = "team"
+team = "Miami Fusion"
+text = "The Fusion played at Lockhart Stadium in Fort Lauderdale, the first soccer-specific stadium in MLS. They won the Supporters' Shield in 2001 and were folded four months later, when the league contracted from twelve teams to ten."
+
+[[blurbs]]
+kind = "team"
+team = "Chivas USA"
+text = "Chivas USA was owned by Guadalajara's Chivas and meant to be its American branch, with the same red-and-white stripes and, for a time, an insistence on Mexican and Mexican-American players. It shared the Galaxy's stadium for ten seasons; the league bought the club in 2014, shut it down, and sold a new Los Angeles franchise that became LAFC."
+
+[[blurbs]]
+kind = "team"
+team = "Atlanta Chiefs"
+text = "The Chiefs won the first NASL championship in 1968, and that summer beat Manchester City, the English champions, twice in friendlies. Their coach, Phil Woosnam, became the league's commissioner the next year."
+
+[[blurbs]]
+kind = "season"
+competition = "Major League Soccer"
+season = "2002"
+text = "MLS contracted from twelve teams to ten before the 2002 season, folding Miami and Tampa Bay after losing an estimated $250 million in its first six years. It was the low point: the league has added teams in most seasons since."
+
+[[blurbs]]
+kind = "season"
+competition = "Major League Soccer"
+season = "2019"
+text = "Carlos Vela scored 34 goals and Zlatan Ibrahimović 30 in 2019, both passing the single-season record Josef Martinez had set a year earlier. Vela's LAFC won the Supporters' Shield with 72 points, another record."
+
+[[blurbs]]
+kind = "season"
+competition = "FIFA World Cup"
+season = "2002"
+text = "The United States opened the 2002 World Cup by beating Portugal 3–2, then beat Mexico 2–0 in the round of sixteen and lost 1–0 to Germany in the quarterfinal. It was the team's best finish since 1930."
+
+[[blurbs]]
+kind = "competition"
+competition = "MLS Reserve League"
+text = "MLS ran a reserve league from 2005 to 2008, dropped it to save money, and revived it from 2011 to 2014 before handing reserve play to affiliated USL clubs. Records are patchy; several games from the first run have no known result."
+
+[[blurbs]]
+kind = "competition"
+competition = "SURUGA Bank Championship"
+text = "The SURUGA Bank Championship was a one-game meeting in Japan between the winners of the J.League Cup and the Copa Sudamericana, played each summer from 2008 until 2019. The database covers it through 2013."
