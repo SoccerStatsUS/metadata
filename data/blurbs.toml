@@ -161,3 +161,43 @@ text = "Giorgio Chinaglia came to the Cosmos from Lazio in 1976 and led the NASL
 kind = "competition"
 competition = "Copa Rio"
 text = "Copa Rio was a summer tournament staged in Rio de Janeiro and São Paulo from 1951 to 1953, pairing Brazil's biggest clubs with invited European sides. Palmeiras won the first edition and has argued ever since that it was the first club world championship."
+
+[[blurbs]]
+kind = "player"
+player = "Pelé"
+text = "Pelé came out of retirement to join the Cosmos in June 1975 on a three-year contract worth about $4.5 million. He was league MVP in 1976 and won the title in his final season in 1977, and he left the NASL a different league: crowds of a few thousand became tens of thousands wherever the Cosmos played."
+
+[[blurbs]]
+kind = "player"
+player = "Franz Beckenbauer"
+text = "Franz Beckenbauer joined the Cosmos in 1977 as the captain of the reigning world champions and the reigning European Footballer of the Year. He was NASL MVP that first season and won three titles in four years, left for two seasons at Hamburg, then came back for one more year in 1983."
+
+[[blurbs]]
+kind = "player"
+player = "Kyle Rote Jr."
+text = "The son of a New York Giants football star, Kyle Rote Jr. was the NASL's Rookie of the Year and leading scorer in 1973 with the Dallas Tornado. He became far better known for winning ABC's Superstars competition three times, in 1974, 1976 and 1977, beating the best-paid athletes in American sports on national television."
+
+[[blurbs]]
+kind = "player"
+player = "Walter Bahr"
+text = "Walter Bahr captained the United States at the 1950 World Cup and took the shot that Joe Gaetjens turned past England's keeper for the 1–0 win in Belo Horizonte. He played for the national team from 1948 to 1957, then coached at Temple and Penn State. Two of his sons, Chris and Matt, kicked in the NFL."
+
+[[blurbs]]
+kind = "player"
+player = "Billy Gonsalves"
+text = "Billy Gonsalves is often called the best American player of the first half of the twentieth century. He won the National Challenge Cup eight times with six different clubs between 1930 and 1944 and played in the 1930 and 1934 World Cups. The database holds only a slice of that so far: one spring with the Fall River Marksmen and six games for the national team."
+
+[[blurbs]]
+kind = "player"
+player = "Davey Brown"
+text = "Davey Brown was the ASL's leading scorer in 1926–27 with 52 goals for the New York Giants, and played for the United States against Canada in 1925 and 1926. Coverage of the Giants' early seasons is thin here, so his record season is not yet in the database."
+
+[[blurbs]]
+kind = "player"
+player = "Preki"
+text = "Predrag Radosavljević, known as Preki, spent a decade in American indoor soccer with Tacoma and St. Louis before Everton signed him in 1992. He came back for MLS's first season in Kansas City and was league MVP in 1997 and again in 2003, at 40, the oldest player to win it. He was Coach of the Year with Chivas USA in 2007."
+
+[[blurbs]]
+kind = "player"
+player = "Jimmy Douglas"
+text = "Jimmy Douglas was the United States' goalkeeper at the 1924 Olympics and the 1930 World Cup, where he kept clean sheets against Belgium and Paraguay. He hurt a knee early in the semifinal against Argentina and, with no substitutes allowed, played on through a 6–1 defeat."
