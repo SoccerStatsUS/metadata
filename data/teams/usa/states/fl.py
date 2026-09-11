@@ -20,6 +20,12 @@ l = [
         'city': 'Tallahassee, FL',
         },
 
+    {
+        'name': 'Jacksonville Generals',
+        'city': 'Jacksonville, FL',            
+    },
+
+
     # division 1 
 
     {

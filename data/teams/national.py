@@ -473,6 +473,13 @@ l = international([
         'founded': 1902,
         'country': 'Norway',
         },
+
+    {
+        'name': 'Northern Ireland',
+        # 'founded': 19,
+        'country': 'Northern Ireland',
+        },
+
     {
         'name': 'Poland',
         'founded': 1919,
@@ -514,6 +521,14 @@ l = international([
         'founded': 1919,
         'country': 'Serbia',
         },
+
+    {
+        'name': 'Serbia and Montenegro',
+        # 'founded': 1919,
+        'country': 'Serbia and Montenegro',
+        },
+
+
     {
         'name': 'Slovakia',
         'founded': 1938,

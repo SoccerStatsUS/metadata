@@ -57,6 +57,12 @@ l = [
         },
 
     {
+        'name': 'Texas Stampede',
+        # 'city': who knows
+        },
+
+
+    {
         'name': 'Texas Lightning',
         'city': 'Dallas, TX',
         },

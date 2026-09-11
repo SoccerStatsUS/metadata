@@ -42,7 +42,7 @@ usl_pro = {
         (2016, 'New York Red Bulls II'),
         (2017, 'Real Monarchs SLC'),
         (2018, 'FC Cincinnati'),
-        (2019, 'Phoenix Rising FC')
+        (2019, 'Phoenix Rising FC'),
         (2020, 'Reno 1868 FC'),
         (2021, 'Tampa Bay Rowdies'),
         (2022, 'San Antonio FC'),
@@ -516,7 +516,7 @@ usl_1 = {
 
 usl_2 = {
     'competition': 'USL Second Division',
-    'team_data': ['Champion'],
+    'team_data': ['Champion', 'Organization of the Year', ],
 
     'Champion': [
         (1995, 'Long Island Rough Riders'),
@@ -536,6 +536,12 @@ usl_2 = {
         (2009, 'Richmond Kickers'),
         (2010, 'Charleston Battery'),
         ],
+
+    'Organization of the Year': [
+        (2005, 'Harrisburg City Islanders'),
+        (2006, 'Richmond Kickers'),
+         ],
+
 
 
     'MVP': [
@@ -619,10 +625,6 @@ usl_2 = {
         (2010, 'Mike Anhaeuser'),
         ],
 
-    'Organization of the Year': [
-        (2005, 'Harrisburg City Islanders'),
-        (2006, 'Richmond Kickers'),
-         ],
 
     'Best XI': [
         (1999, [

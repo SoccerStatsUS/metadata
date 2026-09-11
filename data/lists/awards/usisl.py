@@ -81,7 +81,7 @@ usisl_pro = {
 
 usisl_premier = {
     'competition': 'USISL Premier League',
-    'team_data': [],
+    'team_data': ['Organization of the Year', ],
     
     'MVP': [
         (1995, 'Gabe Jones'),
@@ -89,8 +89,8 @@ usisl_premier = {
         ],
 
     'Rookie of the Year': [
-        (1995, 'Eduardo Yoldi'),
-        (1996, 'Eduardo Yoldi'),
+        # (1995, 'Eduardo Yoldi'),
+        # (1996, 'Eduardo Yoldi'),
         ],
 
     'Coach of the Year': [
