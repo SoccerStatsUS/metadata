@@ -36,3 +36,43 @@ kind = "season"
 competition = "American Soccer League (1921-1933)"
 season = "1926-1927"
 text = "On January 15, 1927 the New Bedford Whalers beat the Philadelphia Field Club 14–0, the biggest win in the league's history. That same afternoon, a blizzard wiped out Bethlehem Steel's game against the New York Giants."
+
+[[blurbs]]
+kind = "player"
+player = "Archie Stark"
+text = "Archie Stark scored 67 goals in 44 league games for Bethlehem Steel in 1924–25, a single-season mark no American professional league has come near since. He turned down a place on the 1930 World Cup squad to stay home and run his business."
+
+[[blurbs]]
+kind = "player"
+player = "Bert Patenaude"
+text = "Bert Patenaude scored the first hat trick in World Cup history, all three goals in the United States' 3–0 win over Paraguay on July 17, 1930. For decades the record books credited one of them to a teammate; FIFA did not recognize the feat until 2006."
+
+[[blurbs]]
+kind = "team"
+team = "Bethlehem Steel"
+text = "Bethlehem Steel was the steelmaker's company team and the dominant American club of the 1910s and 1920s, with five National Challenge Cup wins between 1915 and 1926 and a 1919 tour of Scandinavia. The company shut the team down in 1930 when the Depression cut into steel orders."
+
+[[blurbs]]
+kind = "team"
+team = "Los Angeles Wolves"
+text = "The Los Angeles Wolves were Wolverhampton Wanderers playing under a local name in the 1967 United Soccer Association. They beat the Washington Whips, who were really Aberdeen, 6–5 in extra time in the final at the Coliseum."
+
+[[blurbs]]
+kind = "team"
+team = "Baltimore Orioles"
+text = "The Orioles' soccer team was the class of the 1894 American League of Professional Football, largely because the club had quietly imported professionals from England. That drew the attention of federal immigration officials, and the league folded before the inquiry went anywhere."
+
+[[blurbs]]
+kind = "team"
+team = "Hakoah All-Stars"
+text = "Hakoah All-Stars formed in the fall of 1929 when New York Hakoah, fresh from winning the National Challenge Cup, merged with Brooklyn Hakoah. Both clubs were built around Vienna Hakoah players who had stayed in America after the club's 1926 tour. The merged team played in the ASL until it dissolved in 1932."
+
+[[blurbs]]
+kind = "competition"
+competition = "United Soccer Association"
+text = "The United Soccer Association had FIFA's blessing but no players of its own. For its only season, the summer of 1967, it imported twelve whole clubs from Europe and South America and had each one play under the name of an American or Canadian city. That winter it merged with the rival National Professional Soccer League to form the NASL."
+
+[[blurbs]]
+kind = "competition"
+competition = "National Professional Soccer League"
+text = "The National Professional Soccer League launched in 1967 without FIFA's sanction but with a CBS television contract, and one referee later admitted stopping play so the network could fit in commercials. Oakland beat Baltimore in a two-game final, and the league merged with the United Soccer Association to form the NASL for 1968."
