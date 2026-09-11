@@ -76,3 +76,46 @@ text = "The United Soccer Association had FIFA's blessing but no players of its 
 kind = "competition"
 competition = "National Professional Soccer League"
 text = "The National Professional Soccer League launched in 1967 without FIFA's sanction but with a CBS television contract, and one referee later admitted stopping play so the network could fit in commercials. Oakland beat Baltimore in a two-game final, and the league merged with the United Soccer Association to form the NASL for 1968."
+
+[[blurbs]]
+kind = "team"
+team = "Fall River Marksmen"
+text = "Sam Mark founded the Marksmen in 1922 and built Mark's Stadium just over the state line in North Tiverton, Rhode Island, so the club could play on Sundays, which Massachusetts blue laws forbade. Fall River won seven of nine ASL titles between 1923 and 1930 before Mark moved the team to New York in 1931."
+
+[[blurbs]]
+kind = "team"
+team = "Philadelphia Field Club"
+text = "The Philadelphia Field Club won the ASL's first title in 1921–22 with Bethlehem Steel's players, who had moved to Philadelphia for the season. When they went back to Bethlehem, the club never recovered: over the next seven seasons it won 39 games and lost 152, and it was on the wrong end of the league's two biggest defeats, 14–0 and 12–1."
+
+[[blurbs]]
+kind = "team"
+team = "New York Cosmos"
+text = "The Cosmos signed Pelé in 1975 and, with Beckenbauer and Chinaglia alongside him, turned an NASL afterthought into the biggest draw in American soccer. A crowd of 77,691 filled Giants Stadium for a playoff game against Fort Lauderdale on August 14, 1977, still the largest in the league's history. The club folded in 1985; a new Cosmos revived the name in 2013."
+
+[[blurbs]]
+kind = "player"
+player = "Chris Wondolowski"
+text = "Chris Wondolowski was a fourth-round supplemental draft pick in 2005 who did not become a regular starter until he was 27. He then led MLS in scoring in 2010 and 2012, and retired in 2021 with 171 regular-season goals, the most in the league's history."
+
+[[blurbs]]
+kind = "season"
+competition = "Major League Soccer"
+season = "1996"
+text = "MLS did not allow ties in its first season. A drawn game went to a shootout, with each attacker starting 35 yards out and given five seconds to score, and 34 of the 160 league games were decided that way. The clock counted down and stopped for dead balls, too. Both rules lasted through 1999."
+
+[[blurbs]]
+kind = "season"
+competition = "FIFA World Cup"
+season = "1950"
+text = "The 1950 World Cup ended with a final group rather than a knockout, and Brazil needed only a draw in the last game against Uruguay. A crowd recorded at 200,000, the largest in this database, watched Uruguay win 2–1 at the Maracanã. Earlier in the tournament the United States beat England 1–0 in Belo Horizonte."
+
+[[blurbs]]
+kind = "season"
+competition = "American Soccer League (1921-1933)"
+season = "1924-1925"
+text = "The ASL grew from eight clubs to twelve in 1924–25 and stretched the schedule to 44 games. Archie Stark scored 67 goals in those 44 for Bethlehem Steel, but Fall River took the title, the second of three in a row."
+
+[[blurbs]]
+kind = "competition"
+competition = "Eastern Soccer League (1928-1929)"
+text = "The United States Football Association set up the Eastern Soccer League in the fall of 1928 as a home for Bethlehem Steel, the Newark Skeeters and the New York Giants, the three clubs the ASL had suspended for entering the National Challenge Cup. Filled out with New York's ethnic clubs, it played a split 1928–29 season and a fall 1929 season before the Soccer War ended and its clubs were folded back into the ASL."
