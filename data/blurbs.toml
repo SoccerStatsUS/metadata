@@ -3,3 +3,36 @@ kind = "season"
 competition = "American Soccer League (1921-1933)"
 season = "1928-1929"
 text = "The Soccer War broke open in 1928–29 after the ASL ordered its clubs to boycott the National Challenge Cup. Bethlehem Steel, the Newark Skeeters, and the New York Giants entered anyway; the league suspended them, and they joined the rival Eastern Soccer League."
+
+[[blurbs]]
+kind = "competition"
+competition = "American League of Professional Football"
+text = "The ALPF was a side project of six National League baseball owners, who wanted something to fill their ballparks after the 1894 baseball season ended. It lasted seventeen days. Crowds dwindled to a reported 13 for Brooklyn's home game against Philadelphia on October 18, and the league folded before the schedule was finished."
+
+[[blurbs]]
+kind = "competition"
+competition = "International Soccer League"
+text = "Every summer from 1960 to 1965, the International Soccer League brought a dozen club sides from Europe and South America to New York. The clubs were split into two sections that played in turn, the section winners met in a final, and the champion then faced the previous year's winner for the American Challenge Cup."
+
+[[blurbs]]
+kind = "competition"
+competition = "American Soccer League (1921-1933)"
+text = "Beginning in the fall of 1929, the ASL gave up its single September-to-May campaign and played separate fall and spring seasons. The league shrank steadily through the Depression. Its last season, the spring of 1933, was over after seven games, and the name passed to a new semi-pro league that fall."
+
+[[blurbs]]
+kind = "season"
+competition = "MLS Cup Playoffs"
+season = "1996"
+text = "The first MLS Cup was played at Foxboro Stadium in the middle of a nor'easter. LA Galaxy led 2–0 with less than twenty minutes left, but D.C. United tied it late and won 3–2 on Eddie Pope's golden-goal header in the fourth minute of extra time."
+
+[[blurbs]]
+kind = "season"
+competition = "North American Soccer League"
+season = "1980"
+text = "Giorgio Chinaglia scored seven goals for the Cosmos in an 8–1 playoff win over the Tulsa Roughnecks on August 31, 1980. No one has scored more in a North American professional game."
+
+[[blurbs]]
+kind = "season"
+competition = "American Soccer League (1921-1933)"
+season = "1926-1927"
+text = "On January 15, 1927 the New Bedford Whalers beat the Philadelphia Field Club 14–0, the biggest win in the league's history. That same afternoon, a blizzard wiped out Bethlehem Steel's game against the New York Giants."
