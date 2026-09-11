@@ -1651,6 +1651,7 @@ usa = {
     # ASL2
     'Newark Scottish Americans': 'Newark Scottish-Americans', # CHECK THESE
     'East Newark Scottish American FC': 'East Newark Scottish-American FC',# CHECK THESE
+    'East Newark Scottish-American FC': 'Kearny Scots',
 
     'Newark Scots-Americans': 'Kearny Scots',
     'Newark Scots Americans': 'Kearny Scots',
@@ -1689,6 +1690,7 @@ usa = {
 
 
     'Clark A.A': 'Clark A.A.',
+    'Clark AA': 'Kearney Clarks ONT',
     'Clark A.A.': 'Kearney Clarks ONT',
     'East Newark Clark A.A.': 'Kearney Clarks ONT',
     'East Newark Clark AA': 'Kearney Clarks ONT',
