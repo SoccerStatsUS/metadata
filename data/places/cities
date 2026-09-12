@@ -77,3 +77,20 @@ Veracruz, Mexico           ; 19.1738 ; -96.1342
 Vicenza, Italy             ; 45.5455 ; 11.5354
 Victoria, BC               ; 48.4284 ; -123.3656
 Winnipeg, MB               ; 49.8951 ; -97.1384
+
+* American Soccer League, 1921-1933. "Holyoke, NJ" and "Bridgeport, PA" in the
+* team data look like wrong states (Holyoke Falcos were Massachusetts, the
+* Bridgeport clubs Connecticut) and get no row until the data is fixed.
+Andover, MA                ; 42.6583 ; -71.1368
+Bethlehem, PA              ; 40.6259 ; -75.3705
+Bridgeport, CT             ; 41.1865 ; -73.1952
+Brooklyn, NY               ; 40.6782 ; -73.9442
+Fall River, MA             ; 41.7015 ; -71.1550
+Harrison, NJ               ; 40.7465 ; -74.1563
+Jersey City, NJ            ; 40.7178 ; -74.0431
+New Bedford, MA            ; 41.6362 ; -70.9342
+Newark, NJ                 ; 40.7357 ; -74.1724
+Paterson, NJ               ; 40.9168 ; -74.1718
+Pawtucket, RI              ; 41.8787 ; -71.3826
+Providence, RI             ; 41.8240 ; -71.4128
+Springfield, MA            ; 42.1015 ; -72.5898
