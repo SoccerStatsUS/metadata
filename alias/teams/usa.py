@@ -1,6 +1,8 @@
 
 usa = {
 
+    'St. Louis City': 'Saint Louis City SC',
+
     'Colorado Switchbacks': 'Colorado Springs Switchbacks FC',
     'Notre Dame University': 'University of Notre Dame',
     'University of North Carolina Wilmington': 'UNC Wilmington',

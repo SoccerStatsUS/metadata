@@ -1,5 +1,7 @@
 world = {
 
+    'Ciudad Madero': 'CF Ciudad Madero',
+
     'German American S.C.': 'German-American SC',
     'Reading German Americans': 'Reading German-Americans',
 
@@ -1714,7 +1716,7 @@ world = {
 
 
 
-    'Marte FC': 'Marte',
+
 
     # uncategorized
 
@@ -1889,7 +1891,7 @@ world = {
 
     'Angeles': 'Ángeles de Puebla',
 
-    #'Guerra y Marina': 'Marte (Mexico)', # name map.
+
     'Son-Sin': 'Guerra y Marina',
 
 
@@ -4839,6 +4841,7 @@ world = {
     'Hamburger SV (Ger)': 'Hamburger SV',
     'HSV': 'Hamburger SV',
     'Hamburg': 'Hamburger SV',
+    'Hamburger': 'Hamburger SV',
 
     'Msv Duisburg': 'MSV Duisburg',
     'MSV': 'MSV Duisburg',
@@ -4887,6 +4890,7 @@ world = {
     'Eintracht Braunschweig (Ger)': 'Eintracht Braunschweig',
 
 
+    'TSV 1860': '1860 Munchen',
     'TSV Munich': '1860 Munchen',
     '1860 München': '1860 Munchen',
     'TSV München 1860': '1860 Munchen',
@@ -6881,7 +6885,14 @@ world = {
     'Atlético Veraguense': 'Atlético Veragüense',
     'Atl. Veragüense': 'Atlético Veragüense',
 
+    #'Guerra y Marina': 'Marte (Mexico)', # name map.
+    'Marte (Mexico)': 'CD Marte (Mexico)',    
 
+    # Unclear
+    'Marte FC': 'Marte',
+
+
+    # El Salvador
     'Club Deportivo Marte': 'C.D. Atlético Marte',
     'Atletico Marte': 'C.D. Atlético Marte',
     'C.D. Atletico Marte': 'C.D. Atlético Marte',

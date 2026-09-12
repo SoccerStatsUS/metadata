@@ -1032,7 +1032,7 @@ norway = {
         ('2010', 'Rosenborg'),
         ('2011', 'Molde'),
         ('2012', 'Molde'),
-        ('2013', 'Stromgodset'),
+        ('2013', 'Stromsgodset'),
         ],
 }
 
