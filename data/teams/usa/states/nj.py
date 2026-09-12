@@ -317,7 +317,7 @@ l = [
         'name': 'Holyoke Falcos',
         'founded': 1921,
         'dissolved': 1924,
-        'city': 'Holyoke, NJ',
+        'city': 'Holyoke, MA',
         },
     {
         'name': 'Jersey City Celtics',

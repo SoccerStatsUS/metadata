@@ -37,9 +37,8 @@ Vancouver, BC      ; 49.2827 ; -123.1207
 Washington D.C.    ; 38.9072 ; -77.0369
 
 * Every other city a club in the database calls home, so the map works for
-* any competition, not only MLS. Misspelled location strings upstream
-* ("Rio de Janerio, Brazil", "Monteal, QC", "Winnipeg, AB", "Limassol, Greece")
-* get no row here: fix the team data, not the key.
+* any competition, not only MLS. A misspelled location string upstream gets
+* no row here: fix the team data, not the key.
 Anaheim, CA                ; 33.8366 ; -117.9143
 Baltimore, MD              ; 39.2904 ; -76.6122
 Berlin, Germany            ; 52.5200 ; 13.4050
@@ -78,9 +77,7 @@ Vicenza, Italy             ; 45.5455 ; 11.5354
 Victoria, BC               ; 48.4284 ; -123.3656
 Winnipeg, MB               ; 49.8951 ; -97.1384
 
-* American Soccer League, 1921-1933. "Holyoke, NJ" and "Bridgeport, PA" in the
-* team data look like wrong states (Holyoke Falcos were Massachusetts, the
-* Bridgeport clubs Connecticut) and get no row until the data is fixed.
+* American Soccer League, 1921-1933.
 Andover, MA                ; 42.6583 ; -71.1368
 Bethlehem, PA              ; 40.6259 ; -75.3705
 Bridgeport, CT             ; 41.1865 ; -73.1952
@@ -97,11 +94,7 @@ Springfield, MA            ; 42.1015 ; -72.5898
 
 * Europe's top flights and Liga MX. Keyed as the team data spells the city,
 * so "Rheims", "Havre", "St.Pauli", "Chievo" and "Reggiana" stay as they are.
-* Wrong or garbled strings get no row until the team data is fixed:
-* "Birminghamn", "Manchester City", "Hertfordshire", "Cagliario",
-* "Tampaulipas", "Zacatepeca", "Avignon, Belgium", "Pescara, France",
-* "León, México", "Orizaba, Veracruz", "Xochitepec, Morelos". "Swansea,
-* England" is Wales, but the row keeps the league's map whole.
+* "Swansea, England" is Wales, but the row keeps the league's map whole.
 Barnsley, England          ; 53.5526 ; -1.4797
 Birmingham, England        ; 52.4862 ; -1.8904
 Blackburn, England         ; 53.7486 ; -2.4870
@@ -304,3 +297,15 @@ Toluca, Mexico             ; 19.2826 ; -99.6557
 Torreon, Mexico            ; 25.5428 ; -103.4068
 Tuxtla Gutiérrez, Mexico   ; 16.7516 ; -93.1029
 Zamora de Hidalgo, Mexico  ; 19.9833 ; -102.2833
+
+* Cities whose team-data spelling was corrected on 2026-09-12.
+Watford, England           ; 51.6565 ; -0.3903
+Avignon, France            ; 43.9493 ; 4.8055
+Cagliari, Italy            ; 39.2238 ; 9.1217
+Pescara, Italy             ; 42.4618 ; 14.2161
+Holyoke, MA                ; 42.2043 ; -72.6162
+Orizaba, Mexico            ; 18.8500 ; -97.1000
+Tampico, Mexico            ; 22.2553 ; -97.8686
+Xochitepec, Mexico         ; 18.7833 ; -99.2333
+Zacatepec, Mexico          ; 18.6547 ; -99.1897
+Rio de Janeiro, Brazil     ; -22.9068 ; -43.1729

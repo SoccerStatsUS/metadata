@@ -1539,7 +1539,7 @@ l = [
     {
         'name': 'San Sebastián de León',
         'founded': 1944,
-        'city': 'León, México',
+        'city': 'León, Mexico',
         },
 
     {
@@ -1557,7 +1557,7 @@ l = [
     {
         'name': 'Colibríes',
         'founded': datetime.datetime(2002, 12, 10),
-        'city': 'Xochitepec, Morelos',
+        'city': 'Xochitepec, Mexico',
         },
 
     {
@@ -1570,7 +1570,7 @@ l = [
         'name': 'Moctezuma de Orizaba',
         'founded': 1932,
         'dissolved': 1950,
-        'city': 'Orizaba, Veracruz',
+        'city': 'Orizaba, Mexico',
         },
 
 
@@ -1622,7 +1622,7 @@ l = [
     {
         'name': 'CD Zacatepec',
         'founded': 1948,
-        'city': 'Zacatepeca, Mexico',
+        'city': 'Zacatepec, Mexico',
         },
 
 
@@ -1822,9 +1822,22 @@ l = [
         },
 
     {
+        'name': 'CF Ciudad Madero',
+        'founded': 1957,
+        'city': 'Ciudad Madero, Tamaulipas, Mexico',
+        },
+
+    {
+        'name': 'CD Marte (Mexico)',
+        'founded': 1928,
+        'city': 'Cuernavaca, Morelos, Mexico',
+        },
+
+
+    {
         'name': 'Tampico Madero FC',
         'founded': datetime.datetime(1945, 7, 8),
-        'city': 'Tampaulipas, Mexico',
+        'city': 'Tampico, Mexico',
         },
 
     {

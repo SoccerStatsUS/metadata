@@ -792,7 +792,7 @@ l = [
     {
         'name': 'Watford',
         'founded': 1881,
-        'city': 'Hertfordshire, England',
+        'city': 'Watford, England',
         },
 
     {
@@ -995,7 +995,7 @@ l = [
     {
         'name': 'Manchester City F.C.',
         'founded': 1880,
-        'city': 'Manchester City, England',
+        'city': 'Manchester, England',
         },
     {
         'name': 'Nottingham Forest F.C.',
@@ -1070,7 +1070,7 @@ l = [
     {
         'name': 'Aston Villa F.C.',
         'founded': 1874,
-        'city': 'Birminghamn, England',
+        'city': 'Birmingham, England',
         },
 
     {
@@ -3190,7 +3190,7 @@ l = [
     {
         'name': 'Arles-Avignon',
         'founded': 1913,
-        'city': 'Avignon, Belgium',
+        'city': 'Avignon, France',
         },
 
     {
@@ -3538,7 +3538,7 @@ l = [
     {
         'name': 'AEL Limassol',
         'founded': datetime.datetime(1930, 10, 4),
-        'city': 'Limassol, Greece',
+        'city': 'Limassol, Cyprus',
         },
 
 
@@ -4525,7 +4525,7 @@ l = [
     {
         'name': 'Cagliari',
         'founded': datetime.datetime(1920, 8, 20),
-        'city': 'Cagliario, Italy',
+        'city': 'Cagliari, Italy',
         },
     {
         'name': 'Lecce',
@@ -5092,7 +5092,7 @@ l = [
     {
         'name': 'Pescara',
         'founded': 1936, 
-        'city': 'Pescara, France',
+        'city': 'Pescara, Italy',
         },
 
     {

@@ -136,7 +136,7 @@ l = [
         'name': 'Montreal Manic',
         'founded': 1981,
         'dissolved': 1983,
-        'city': 'Monteal, QC',
+        'city': 'Montreal, QC',
         },
 
 
@@ -295,16 +295,6 @@ l = [
         },
 
     {
-        'name': 'Montral Supra',
-        'city': 'Monteal, QC',
-        'founded': 1988,
-        'dissolved': 1992,
-        },
-
-
-
-
-    {
         'name': 'Toronto Ulster United',
         'city': 'Toronto, ON',
         },
@@ -369,7 +359,7 @@ l = [
 
     {
         'name': 'WSA Winnipeg',
-        'city': 'Winnipeg, AB',
+        'city': 'Winnipeg, MB',
         'founded': 2010,
         },
 

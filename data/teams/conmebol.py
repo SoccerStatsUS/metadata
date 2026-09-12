@@ -2418,7 +2418,7 @@ l = [
     {
         'name': 'America Rio',
         'founded': datetime.datetime(1904, 9, 18),
-        'city': 'Rio de Janerio, Brazil',
+        'city': 'Rio de Janeiro, Brazil',
         },
 
     {
@@ -2442,13 +2442,13 @@ l = [
     {
         'name': 'Bangu',
         'founded': datetime.datetime(1904, 4, 17),
-        'city': 'Rio de Janerio, Brazil',
+        'city': 'Rio de Janeiro, Brazil',
         },
 
     {
         'name': 'Bonsucesso FC',
         'founded': datetime.datetime(1913, 8, 12),
-        'city': 'Rio de Janerio, Brazil',
+        'city': 'Rio de Janeiro, Brazil',
         },
 
     {
@@ -2578,7 +2578,7 @@ l = [
     {
         'name': 'Flamengo',
         'founded': datetime.datetime(1895, 11, 17),
-        'city': 'Rio de Janerio, Brazil',
+        'city': 'Rio de Janeiro, Brazil',
         },
 
     {
@@ -2595,7 +2595,7 @@ l = [
     {
         'name': 'Fluminense',
         'founded': datetime.datetime(1902, 7, 21),
-        'city': 'Rio de Janerio, Brazil',
+        'city': 'Rio de Janeiro, Brazil',
         },
 
     {
@@ -2619,7 +2619,7 @@ l = [
     {
         'name': 'Bonsucesso',
         'founded': datetime.datetime(1913, 8, 12),
-        'city': 'Rio de Janerio, Brazil',
+        'city': 'Rio de Janeiro, Brazil',
         },
 
     {
@@ -2637,7 +2637,7 @@ l = [
     {
         'name': 'Botafogo',
         'founded': datetime.datetime(1894, 7, 1),
-        'city': 'Rio de Janerio, Brazil',
+        'city': 'Rio de Janeiro, Brazil',
         },
 
     {
@@ -2715,7 +2715,7 @@ l = [
     {
         'name': 'CR Vasco da Gama',
         'founded': datetime.datetime(1898, 8, 21),
-        'city': 'Rio de Janerio, Brazil',
+        'city': 'Rio de Janeiro, Brazil',
         },
 
 

@@ -24,7 +24,7 @@ l = [
 
     {
         'name': 'Centro Esportivo Miécimo da Silva',
-        'location': 'Rio de Janerio, Bolivia',
+        'location': 'Rio de Janeiro, Brazil',
         'opened': 1997,
         'capacity': 4000,
         },
@@ -32,7 +32,7 @@ l = [
 
     {
         'name': 'Centro de Futebol Zico',
-        'location': 'Rio de Janerio, Bolivia',
+        'location': 'Rio de Janeiro, Brazil',
         'opened': datetime.datetime(1996, 7, 12),
         'capacity': 1000,
         },

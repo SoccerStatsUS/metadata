@@ -80,7 +80,7 @@ l = [
 
     { 
         'name': 'Bridgeport Hungaria',
-        'city': 'Bridgeport, PA',
+        'city': 'Bridgeport, CT',
         'founded': 1930,
         'dissolved': 1930,
         },
