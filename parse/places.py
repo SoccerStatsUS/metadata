@@ -106,6 +106,24 @@ def load_state_populations():
 
 
 
+def load_cities():
+    """
+    Home-city coordinates: location string, lat, lon.
+    """
+    l = []
+    p = os.path.join(PLACES_DIR, 'cities')
+    for line in open(p):
+        if line.strip() and not line.startswith('*'):
+            location, lat, lon = line.split(';')
+            l.append({
+                    'location': location.strip(),
+                    'lat': float(lat),
+                    'lon': float(lon),
+                    })
+
+    return l
+
+
 def load_stadiums():
     print("Loading stadiums.")
     p = os.path.join(ROOT_DIR, 'metadata/data/places/stadiums')
