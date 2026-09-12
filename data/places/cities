@@ -35,3 +35,45 @@ Tampa, FL          ; 27.9506 ; -82.4572
 Toronto, ON        ; 43.6532 ; -79.3832
 Vancouver, BC      ; 49.2827 ; -123.1207
 Washington D.C.    ; 38.9072 ; -77.0369
+
+* Every other city a club in the database calls home, so the map works for
+* any competition, not only MLS. Misspelled location strings upstream
+* ("Rio de Janerio, Brazil", "Monteal, QC", "Winnipeg, AB", "Limassol, Greece")
+* get no row here: fix the team data, not the key.
+Anaheim, CA                ; 33.8366 ; -117.9143
+Baltimore, MD              ; 39.2904 ; -76.6122
+Berlin, Germany            ; 52.5200 ; 13.4050
+Bronx, NY                  ; 40.8448 ; -73.8648
+Calgary, AB                ; 51.0447 ; -114.0719
+Cleveland, OH              ; 41.4993 ; -81.6944
+Coventry, England          ; 52.4068 ; -1.5197
+Detroit, MI                ; 42.3314 ; -83.0458
+Edinburgh, Scotland        ; 55.9533 ; -3.1883
+Edmonton, AB               ; 53.5461 ; -113.4938
+Fort Lauderdale, FL        ; 26.1224 ; -80.1373
+Halifax, NS                ; 44.6488 ; -63.5752
+Hamilton, ON               ; 43.2557 ; -79.8711
+Hartford, CT               ; 41.7658 ; -72.6734
+Honolulu, HI               ; 21.3069 ; -157.8583
+Jacksonville, FL           ; 30.3322 ; -81.6557
+Langley, BC                ; 49.1044 ; -122.6604
+Las Vegas, NV              ; 36.1699 ; -115.1398
+Limassol, Cyprus           ; 34.7071 ; 33.0226
+Lynn, MA                   ; 42.4668 ; -70.9495
+Memphis, TN                ; 35.1495 ; -90.0490
+Minneapolis, MN            ; 44.9778 ; -93.2650
+Monterrey, Mexico          ; 25.6866 ; -100.3161
+Oakland, CA                ; 37.8044 ; -122.2712
+Ottawa, ON                 ; 45.4215 ; -75.6972
+Pittsburgh, PA             ; 40.4406 ; -79.9959
+Pontiac, MI                ; 42.6389 ; -83.2910
+Póvoa de Varzim, Portugal  ; 41.3833 ; -8.7667
+Rochester, NY              ; 43.1566 ; -77.6088
+San Antonio, TX            ; 29.4241 ; -98.4936
+San Francisco, CA          ; 37.7749 ; -122.4194
+Tel Aviv, Israel           ; 32.0853 ; 34.7818
+Tulsa, OK                  ; 36.1540 ; -95.9928
+Veracruz, Mexico           ; 19.1738 ; -96.1342
+Vicenza, Italy             ; 45.5455 ; 11.5354
+Victoria, BC               ; 48.4284 ; -123.3656
+Winnipeg, MB               ; 49.8951 ; -97.1384
