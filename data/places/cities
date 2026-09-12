@@ -94,3 +94,213 @@ Paterson, NJ               ; 40.9168 ; -74.1718
 Pawtucket, RI              ; 41.8787 ; -71.3826
 Providence, RI             ; 41.8240 ; -71.4128
 Springfield, MA            ; 42.1015 ; -72.5898
+
+* Europe's top flights and Liga MX. Keyed as the team data spells the city,
+* so "Rheims", "Havre", "St.Pauli", "Chievo" and "Reggiana" stay as they are.
+* Wrong or garbled strings get no row until the team data is fixed:
+* "Birminghamn", "Manchester City", "Hertfordshire", "Cagliario",
+* "Tampaulipas", "Zacatepeca", "Avignon, Belgium", "Pescara, France",
+* "León, México", "Orizaba, Veracruz", "Xochitepec, Morelos". "Swansea,
+* England" is Wales, but the row keeps the league's map whole.
+Barnsley, England          ; 53.5526 ; -1.4797
+Birmingham, England        ; 52.4862 ; -1.8904
+Blackburn, England         ; 53.7486 ; -2.4870
+Blackpool, England         ; 53.8175 ; -3.0357
+Bradford, England          ; 53.7960 ; -1.7594
+Burnley, England           ; 53.7893 ; -2.2405
+Derby, England             ; 52.9225 ; -1.4746
+Horwich, England           ; 53.5926 ; -2.5480
+Ipswich, England           ; 52.0567 ; 1.1482
+Kingston upon Hull, England ; 53.7676 ; -0.3274
+Leeds, England             ; 53.8008 ; -1.5491
+Leicester, England         ; 52.6369 ; -1.1398
+Liverpool, England         ; 53.4084 ; -2.9916
+London, England            ; 51.5074 ; -0.1278
+Manchester, England        ; 53.4808 ; -2.2426
+Middlesbrough, England     ; 54.5742 ; -1.2350
+Newcastle, England         ; 54.9783 ; -1.6178
+Norwich, England           ; 52.6309 ; 1.2974
+Oldham, England            ; 53.5409 ; -2.1114
+Portsmouth, England        ; 50.8198 ; -1.0880
+Reading, England           ; 51.4543 ; -0.9781
+Sheffield, England         ; 53.3811 ; -1.4701
+South Norwood, England     ; 51.3980 ; -0.0757
+Southampton, England       ; 50.9097 ; -1.4044
+Stoke-on-Trent, England    ; 53.0027 ; -2.1794
+Sunderland, England        ; 54.9069 ; -1.3838
+Swansea, England           ; 51.6214 ; -3.9436
+Swindon, England           ; 51.5558 ; -1.7797
+West Bridgford, England    ; 52.9314 ; -1.1266
+West Bromwich, England     ; 52.5187 ; -1.9945
+Wigan, England             ; 53.5450 ; -2.6325
+Wimbledon, England         ; 51.4214 ; -0.2064
+Wolverhampton, England     ; 52.5870 ; -2.1288
+Cardiff, Wales             ; 51.4816 ; -3.1791
+Ajaccio, France            ; 41.9192 ; 8.7386
+Auxerre, France            ; 47.7982 ; 3.5673
+Bastia, France             ; 42.6973 ; 9.4509
+Bordeaux, France           ; 44.8378 ; -0.5792
+Boulogne-sur-Mer, France   ; 50.7264 ; 1.6147
+Brest, France              ; 48.3904 ; -4.4861
+Caen, France               ; 49.1829 ; -0.3707
+Cannes, France             ; 43.5528 ; 7.0174
+Châteauroux, France        ; 46.8103 ; 1.6914
+Dijon, France              ; 47.3220 ; 5.0415
+Fos-sur-Mer, France        ; 43.4378 ; 4.9448
+Gaillard, France           ; 46.1856 ; 6.2075
+Grenoble, France           ; 45.1885 ; 5.7245
+Gueugnon, France           ; 46.6033 ; 4.0619
+Guingamp, France           ; 48.5634 ; -3.1508
+Havre, France              ; 49.4944 ; 0.1079
+Le Mans, France            ; 48.0061 ; 0.1996
+Lens, France               ; 50.4322 ; 2.8333
+Lille, France              ; 50.6292 ; 3.0573
+Lorient, France            ; 47.7483 ; -3.3700
+Lyon, France               ; 45.7640 ; 4.8357
+Marseille, France          ; 43.2965 ; 5.3698
+Martigues, France          ; 43.4053 ; 5.0475
+Metz, France               ; 49.1193 ; 6.1757
+Montbeliard, France        ; 47.5101 ; 6.7983
+Montpellier, France        ; 43.6108 ; 3.8767
+Nancy, France              ; 48.6921 ; 6.1844
+Nantes, France             ; 47.2184 ; -1.5536
+Nice, France               ; 43.7102 ; 7.2620
+Paris, France              ; 48.8566 ; 2.3522
+Rennes, France             ; 48.1173 ; -1.6778
+Rheims, France             ; 49.2583 ; 4.0317
+Saint-Étienne, France      ; 45.4397 ; 4.3872
+Sedan, France              ; 49.7019 ; 4.9405
+Strasbourg, France         ; 48.5734 ; 7.7521
+Toulouse, France           ; 43.6047 ; 1.4442
+Troyes, France             ; 48.2973 ; 4.0744
+Valenciennes, France       ; 50.3570 ; 3.5235
+Fontvielle, Monaco         ; 43.7328 ; 7.4197
+Aachen, Germany            ; 50.7753 ; 6.0839
+Augsburg, Germany          ; 48.3705 ; 10.8978
+Bielefeld, Germany         ; 52.0302 ; 8.5325
+Bochum, Germany            ; 51.4818 ; 7.2162
+Braunschweig, Germany      ; 52.2689 ; 10.5268
+Bremen, Germany            ; 53.0793 ; 8.8017
+Cologne, Germany           ; 50.9375 ; 6.9603
+Cottbus, Germany           ; 51.7563 ; 14.3329
+Dortmund, Germany          ; 51.5136 ; 7.4653
+Duisburg, Germany          ; 51.4344 ; 6.7623
+Düsseldorf, Germany        ; 51.2277 ; 6.7735
+Frankfurt, Germany         ; 50.1109 ; 8.6821
+Freiburg im Breisgau, Germany ; 47.9990 ; 7.8421
+Fürth, Germany             ; 49.4771 ; 10.9887
+Gelsenkirchen, Germany     ; 51.5177 ; 7.0857
+Hamburg, Germany           ; 53.5511 ; 9.9937
+Hannover, Germany          ; 52.3759 ; 9.7320
+Hoffenheim, Germany        ; 49.2456 ; 8.8873
+Kaiserslautern, Germany    ; 49.4401 ; 7.7491
+Karlsruhe, Germany         ; 49.0069 ; 8.4037
+Krefeld, Germany           ; 51.3388 ; 6.5853
+Leverkusen, Germany        ; 51.0459 ; 7.0192
+Mainz, Germany             ; 49.9929 ; 8.2473
+Mönchengladbach, Germany   ; 51.1805 ; 6.4428
+Munich, Germany            ; 48.1351 ; 11.5820
+Nuremberg, Germany         ; 49.4521 ; 11.0767
+Rostock, Germany           ; 54.0924 ; 12.0991
+St.Pauli, Germany          ; 53.5500 ; 9.9600
+Stuttgart, Germany         ; 48.7758 ; 9.1829
+Ulm, Germany               ; 48.4011 ; 9.9876
+Unterhaching, Germany      ; 48.0658 ; 11.6167
+Wolfsburg, Germany         ; 52.4227 ; 10.7865
+Ancona, Italy              ; 43.6158 ; 13.5189
+Ascoli Piceno, Italy       ; 42.8537 ; 13.5750
+Bari, Italy                ; 41.1171 ; 16.8719
+Bergamo, Italy             ; 45.6983 ; 9.6773
+Bologna, Italy             ; 44.4949 ; 11.3426
+Brescia, Italy             ; 45.5416 ; 10.2118
+Catania, Italy             ; 37.5079 ; 15.0830
+Cesena, Italy              ; 44.1391 ; 12.2431
+Chievo, Italy              ; 45.4570 ; 10.9540
+Como, Italy                ; 45.8081 ; 9.0852
+Empoli, Italy              ; 43.7188 ; 10.9470
+Florence, Italy            ; 43.7696 ; 11.2558
+Genoa, Italy               ; 44.4056 ; 8.9463
+Lecce, Italy               ; 40.3515 ; 18.1750
+Livorno, Italy             ; 43.5485 ; 10.3106
+Messina, Italy             ; 38.1938 ; 15.5540
+Milan, Italy               ; 45.4642 ; 9.1900
+Modena, Italy              ; 44.6471 ; 10.9252
+Naples, Italy              ; 40.8518 ; 14.2681
+Novara, Italy              ; 45.4469 ; 8.6222
+Palermo, Italy             ; 38.1157 ; 13.3615
+Parma, Italy               ; 44.8015 ; 10.3279
+Perugia, Italy             ; 43.1107 ; 12.3908
+Piacenza, Italy            ; 45.0526 ; 9.6930
+Reggiana, Italy            ; 44.6989 ; 10.6297
+Reggio Calabria, Italy     ; 38.1105 ; 15.6613
+Rome, Italy                ; 41.9028 ; 12.4964
+Salerno, Italy             ; 40.6824 ; 14.7681
+Siena, Italy               ; 43.3188 ; 11.3308
+Treviso, Italy             ; 45.6669 ; 12.2430
+Turin, Italy               ; 45.0703 ; 7.6869
+Udine, Italy               ; 46.0711 ; 13.2346
+Venice, Italy              ; 45.4408 ; 12.3155
+Verona, Italy              ; 45.4384 ; 10.9916
+A Coruña, Spain            ; 43.3623 ; -8.4115
+Albacete, Spain            ; 38.9943 ; -1.8585
+Alicante, Spain            ; 38.3452 ; -0.4810
+Almendralejo, Spain        ; 38.6833 ; -6.4075
+Almeria, Spain             ; 36.8340 ; -2.4637
+Barcelona, Spain           ; 41.3874 ; 2.1686
+Bilbao, Spain              ; 43.2630 ; -2.9350
+Cádiz, Spain               ; 36.5271 ; -6.2886
+Elche, Spain               ; 38.2699 ; -0.7126
+Getafe, Spain              ; 40.3057 ; -3.7329
+Gijon, Spain               ; 43.5322 ; -5.6611
+Granada, Spain             ; 37.1773 ; -3.5986
+Huelva, Spain              ; 37.2614 ; -6.9447
+Jerez de la Frontera, Spain ; 36.6850 ; -6.1261
+Las Palmas de Gran Canaria, Spain ; 28.1235 ; -15.4363
+Logroño, Spain             ; 42.4627 ; -2.4450
+Madrid, Spain              ; 40.4168 ; -3.7038
+Malaga, Spain              ; 36.7213 ; -4.4214
+Mérida, Spain              ; 38.9161 ; -6.3437
+Murcia, Spain              ; 37.9922 ; -1.1307
+Oviedo, Spain              ; 43.3619 ; -5.8494
+Palma, Spain               ; 39.5696 ; 2.6502
+Pamplona, Spain            ; 42.8125 ; -1.6458
+Salamanca, Spain           ; 40.9701 ; -5.6635
+San Sebastian, Spain       ; 43.3183 ; -1.9812
+Santa Cruz de Tenerife, Spain ; 28.4636 ; -16.2518
+Santander, Spain           ; 43.4623 ; -3.8100
+Santiago de Compostela, Spain ; 42.8782 ; -8.5448
+Seville, Spain             ; 37.3891 ; -5.9845
+Soria, Spain               ; 41.7636 ; -2.4649
+Tarragona, Spain           ; 41.1189 ; 1.2445
+Valencia, Spain            ; 39.4699 ; -0.3763
+Valladolid, Spain          ; 41.6523 ; -4.7245
+Vigo, Spain                ; 42.2406 ; -8.7207
+Villarreal, Spain          ; 39.9378 ; -0.1015
+Vitoria-Gasteiz, Spain     ; 42.8467 ; -2.6716
+Zaragoza, Spain            ; 41.6488 ; -0.8891
+The Hague, Netherlands     ; 52.0705 ; 4.3007
+Aguascalientes, Mexico     ; 21.8853 ; -102.2916
+Cancún, Mexico             ; 21.1619 ; -86.8515
+Celaya, Mexico             ; 20.5235 ; -100.8157
+Ciudad Juárez, Mexico      ; 31.6904 ; -106.4245
+Ciudad Neza, Mexico        ; 19.4006 ; -99.0148
+Ciudad Victoria, Mexico    ; 23.7369 ; -99.1411
+Cuautla, Mexico            ; 18.8120 ; -98.9547
+Culiacán, Mexico           ; 24.8091 ; -107.3940
+Guadalajara, Mexico        ; 20.6597 ; -103.3496
+Irapuato, Mexico           ; 20.6767 ; -101.3542
+La Piedad, Mexico          ; 20.3428 ; -102.0327
+León, Mexico               ; 21.1250 ; -101.6860
+Mexico City, Mexico        ; 19.4326 ; -99.1332
+Morelia, Mexico            ; 19.7060 ; -101.1950
+Nezahualcóyotl, Mexico     ; 19.4006 ; -99.0148
+Oaxtepec, Mexico           ; 18.9050 ; -98.9750
+Pachuca, Mexico            ; 20.1011 ; -98.7591
+Puebla, Mexico             ; 19.0414 ; -98.2063
+Querétaro, Mexico          ; 20.5888 ; -100.3899
+San Luis Potosí, Mexico    ; 22.1565 ; -100.9855
+Tijuana, Mexico            ; 32.5149 ; -117.0382
+Toluca, Mexico             ; 19.2826 ; -99.6557
+Torreon, Mexico            ; 25.5428 ; -103.4068
+Tuxtla Gutiérrez, Mexico   ; 16.7516 ; -93.1029
+Zamora de Hidalgo, Mexico  ; 19.9833 ; -102.2833
