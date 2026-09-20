@@ -1,7 +1,8 @@
 
 usa = {
 
-    'St. Louis City': 'Saint Louis City SC',
+     'Mt Vernon': 'Mt. Vernon',
+
 
     'Colorado Switchbacks': 'Colorado Springs Switchbacks FC',
     'Notre Dame University': 'University of Notre Dame',
@@ -571,6 +572,12 @@ usa = {
     'University of California Berkeley': 'University of California, Berkeley',
 
     'UM-Baltimore County': 'University of Maryland, Baltimore County',
+    'University of Maryland Baltimore County': 'University of Maryland, Baltimore County',
+
+    'CAL FC': 'Cal FC',
+    'Veteran FC, Philadelphia': 'Veteran FC (Philadelphia)',
+    'German-Hungarian': 'German Hungarian',
+
     'Denver University': 'University of Denver',
 
      'Cal State Sacramento': 'California State University, Sacramento',
@@ -743,6 +750,9 @@ usa = {
     'NYC FC': 'New York City FC',
     'NYCFC': 'New York City FC',
     'New York City Football Club': 'New York City FC',
+
+    'St. Louis City': 'Saint Louis City SC',
+    'San Diego Football Club': 'San Diego FC',
 
     'NY/NJ Metrostars': 'New York Red Bulls',
     'Metrostars': 'New York Red Bulls',

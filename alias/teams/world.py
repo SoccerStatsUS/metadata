@@ -1,5 +1,11 @@
 world = {
 
+    'Barrio Mexico': 'Barrio México',
+
+
+
+
+
     'Ciudad Madero': 'CF Ciudad Madero',
 
     'German American S.C.': 'German-American SC',
@@ -899,16 +905,15 @@ world = {
 
     'Olympiakos Nicosia (Cyp)': 'Olympiakos Nicosia',
 
-
-
-
+    'Linfield F.C.': 'Linfield FC',
+    'Cordoba CF': ' Córdoba CF',
 
     'Athlone Town (Irl)': 'Athlone Town',
 
-    'Vikingur Reykjavik (Isl)': 'Vikingur Reykjavik',
-    'Vikingur Reykjavik': 'Vikingur',
-
-
+    'Vikingur Reykjavik (Isl)': 'Víkingur Reykjavík',
+    'Vikingur Reykjavik': 'Víkingur Reykjavík',
+    'Vikingur': 'Víkingur Reykjavík',
+    
     'Dnepr Dnepropetrovsk (URS)': 'Dnepr Dnepropetrovsk',
     'Dnepr Dnepropetrovsk': 'Dnipro Dnipropetrovsk',
 
@@ -2631,7 +2636,9 @@ world = {
     'SV Muenster': 'SV Munster',
     
     'Girona': 'Girona FC',
-    'Luton Town': 'Luton Town F.C.',
+
+
+    
     'National Fast Club': 'National Fast Clube',
     'Coleraine (Northern Ireland)': 'Coleraine F.C.',
     'Coleraine': 'Coleraine F.C.',
@@ -3119,6 +3126,8 @@ world = {
 
     'Real Sociedad (San Sebastián)': 'Real Sociedad',
     'Real Sociedad (Esp)': 'Real Sociedad',
+
+    'San Sebastian de Leon': 'San Sebastián de León',
 
     'Las Palmas': 'UD Las Palmas',
 
@@ -5095,7 +5104,8 @@ world = {
     'Birmingham': 'Birmingham City',
     'Birmingham City F.C.': 'Birmingham City',
 
-    'Blackpool': 'Blackpool F.C.',
+    'Blackpool': 'Blackpool FC',
+    'Blackpool F.C.': Blackpool FC',
  
     'Bristol (England)': 'Bristol City',
     'Bristol City F.C.': 'Bristol City', 
@@ -5123,7 +5133,9 @@ world = {
     'Everton F.C.': 'Everton',
     'Everton (Eng)': 'Everton',
 
-    'Fulham - England': 'Fulham',
+    'Fulham - England': 'Fulham FC',
+    'Fulham': 'Fulham FC',
+    'Fulham F.C.': 'Fulham FC',
 
     'Huddersfield Town F.C.': 'Huddersfield Town',
 
@@ -5176,11 +5188,15 @@ world = {
 
     'Blackburn': 'Blackburn Rovers',
 
+     'Luton Town': 'Luton Town FC',
+     'Luton Town F.C.': 'Luton Town FC',
+
     'Newcastle - England': 'Newcastle United',     
     'Newcastle U': 'Newcastle United',     
     'Newcastle': 'Newcastle United',    
     'Newcastle United - England': 'Newcastle United',
     'Newcastle United F.C.': 'Newcastle United',
+    'Newcastle United FC': 'Newcastle United',
     
     'Norwich': 'Norwich City',
     'Norwich City F.C.': 'Norwich City',
@@ -6930,6 +6946,9 @@ world = {
     'Esteli': 'Real Estelí F.C.',
     'Real Esteli': 'Real Estelí F.C.',
     'Real Estelí': 'Real Estelí F.C.',
+    'Real Estelí FC': 'Real Estelí F.C.',
+
+
 
     # Panama
     #Projusa (Veraguas)
@@ -7187,6 +7206,8 @@ world = {
     'Club America': 'Club América',
     'Club America - Mexico': 'Club América',
     'Club America -- Mexico': 'Club América',
+    'CF América (MEX)': 'Club América',
+    'CF América': 'Club América',
 
     'Asturias': 'CF Asturias',
     'Club Asturias': 'CF Asturias',
