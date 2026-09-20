@@ -28,7 +28,7 @@ usa = {
     
     'Des Moines Menace USASA': 'Des Moines Menace',
 
-    'NYCFC': 'New York City FC',
+
 
     'Dunlevy SC': 'Dunlevy',
 
@@ -741,6 +741,8 @@ usa = {
     'NE Revolution': 'New England Revolution',
 
     'NYC FC': 'New York City FC',
+    'NYCFC': 'New York City FC',
+    'New York City Football Club': 'New York City FC',
 
     'NY/NJ Metrostars': 'New York Red Bulls',
     'Metrostars': 'New York Red Bulls',
@@ -749,12 +751,16 @@ usa = {
     'NY/NJ MetroStars': 'New York Red Bulls',
     'NY Red Bulls': 'New York Red Bulls',
     'Red Bull New York': 'New York Red Bulls',
+    'New York RB': 'New York Red Bulls',
 
     'Columbus Crew SC': 'Columbus Crew',
 
     'Chicago Fire FC': 'Chicago Fire',
-    'CF Montreal': 'Montreal Impact',
-    'CF Montréal': 'Montreal Impact',
+
+    'CF Montreal': 'Impact de Montréal',
+    'CF Montréal': 'Impact de Montréal',
+    'Montreal Impact': 'Impact de Montréal',
+
     'St. Louis City SC': 'St. Louis City',
     'Timbers2': 'Portland Timbers 2',
 

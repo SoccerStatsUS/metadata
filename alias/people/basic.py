@@ -2,6 +2,8 @@
 basic = {
     'Bryan Rochez': 'Bryan Róchez',
     'Sebastian Hines': 'Seb Hines',
+
+    'Adolf Bachmeier': 'Adolph Bachmeier',
     
 
     'Josh Yaro': 'Joshua Yaro',
