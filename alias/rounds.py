@@ -1,6 +1,8 @@
 #!/usr/local/bin/env python
 # -*- coding: utf-8 -*-
 
+import re
+
 
 def get_round(s):
     """
@@ -10,6 +12,7 @@ def get_round(s):
     s = str(s)
 
     s = s.strip()
+    s = re.sub(r'^(?:matchday|week)\s+(?=\d)', '', s, flags=re.IGNORECASE)
     if s in rounds:
         return get_round(rounds[s])
     else:

@@ -31,7 +31,7 @@ l = [
         },
 
     {
-        'name': 'CAI de La Chorrera',
+        'name': 'Independiente de La Chorrera',
         'founded': 1982,
         'city': 'La Chorrera, Panama',
         },

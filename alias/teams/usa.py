@@ -1,7 +1,44 @@
 
 usa = {
+     'Tucson FC': 'FC Tucson',
+     'LA Wolves FC': 'LA Wolves',
+     'Orange County FC': 'Orange County SC',
+     'Phoenix Rising': 'Phoenix Rising FC',
+     'Burlingame Dragons FC': 'Burlingame Dragons',
+     'HFX Wanderers FC': 'HFX Wanderers',
+     'Montreal Italica': 'Italica Montreal',
+     'Jersey Express SC': 'Jersey Express',
+     'Lansing Ignite FC': 'Lansing Ignite',
+     'Las Vegas Legends FC': 'Las Vegas Legends',
+     'Las Vegas Lights FC': 'Las Vegas Lights',
+     'Louisville City': 'Louisville City FC',
+     'Memphis 901': 'Memphis 901 FC',
+     'Midland-Odessa Sockers FC': 'Midland-Odessa Sockers',
+     'Midland/Odessa Sockers': 'Midland-Odessa Sockers',
+     'Oklahoma City Energy FC': 'Oklahoma City Energy',
+     'Red Force FC': 'Red Force',
+     'Sporting Arizona': 'Sporting Arizona FC',
+     'The Villages FC': 'The Villages SC',
+     'Austin Bold FC': 'Austin Bold',
+     'Birmingham Legion FC': 'Birmingham Legion',
+     'Boca Raton Football Club': 'Boca Raton FC',
+     'Brazos Valley Cavalry FC': 'Brazos Valley Cavalry',
+     'Erie Commodores FC': 'Erie Commodores',
+
+     'Forward Madison': 'Forward Madison FC',
+     'Greenville Triumph SC': 'Greenville Triumph',
+     'Houston Dutch Lions FC': 'Houston Dutch Lions',
+     'West Chester United SC': 'West Chester United',
+     'South Georgia Tormenta FC': 'South Georgia Tormenta',
+
+     'Jacksonville Armada FC': 'Jacksonville Armada',
+     'Bay': 'Bay FC',
+
+     'Inter Brooklyn Italians': 'Brooklyn Italians Inter',
+     'Tulsa Roughnecks FC': 'Tulsa Roughnecks',
 
      'Mt Vernon': 'Mt. Vernon',
+     'Harpo\'s FC': 'Harpos FC',
 
 
     'Colorado Switchbacks': 'Colorado Springs Switchbacks FC',
@@ -310,6 +347,8 @@ usa = {
     'Bronx United FC': 'Bronx United',
 
     'Wolfen. Shore': 'Wolfenden Shore',
+
+    'Reno 1868 FC': 'Reno 1868',
 
     'Sears-Roebuck of Dallas': 'Dallas Sears-Roebuck',
     'St. Louis Screw Company': 'St. Louis Screw',

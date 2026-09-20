@@ -144,11 +144,6 @@ l = [
         },
 
     {
-        'name': 'St. Louis AC',
-        'city': 'St. Louis, MO',
-        },
-
-    {
         'name': 'St. Louis Olympics',
         'city': 'St. Louis, MO',
         },

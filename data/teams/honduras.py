@@ -72,10 +72,6 @@ l = [
         'city': 'Choluteca, Honduras',
         },
 
-    {
-        'name': 'Broncos',
-        'city': 'Choluteca, Honduras',
-        },
 
     {
         'name': 'Real Juventud',
@@ -147,6 +143,12 @@ l = [
         'name': 'Pumas UNAH',
         'founded': datetime.datetime(1965, 12, 12),
         'city': 'Choluteca, Honduras',
+        },
+
+    {
+        'name': 'Honduras Progreso',
+        'founded': datetime.datetime(1965, 11, 7),
+        'city': 'El Progreso, Honduras',
         },
 
 ]

@@ -13,6 +13,12 @@ l = [
         },
 
     {
+        'name': 'CD Guastatoya',
+        'founded': 1990,
+        'city': 'Guastatoya, Guatemala',
+        },
+
+    {
         'name': 'Deportivo Nueva Concepción',
         'city': 'Nueva Concepción, Guatemala',
         },

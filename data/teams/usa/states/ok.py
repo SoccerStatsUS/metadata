@@ -11,11 +11,6 @@ l = [
         'city': 'Oklahoma City, OK',
         },
 
-    {
-        'name': 'Tulsa Roughnecks FC',
-        'founded': 2013,
-        'city': 'Tulsa, OK',
-        },
 
     {
         'name': 'Tulsa Athletics',
@@ -41,6 +36,12 @@ l = [
         'name': 'Tulsa Roughnecks',
         'founded': 1978,
         'dissolved': 1984,
+        'city': 'Tulsa, OK',
+        },
+
+    {
+        'name': 'FC Tulsa',
+        'founded': datetime.datetime(2013, 12,18),
         'city': 'Tulsa, OK',
         },
 

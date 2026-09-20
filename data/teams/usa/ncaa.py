@@ -68,11 +68,6 @@ l = [
         'city': 'Montreal, QC',
         },
 
-    {
-        'name': 'University of Maryland Baltimore County',
-        'city': 'Baltimore, MD',
-        },
-
 
     {
         'name': 'West Chester University of Pennsylvania',

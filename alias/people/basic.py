@@ -1,5 +1,44 @@
 
 basic = {
+
+    'DJ Taylor': 'D.J. Taylor',
+    'JJ Williams': 'J.J. Williams',
+    'O’Brian Woodbine': 'O\'Brian Woodbine',
+
+    'Jean Eudes Maurice': 'Jean-Eudes Maurice',
+    
+    'AJ Cochran': 'A.J. Cochran',
+
+    # fix source!
+    'Allan AlemÃ¡n': 'Allan Aleman',
+    'Ã�lvaro Guerrero': 'Álvaro Guerrero',
+    'Andrew Gutman*': 'Andrew Gutman',
+    'Marvin Ã�vila': 'Marvin Ávila',
+    'Victor SÃ¡nchez': 'Víctor Sánchez',
+    'Fausto GonzÃ¡lez': 'Fausto Gonzalez',
+
+    'Amber O’Connor': 'Amber O\'Connor',
+    'Monica O\'Campo': 'Monica Ocampo',
+    'Enda O’Neill': 'Enda O\'Neill',
+
+    'Guido Gonzales Jr': 'Guido Gonzales Jr.',
+    'Jose Landa Jr': 'Jose Landa Jr.',
+    'Ramon Bermudez Jr': 'Ramon Bermudez Jr.',
+    
+    'Bismark Adjei Boateng': 'Bismark Adjei-Boateng', # nana boateng?
+    'Mark Anthony Kaye': ' Mark-Anthony Kaye',
+    'Nelson Haedo-Valdez': ' Nelson Haedo Valdez',
+    'Rais M\'Bolhi': 'Raïs Mbolhi',
+
+    'Seth C\'Debaca': 'Seth C\'deBaca',
+    'Seth C’Debaca': 'Seth C\'deBaca',    
+    'Seth c’DeBaca': 'Seth C\'deBaca',    
+
+    'Khalaf Al Latayfeh': ' Khalaf Al-Latayfeh', # REF
+    'Paulo Ferreira Mendes': 'Paulo Ferreira-Mendes',
+
+
+
     'Bryan Rochez': 'Bryan Róchez',
     'Sebastian Hines': 'Seb Hines',
 
@@ -510,7 +549,7 @@ basic = {
     'Juan Velez': 'Juan Vélez',
     'Mark Declouet': 'Mark DeClouet',
     'Yosmel De Armas': 'Yosmel de Armas',
-    'Seth c’DeBaca': 'Seth C\'deBaca',
+
     'Don D\'ambra': 'Don D\'Ambra',
     'Kyle Mccord': 'Kyle McCord',
     'Santiago Martínez': 'Santiago Martinez',
@@ -10981,7 +11020,7 @@ basic = {
     'Chris W. Schuler': 'Chris Schuler',
     'Chris Wanamaker': 'Chris Wannamaker',
     'Chris Wentzien': 'Chris Wentien',
-    'Ciaran O Brien': 'Ciaran O\'Brien',
+
     'Craig Dalyrumple': 'Craig Dalrymple',
     'Czeslaw Zajac': 'Czeslan Zajac',
     'Cuauhtemoc (Temoc) Suarez': 'Temoc Suarez',
@@ -11498,7 +11537,6 @@ basic = {
     'Israel Martinez': 'Israel Martínez',
     'Sebastian Rozental': 'Sebastián Rozental',
     'Efrain Herrera': 'Efraín Herrera',
-    'Ciaran O’Brien': 'Ciaran O\Brien',
     'Freddy Leon': 'Freddy León',
     
     'Bérnard Mullins': 'Bernard Mullins',
@@ -12371,17 +12409,11 @@ basic = {
     'Jose Francisco Torres': 'José Francisco Torres',
     
     
-    
-    
-    
-    
-    
     'AJ Soares': 'A.J. Soares',
     'AJ DeLaGarza': 'A.J. DeLaGarza',
     'Ashley Mcinnes': 'Ashley McInnes',
     'Brandon Mcdonald': 'Brandon McDonald',
     'CJ Brown': 'C.J. Brown',
-    'Ciaran O\Brien': 'Ciaran O\'Brien',
     'DJ Countess': 'D.J. Countess',
     'Hamisi Amani-dove': 'Hamisi Amani-Dove',
     'Jay Demerit': 'Jay DeMerit',

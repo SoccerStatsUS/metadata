@@ -133,12 +133,6 @@ l = [
         },
 
     {
-        'name': 'Naggo Head FC',
-        'founded': 1979,
-        'city': 'Portmore, Jamaica',
-        },
-
-    {
         'name': 'Montego Bay United',
         'founded': 1972,
         'city': 'Montego Bay, Jamaica',
@@ -1130,6 +1124,19 @@ l = [
         },
 
     {
+        'name': 'Arcahaie FC',
+        'founded': 2017,
+        'city': 'Arcahaie, Haiti',
+        },
+
+
+    {
+        'name': 'Real Hope',
+        'founded': datetime.datetime(2014, 3, 14),
+        'city': 'Cap-Haïtien, Haiti',
+        },
+
+    {
         'name': 'Don Bosco',
         'city': 'Petionville, Haiti',
         },
@@ -1300,6 +1307,13 @@ l = [
         },
 
     {
+        'name': 'Police United',
+        'founded': 2012,
+        'city': 'Belmopan, Belize',
+        },
+
+
+    {
         'name': 'La Victoria',
         'city': 'Corozal, Belize',
         },
@@ -1391,8 +1405,6 @@ l = [
         'founded': datetime.datetime(1958, 10, 12),
         'city': 'Piedra Plat, Aruba',
         },
-
-
 
 
 
@@ -1777,8 +1789,16 @@ l = [
     {
         'name': 'Indios de Ciudad Juárez',
         'founded': 2005,
+        'dissolved': datetime.datetime(2011, 12, 31),
         'city': 'Ciudad Juarez, Mexico',
         },
+
+    {
+        'name': 'FC Juárez',
+        'founded': datetime.datetime(2015, 5, 29),
+        'city': 'Ciudad Juarez, Mexico',
+        },
+
 
     {
         'name': 'CD Irapuato',
@@ -1787,7 +1807,7 @@ l = [
         },
 
     {
-        'name': 'Jaguares de Chiapas',
+        'name': 'Jaguares FC',
         'founded': datetime.datetime(2002, 6, 27),
         'city': 'Tuxtla Gutiérrez, Mexico',
         },
@@ -1826,6 +1846,14 @@ l = [
         'founded': 1957,
         'city': 'Ciudad Madero, Tamaulipas, Mexico',
         },
+
+    {
+        'name': 'Mazatlán FC',
+        'founded': datetime.datetime(2020, 6, 2),
+        'dissolved': datetime.datetime(2026, 4, 25),
+        'city': 'Mazatlán, Mexico',
+        },
+
 
     {
         'name': 'CD Marte (Mexico)',
@@ -2086,10 +2114,26 @@ l = [
         'city': 'Brades, Montserrat',
         },
 
+    # Dominican Republic
+
+    {
+        'name': 'Cibao FC',
+        'city': 'Santiago de los Caballeros, Dominican Republic',
+        'founded': 2015,
+        },
+
+    {
+        'name': 'Atlético Pantoja',
+        'city': 'Santo Domingo, Dominican Republic',
+        'founded': datetime.datetime(1999, 2, 1),
+        },
 
 
+    {
+        'name': 'Moca FC',
+        'city': 'Moca, Dominican Republic',
+        'founded': 1971,
+        },
 
-
-    
 
 ]
