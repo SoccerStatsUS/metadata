@@ -112,6 +112,7 @@ international = {
     'Panamá': 'Panama',
     'Suiza': 'Switzerland',
     'Turquía': 'Turkey',
+    'Türkiye': 'Turkey',
     'Alemania': 'Germany',
     'Croacia': 'Croatia',
     'Francia': 'France',
@@ -164,6 +165,7 @@ international = {
     'Saint Vincent and Grenadines': 'Saint Vincent and the Grenadines',
     'St. Vincent and Grenadines': 'Saint Vincent and the Grenadines',
     'Netherlands Antilles': 'Curacao',
+    'Curaçao': 'Curacao',
 
     'Demerara': 'Guyana',
     'British Guyana': 'Guyana',
