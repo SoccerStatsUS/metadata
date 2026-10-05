@@ -106,5 +106,21 @@ l = [
     {
         'name': 'Jesse Owens Memorial Stadium',
         'location': 'Columbus, OH',
-        },        
-    ]
+        },
+
+    {
+        'name': 'ScottsMiracle-Gro Field',
+        'location': 'Columbus, OH',
+        },
+
+    {
+        'name': 'TQL Stadium',
+        'location': 'Cincinnati, OH',
+        },
+
+    {
+        'name': 'Nippert Stadium',
+        'location': 'Cincinnati, OH',
+        },
+
+]

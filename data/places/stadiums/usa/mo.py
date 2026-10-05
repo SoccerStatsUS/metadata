@@ -173,4 +173,15 @@ l = [
         'cost': 43000000,
         'architect': 'Kivett and Myers',
         },
-    ]
+
+    {
+        'name': 'Energizer Park',
+        'location': 'St. Louis, MO',
+        },
+
+    {
+        'name': 'CPKC Stadium',
+        'location': 'Kansas City, MO',
+        },
+
+]

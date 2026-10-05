@@ -250,5 +250,20 @@ l = [
         'name': 'Barker Family Stadium',
         'location': 'Winter Park, FL',
         },
-    
-    ]
+
+    {
+        'name': 'Inter&Co Stadium',
+        'location': 'Orlando, FL',
+        },
+
+    {
+        'name': 'Chase Stadium',
+        'location': 'Fort Lauderdale, FL',
+        },
+
+    {
+        'name': 'Nu Stadium',
+        'location': 'Miami, FL',
+        },
+
+]

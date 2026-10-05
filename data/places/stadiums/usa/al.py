@@ -24,4 +24,10 @@ l = [
         'architect': 'Gresham, Smith and Partners ',
         'capacity': 10800,
         },
+
+    {
+        'name': 'Jordan-Hare Stadium',
+        'location': 'Auburn, AL',
+        },
+
 ]

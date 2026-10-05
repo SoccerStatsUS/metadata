@@ -121,4 +121,10 @@ l = [
         'cost': 3700000,
         'capacity': 57583,
         },
-    ]
+
+    {
+        'name': 'Kenan Stadium',
+        'location': 'Chapel Hill, NC',
+        },
+
+]

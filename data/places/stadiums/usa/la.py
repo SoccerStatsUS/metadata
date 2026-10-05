@@ -18,5 +18,11 @@ l = [
         'name': 'Oakland Riding Park',
         'address': 'Metairie Road and Garden Lane',
         'location': 'New Orleans, LA',
-        }
-    ]
+        },
+
+    {
+        'name': 'Mercedes-Benz Superdome',
+        'location': 'New Orleans, LA',
+        },
+
+]

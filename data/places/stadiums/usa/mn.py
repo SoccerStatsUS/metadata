@@ -55,6 +55,15 @@ l = [
         'measure': 'yards',
         
         },
-    
-    
-    ]
+
+    {
+        'name': 'Allianz Field',
+        'location': 'Saint Paul, MN',
+        },
+
+    {
+        'name': 'U.S. Bank Stadium',
+        'location': 'Minneapolis, MN',
+        },
+
+]

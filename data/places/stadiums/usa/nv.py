@@ -16,5 +16,10 @@ l = [
         'cost': 3500000,
         'capacity': 36800,
         },
-    
-    ]
+
+    {
+        'name': 'Allegiant Stadium',
+        'location': 'Las Vegas, NV',
+        },
+
+]

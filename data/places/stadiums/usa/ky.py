@@ -24,4 +24,10 @@ l = [
         'opened': 1996,
         'location': 'Lexington, KY',
         },
-    ]
+
+    {
+        'name': 'Lynn Family Stadium',
+        'location': 'Louisville, KY',
+        },
+
+]

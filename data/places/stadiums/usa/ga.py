@@ -95,6 +95,10 @@ l = [
         'name': 'Adams Stadium',
         'location': 'Atlanta, GA',
         },
-    
-    
-    ]
+
+    {
+        'name': 'Mercedes-Benz Stadium',
+        'location': 'Atlanta, GA',
+        },
+
+]

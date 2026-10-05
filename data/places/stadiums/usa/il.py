@@ -196,7 +196,10 @@ l = [
         'name': 'McCully Field',
         'location': 'Chicago, IL',
         },
-    
-    
-    
-    ]
+
+    {
+        'name': 'SeatGeek Stadium',
+        'location': 'Bridgeview, IL',
+        },
+
+]

@@ -1199,6 +1199,27 @@ united_states = {
     'Andrés Quintana Roo': 'Estadio Quintana Roo',
     'Complexe sportif Claude-Robillard': 'Complexe Sportif Claude-Robillard',
 
+    # Current names, as espn gives them for every season.
+    'Shell Energy Stadium': 'BBVA Compass Stadium',
+    'Sports Illustrated Stadium': 'Red Bull Arena',
+    'NRG Stadium': 'Reliant Stadium',
+    'State Farm Stadium': 'University of Phoenix Stadium',
+    'Hard Rock Stadium': 'Sun Life Stadium',
+    'Dignity Health Sports Park': 'StubHub Center',
+    'PayPal Park': 'Avaya Stadium',
+    'Pratt & Whitney Stadium at Rentschler Field': 'Rentschler Field',
+    'Subaru Park': 'Talen Energy Stadium',
+    'Lumen Field': 'CenturyLink Field',
+    'GEHA Field at Arrowhead Stadium': 'Arrowhead Stadium',
+    'SDCCU Stadium': 'Qualcomm Stadium',
+    'Nissan Stadium, Nashville': 'LP Field',
+    'Huntington Bank Field': 'FirstEnergy Stadium',
+    'Empower Field at Mile High': 'Sports Authority Field at Mile High',
+    'Northwest Stadium': 'FedEx Field',
+    'Historic Crew Stadium': 'MAPFRE Stadium',
+    'Camping World Stadium': 'Citrus Bowl',
+    'TIAA Bank Field': 'EverBank Field',
+
 }
 
 sd.update(misc)

@@ -324,5 +324,15 @@ l = [
         'length': 107,
         'width': 68,
         },
-    
-    ]
+
+    {
+        'name': 'Q2 Stadium',
+        'location': 'Austin, TX',
+        },
+
+    {
+        'name': 'Kyle Field',
+        'location': 'College Station, TX',
+        },
+
+]

@@ -459,8 +459,26 @@ l = [
         'location': 'Sacramento, CA',
         'opened': datetime.datetime(2014, 6, 20),
         'capacity': 8000,
-        },        
-    
-    
-    
+        },
+
+    {
+        'name': 'SoFi Stadium',
+        'location': 'Inglewood, CA',
+        },
+
+    {
+        'name': "Levi's Stadium",
+        'location': 'Santa Clara, CA',
+        },
+
+    {
+        'name': 'Snapdragon Stadium',
+        'location': 'San Diego, CA',
+        },
+
+    {
+        'name': 'BMO Stadium',
+        'location': 'Los Angeles, CA',
+        },
+
 ]

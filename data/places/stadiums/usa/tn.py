@@ -52,4 +52,10 @@ l = [
         'capacity': 20668,
         'cost': 28500000,
         },
-    ]
+
+    {
+        'name': 'GEODIS Park',
+        'location': 'Nashville, TN',
+        },
+
+]
