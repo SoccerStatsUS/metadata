@@ -259,6 +259,16 @@ full_alias = {
     'Copa América': 'Copa America',
     #'Copa America': 'Copa América',
 
+    # espn
+    'Concacaf Gold Cup': 'Gold Cup',
+    'Concacaf Nations League': 'CONCACAF Nations League',
+    'FIFA World Cup Qualifying - Concacaf': 'FIFA World Cup qualification (CONCACAF)',
+    'FIFA World Cup Qualifying - CONMEBOL': 'FIFA World Cup qualification (CONMEBOL)',
+    'FIFA World Cup Qualifying - UEFA': 'FIFA World Cup qualification (UEFA)',
+    'FIFA World Cup Qualifying - CAF': 'FIFA World Cup qualification (CAF)',
+    'FIFA World Cup Qualifying - AFC': 'FIFA World Cup qualification (AFC)',
+    'FIFA World Cup Qualifying - OFC': 'FIFA World Cup qualification (OFC)',
+
     'Copa Caribe': 'Caribbean Cup',
     'Copa Caribe Qualifying': 'Caribbean Cup Qualifying',
 

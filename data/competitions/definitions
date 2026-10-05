@@ -325,6 +325,43 @@ Central American and Caribbean Games; CACG; soccer; international; Cup; 2; Confe
 Copa America; CA; soccer; international; Cup; 1; Confederation; CONMEBOL
 UEFA European Championship; EURO; soccer; international; Cup; 1; Confederation; UEFA
 
+FIFA World Cup Qualifying - Playoff Tournament; WCqP; soccer; international; Cup; 1; World; Earth
+CONMEBOL-UEFA Cup of Champions; FIN; soccer; international; Cup; 1; World; Earth
+Non-FIFA Friendly; NFF; soccer; international; ; ; World; Earth
+Intercontinental Cup (India); ICI; soccer; international; Cup; 3; Country; India
+Concacaf Gold Cup Qualifying; GCq; soccer; international; Cup; 1; Confederation; CONCACAF
+UEFA European Championship Qualifying; EUROq; soccer; international; Cup; 1; Confederation; UEFA
+UEFA Nations League; UNL; soccer; international; Cup; 1; Confederation; UEFA
+Africa Cup of Nations; AFCON; soccer; international; Cup; 1; Confederation; CAF
+Africa Cup of Nations Qualifying; AFCONq; soccer; international; Cup; 1; Confederation; CAF
+African Nations Championship; CHAN; soccer; international; Cup; 2; Confederation; CAF
+COSAFA Cup; COSAFA; soccer; international; Cup; 2; Confederation; CAF
+AFC Asian Cup; AC; soccer; international; Cup; 1; Confederation; AFC
+AFC Asian Cup Qualifiers; ACq; soccer; international; Cup; 1; Confederation; AFC
+ASEAN Championship; AFF; soccer; international; Cup; 2; Confederation; AFC
+SAFF Championship; SAFF; soccer; international; Cup; 2; Confederation; AFC
+Arabian Gulf Cup; AGC; soccer; international; Cup; 2; Confederation; AFC
+
+* women's national teams
+
+Women's International Friendly; WIF; women; international; ; ; World; Earth
+FIFA Women's World Cup; WWC; women; international; Cup; 1; World; Earth
+FIFA Women's World Cup Qualifying - UEFA; WWCqU; women; international; Cup; 1; Confederation; UEFA
+FIFA Women's World Cup Qualifying - Playoff Tournament; WWCqP; women; international; Cup; 1; World; Earth
+Women's Olympic Soccer Tournament; WOG; women; international; Cup; 1; World; Earth
+CONMEBOL-UEFA Women's Cup of Champions; WFIN; women; international; Cup; 1; World; Earth
+Concacaf W Championship; CWC; women; international; Cup; 1; Confederation; CONCACAF
+Concacaf W Gold Cup; WGC; women; international; Cup; 1; Confederation; CONCACAF
+Concacaf Women's Olympic Qualifying; WOGq; women; international; Cup; 1; Confederation; CONCACAF
+SheBelieves Cup; SBC; women; international; Cup; 2; Country; United States
+Copa América Femenina; CAF; women; international; Cup; 1; Confederation; CONMEBOL
+UEFA Women's European Championship; WEURO; women; international; Cup; 1; Confederation; UEFA
+UEFA Women's Nations League; WUNL; women; international; Cup; 1; Confederation; UEFA
+Pinatar Cup; PIN; women; international; Cup; 3; Country; Spain
+Arnold Clark Cup; ACC; women; international; Cup; 2; Country; England
+Women's Africa Cup of Nations; WAFCON; women; international; Cup; 1; Confederation; CAF
+AFC Women's Asian Cup; WAC; women; international; Cup; 1; Confederation; AFC
+
 * Amateur
 
 NCAA Division I; NCAA; soccer; domestic; Cup; 0; Country; United States

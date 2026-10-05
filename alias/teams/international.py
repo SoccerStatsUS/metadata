@@ -77,6 +77,17 @@ international = {
 
     'Bosnia-Herzegovina': 'Bosnia and Herzegovina',
     'Bosnia-Hercegov.': 'Bosnia and Herzegovina',
+
+    # espn
+    'Czechia': 'Czech Republic',
+    'Eswatini': 'Swaziland',
+    'North Macedonia': 'Macedonia',
+    'Kyrgyz Republic': 'Kyrgyzstan',
+    'Chinese Taipei': 'Taiwan',
+    'Brunei Darussalam': 'Brunei',
+    'Macau': 'Macao',
+    'St. Martin': 'Saint Martin',
+    'Tajikistan': 'Tajikstan',
     'St Croix': 'St. Croix',
     'United States Maccabiah': 'United States Maccabi',
     'USSR Olympic Team': 'USSR Olympic',
